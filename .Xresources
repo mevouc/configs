@@ -1,0 +1,28 @@
+*foreground:	rgb:cc/cc/cc
+*background:	rgb:12/12/12
+*transparent:	true
+*shading:	16
+*blurRadius:	8
+*scrollBar:	false
+
+*customization:	-color
+xterm*termName:	xterm-256color
+urxvt*termName:	rxvt-unicode-256color
+
+xterm*faceName: Lucida Console
+xterm*faceSize: 10
+
+urxvt*font: 	xft:Lucida Console:size=10
+urxvt*boldFont:	xft:Lucida Console:bold:size=10
+urxvt*color4:	RoyalBlue
+urxvt*color12:	RoyalBlue
+
+urxvt*keysym.Home:	\033[1~
+urxvt*keysym.End:	\033[4~
+urxvt*keysym.Alt-Escape:	perl:keyboard-select:activate
+
+urxvt*perl-ext-common: 	default,clipboard,keyboard-select
+urxvt*keysym.Alt-v:	perl:clipboard:paste
+urxvt*keysym.Alt-c:	perl:clipboard:paste
+urxvt*iso14755:		false
+urxvt*iso14755_52:	false

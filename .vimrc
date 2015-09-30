@@ -48,4 +48,4 @@ set textwidth=80
 set colorcolumn=+1
 highlight ColorColumn guibg=#121212 ctermbg=233
 
-au BufNewFile *.c 0r ~/.vim/templates/c.c
+Au BufNewFile *.c 0r ~/.vim/templates/c.c

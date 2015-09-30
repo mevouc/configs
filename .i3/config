@@ -180,7 +180,7 @@ client.focused		#888888	#d5d5d5	#080808	#080808
 client.urgent		#080808	#880000	#080808	#080808
 
 # exec_always feh --bg-scale ~/Pics/Wallpapers/LOTR/wallpaper-2848424.jpg
-exec_always feh --bg-scale ~/configs/wallpaper/
+exec_always feh --bg-scale ~/configs/wallpaper/picture
 exec_always xcompmgr -c -f -n
 exec_always i3-sensible-terminal
 exec_always setxkbmap fr dvorak

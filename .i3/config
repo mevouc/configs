@@ -126,7 +126,7 @@ bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec i3-msg exit
 
-bindsym $mod+l exec i3lock -e -i /home/mevouc/Pics/Wallpapers/Geek/SEXYBSOD.png -f -n
+bindsym $mod+l exec i3lock -e -i ~/configs/lockscreen/picture -f -n
 
 # sound volume up
 bindsym XF86AudioRaiseVolume exec amixer set Master 2%+

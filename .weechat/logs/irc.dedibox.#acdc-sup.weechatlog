@@ -1,0 +1,879 @@
+2015-08-11 17:11:52	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-11 17:11:52	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-11 17:11:52	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-11 17:11:52	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-11 17:11:54	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-11 17:13:05	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-11 17:13:05	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-11 17:13:05	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-11 17:13:05	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-11 17:13:19	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-11 17:18:15	<--	mevouc_ (mevouc@RZ-0nsbc4.epimeros.org) has left #acdc-sup ("AndroIRC - Android IRC Client ( http://www.androirc.com )")
+2015-08-11 18:05:23	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-11 18:05:23	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-11 18:05:23	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-11 18:05:23	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-08-11 18:05:36	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-11 20:06:21	-->	shepard (shepard@RZ-2l4suu.rev.poneytelecom.eu) has joined #acdc-sup
+2015-08-11 21:18:30	<--	Aerion (Thunderbird@RZ-re1.nip.187.176.IP) has quit (Connection closed)
+2015-08-11 21:18:33	-->	Aerion (Thunderbird@RZ-re1.nip.187.176.IP) has joined #acdc-sup
+2015-08-11 22:57:17	-->	Aerion1 (Thunderbird@RZ-re1.nip.187.176.IP) has joined #acdc-sup
+2015-08-11 22:57:29	<--	Aerion (Thunderbird@RZ-re1.nip.187.176.IP) has quit (Connection reset by peer)
+2015-08-12 01:00:13	-->	Issun (Issun@RZ-ohjfri.muio.80vo.41d0.2001.IP) has joined #acdc-sup
+2015-08-12 01:01:29	<--	Issun (Issun@RZ-ohjfri.muio.80vo.41d0.2001.IP) has quit (Self-Quit: ZNC - http://znc.in)
+2015-08-12 01:02:01	-->	Issun (Issun@RZ-ohjfri.muio.80vo.41d0.2001.IP) has joined #acdc-sup
+2015-08-12 01:29:10	<--	Issun (Issun@RZ-ohjfri.muio.80vo.41d0.2001.IP) has quit (Self-Quit: ZNC - http://znc.in)
+2015-08-12 01:29:16	-->	Issun (Issun@RZ-ohjfri.muio.80vo.41d0.2001.IP) has joined #acdc-sup
+2015-08-12 18:54:10	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-12 18:54:10	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-12 18:54:10	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-12 18:54:10	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-12 18:54:23	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-12 19:14:56	<--	Aerion (Thunderbird@RZ-re1.nip.187.176.IP) has quit (Client exited)
+2015-08-12 20:20:29	--	irc: disconnected from server
+2015-08-12 20:20:40	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-12 20:20:40	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-12 20:20:40	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-12 20:20:40	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-12 20:21:14	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-12 20:44:44	--	irc: disconnected from server
+2015-08-12 20:44:55	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-12 20:44:55	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-12 20:44:55	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-12 20:44:55	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-12 20:45:29	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-12 20:56:17	-->	Aerion (Thunderbird@RZ-re1.nip.187.176.IP) has joined #acdc-sup
+2015-08-13 13:04:17	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-13 13:04:17	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-13 13:04:17	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-13 13:04:17	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-13 13:04:32	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-13 13:48:13	<--	Aerion (Thunderbird@RZ-re1.nip.187.176.IP) has quit (Client exited)
+2015-08-13 19:33:33	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-13 19:33:33	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-13 19:33:33	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-13 19:33:33	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-13 19:33:46	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-13 20:32:13	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-13 20:32:13	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-13 20:32:13	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-13 20:32:13	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-13 20:32:27	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-14 12:51:02	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-14 12:51:02	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-14 12:51:02	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-14 12:51:02	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-14 12:51:02	***	Buffer Playback...
+2015-08-14 12:51:02	*buffextras	[05:05:04] Aerion!Thunderbird@RZ-re1.nip.187.176.IP quit with message: [Client exited]
+2015-08-14 12:51:02	*buffextras	[12:26:27] Aerion!Thunderbird@RZ-re1.nip.187.176.IP joined
+2015-08-14 12:51:02	***	Playback Complete.
+2015-08-14 12:51:17	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-14 18:52:15	--	irc: disconnected from server
+2015-08-14 18:52:26	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-14 18:52:26	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-14 18:52:26	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-14 18:52:26	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-14 18:52:59	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-14 20:20:15	-->	Aerion (Thunderbird@RZ-re1.nip.187.176.IP) has joined #acdc-sup
+2015-08-14 20:22:59	<--	Aerion (Thunderbird@RZ-re1.nip.187.176.IP) has quit (Connection closed)
+2015-08-14 20:23:48	-->	Aerion (Thunderbird@RZ-re1.nip.187.176.IP) has joined #acdc-sup
+2015-08-15 00:17:44	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-15 00:17:44	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-15 00:17:44	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-15 00:17:44	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-15 00:17:58	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-15 00:21:30	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-15 00:21:31	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-15 00:21:31	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-15 00:21:31	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-15 00:21:44	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-15 00:22:08	<--	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has left #acdc-sup
+2015-08-15 00:22:08	--	irc: disconnected from server
+2015-08-15 00:28:15	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-15 00:28:15	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-15 00:28:15	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-15 00:28:15	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-15 00:28:27	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-15 00:52:06	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-15 00:52:06	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-15 00:52:06	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-15 00:52:06	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-15 00:52:09	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-15 01:00:27	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-15 01:00:27	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-15 01:00:27	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-15 01:00:27	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-15 01:00:31	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-15 01:00:39	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-15 01:00:39	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-15 01:00:39	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-15 01:00:39	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-15 01:00:43	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-15 02:17:36	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-15 02:17:36	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-15 02:17:36	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-15 02:17:36	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-15 02:17:40	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-15 02:57:05	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-15 02:57:05	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-15 02:57:05	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-15 02:57:05	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-08-15 02:57:09	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-29 13:09:13	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-29 13:09:13	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-29 13:09:13	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-29 13:09:13	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-29 13:09:17	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-29 18:09:58	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-29 18:09:58	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-29 18:09:58	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-29 18:09:58	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-29 18:10:03	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-30 11:57:37	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-30 11:57:37	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-30 11:57:37	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-30 11:57:37	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-30 11:57:41	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-31 10:15:09	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-31 10:15:09	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-31 10:15:09	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-31 10:15:09	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-31 10:15:13	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-31 10:38:43	<--	Ares (ares@RZ-gmc.7an.199.128.IP) has quit (Server shutdown)
+2015-08-31 10:38:43	<--	Issun (Issun@RZ-ohjfri.muio.80vo.41d0.2001.IP) has quit (Server shutdown)
+2015-08-31 10:47:22	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-31 10:47:22	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-31 10:47:22	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-31 10:47:22	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-08-31 10:47:33	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-31 11:49:43	-->	shepard (shepard@RZ-2l4suu.rev.poneytelecom.eu) has joined #acdc-sup
+2015-08-31 12:47:45	-->	Aerion (Thunderbird@RZ-gc11c5.rev.sfr.net) has joined #acdc-sup
+2015-08-31 12:51:49	<--	Aerion (Thunderbird@RZ-gc11c5.rev.sfr.net) has quit (Ping timeout: 121 seconds)
+2015-08-31 16:15:44	<--	bmoc (bmoc@RZ-89v695.9hid.80vo.41d0.2001.IP) has quit (Ping timeout: 121 seconds)
+2015-08-31 16:15:55	<--	Ares (ares@RZ-3ja67t.f34q.s3c7.b0c0.2a03.IP) has quit (Ping timeout: 121 seconds)
+2015-08-31 16:22:47	-->	bmoc (bmoc@RZ-jhr.hmu.187.37.IP) has joined #acdc-sup
+2015-08-31 16:29:16	-->	Ares (ares@RZ-gmc.7an.199.128.IP) has joined #acdc-sup
+2015-08-31 17:03:30	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-31 17:03:30	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-31 17:03:30	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-31 17:03:30	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-31 17:03:34	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-31 17:04:05	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-31 17:04:05	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-31 17:04:05	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-31 17:04:05	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-31 17:04:09	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-31 17:08:21	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-31 17:08:21	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-31 17:08:21	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-31 17:08:21	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-31 17:08:26	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-31 17:08:32	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-31 17:08:32	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-31 17:08:32	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-31 17:08:32	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-31 17:08:36	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-31 17:08:44	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-08-31 17:08:44	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-08-31 17:08:44	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-08-31 17:08:44	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-08-31 17:08:48	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-08-31 17:43:27	-->	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has joined #acdc-sup
+2015-08-31 19:05:24	<--	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has quit (Ping timeout: 121 seconds)
+2015-08-31 19:11:48	<--	Milesta (Test@RZ-m7v.h08.67.80.IP) has quit (Operation timed out)
+2015-08-31 20:01:31	-->	Milesta (Test@RZ-m7v.h08.67.80.IP) has joined #acdc-sup
+2015-08-31 21:46:47	<--	shepard (shepard@RZ-2l4suu.rev.poneytelecom.eu) has quit (hub.u-psud.rezosup.org irc.ec-paris.rezosup.org)
+2015-08-31 21:47:43	-->	shepard (shepard@RZ-2l4suu.rev.poneytelecom.eu) has joined #acdc-sup
+2015-09-01 01:23:13	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-01 01:23:13	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-01 01:23:13	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-01 01:23:13	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-01 01:23:17	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-01 01:24:37	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-01 01:24:37	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-01 01:24:37	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-01 01:24:37	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-01 01:24:41	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-01 08:49:27	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-01 08:49:27	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-01 08:49:27	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-01 08:49:27	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-01 08:49:31	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-01 12:46:46	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-01 12:46:46	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-01 12:46:46	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-01 12:46:46	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-01 12:46:52	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-01 20:15:15	-->	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has joined #acdc-sup
+2015-09-02 00:18:44	<--	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has quit (Client exited)
+2015-09-02 00:20:05	-->	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has joined #acdc-sup
+2015-09-02 00:22:25	<--	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has quit (Client exited)
+2015-09-02 00:22:42	-->	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has joined #acdc-sup
+2015-09-02 07:47:29	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-02 07:47:29	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-02 07:47:29	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-02 07:47:29	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-02 07:47:39	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-02 14:20:35	-->	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has joined #acdc-sup
+2015-09-02 23:24:37	<--	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has quit (Client exited)
+2015-09-03 07:53:48	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-03 07:53:48	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-03 07:53:48	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-03 07:53:48	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-03 07:53:56	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-04 07:57:26	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-04 07:57:26	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-04 07:57:26	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-04 07:57:26	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-04 07:57:35	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-04 10:47:46	-->	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has joined #acdc-sup
+2015-09-04 11:37:20	<--	Nils (Nils@RZ-0nsbc4.epimeros.org) has quit (hub.u-psud.rezosup.org irc.supelec.rezosup.org)
+2015-09-04 11:44:45	-->	Nils (Nils@RZ-0nsbc4.epimeros.org) has joined #acdc-sup
+2015-09-04 13:40:04	<--	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has quit (Client exited)
+2015-09-04 21:04:26	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-04 21:04:26	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-04 21:04:26	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-04 21:04:26	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-04 21:04:30	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-05 01:17:43	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-05 01:17:43	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-05 01:17:43	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-05 01:17:43	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-05 01:17:47	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-05 01:35:20	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-05 01:35:20	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-05 01:35:20	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-05 01:35:20	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-05 01:35:31	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-05 08:20:45	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-05 08:20:45	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-05 08:20:45	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-05 08:20:45	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-05 08:20:56	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-05 11:20:03	-->	Milesta (Test@RZ-m7v.h08.67.80.IP) has joined #acdc-sup
+2015-09-05 13:17:38	-->	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has joined #acdc-sup
+2015-09-05 17:14:52	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-05 17:14:52	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-05 17:14:52	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-05 17:14:52	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-09-05 17:14:56	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-06 11:13:55	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-06 11:13:55	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-06 11:13:55	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-06 11:13:55	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-06 11:14:02	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-06 13:15:13	<--	Naam (Naam@RZ-0nq.k33.59.37.IP) has quit (hub.u-psud.rezosup.org irc.ensc.rezosup.org)
+2015-09-06 13:15:13	<--	SK0RM (Skorm@RZ-0nq.k33.59.37.IP) has quit (hub.u-psud.rezosup.org irc.ensc.rezosup.org)
+2015-09-06 13:15:13	<--	Ares (ares@RZ-gmc.7an.199.128.IP) has quit (hub.u-psud.rezosup.org irc.ensc.rezosup.org)
+2015-09-06 13:17:16	-->	Ares (ares@RZ-gmc.7an.199.128.IP) has joined #acdc-sup
+2015-09-06 13:17:16	-->	SK0RM (Skorm@RZ-0nq.k33.59.37.IP) has joined #acdc-sup
+2015-09-06 13:17:16	-->	Naam (Naam@RZ-0nq.k33.59.37.IP) has joined #acdc-sup
+2015-09-08 20:34:24	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-08 20:34:24	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-08 20:34:24	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-08 20:34:24	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-08 20:34:27	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-09 13:09:08	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-09 13:09:08	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-09 13:09:08	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-09 13:09:08	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-09 13:09:15	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-10 21:35:29	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-10 21:35:29	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-10 21:35:29	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-10 21:35:29	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-10 21:35:29	***	Buffer Playback...
+2015-09-10 21:35:29	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-10 21:35:29	 *	bennan_a [16:46:22] mib
+2015-09-10 21:35:29	bennan_a	[16:46:25] clear
+2015-09-10 21:35:29	***	Playback Complete.
+2015-09-10 21:35:32	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-10 22:05:11	--	irc: disconnected from server
+2015-09-10 22:05:22	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-10 22:05:22	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-10 22:05:22	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-10 22:05:22	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-10 22:05:22	***	Buffer Playback...
+2015-09-10 22:05:22	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-10 22:05:22	 *	bennan_a [16:46:22] mib
+2015-09-10 22:05:22	bennan_a	[16:46:25] clear
+2015-09-10 22:05:22	***	Playback Complete.
+2015-09-10 22:05:45	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-11 18:24:30	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-11 18:24:30	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-11 18:24:30	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-11 18:24:30	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-11 18:24:30	***	Buffer Playback...
+2015-09-11 18:24:30	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-11 18:24:30	 *	bennan_a [16:46:22] mib
+2015-09-11 18:24:30	bennan_a	[16:46:25] clear
+2015-09-11 18:24:30	***	Playback Complete.
+2015-09-11 18:24:34	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-12 00:26:48	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-12 00:26:48	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-12 00:26:48	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-12 00:26:48	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-09-12 00:26:48	***	Buffer Playback...
+2015-09-12 00:26:48	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-12 00:26:48	 *	bennan_a [16:46:22] mib
+2015-09-12 00:26:48	bennan_a	[16:46:25] clear
+2015-09-12 00:26:48	***	Playback Complete.
+2015-09-12 00:26:57	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-12 10:14:32	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-12 10:14:32	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-12 10:14:32	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-12 10:14:32	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-12 10:14:32	***	Buffer Playback...
+2015-09-12 10:14:32	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-12 10:14:32	 *	bennan_a [16:46:22] mib
+2015-09-12 10:14:32	bennan_a	[16:46:25] clear
+2015-09-12 10:14:32	***	Playback Complete.
+2015-09-12 10:14:43	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-13 09:38:57	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-13 09:38:57	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-13 09:38:57	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-13 09:38:57	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-13 09:38:57	***	Buffer Playback...
+2015-09-13 09:38:57	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-13 09:38:57	 *	bennan_a [16:46:22] mib
+2015-09-13 09:38:57	bennan_a	[16:46:25] clear
+2015-09-13 09:38:57	***	Playback Complete.
+2015-09-13 09:39:01	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-13 11:24:23	<--	Milesta (Test@RZ-m7v.h08.67.80.IP) has quit (Operation timed out)
+2015-09-13 13:58:04	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-13 13:58:04	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-13 13:58:04	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-13 13:58:04	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-13 13:58:04	***	Buffer Playback...
+2015-09-13 13:58:04	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-13 13:58:04	 *	bennan_a [16:46:22] mib
+2015-09-13 13:58:04	bennan_a	[16:46:25] clear
+2015-09-13 13:58:04	***	Playback Complete.
+2015-09-13 13:58:08	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-13 20:03:29	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-13 20:03:29	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-13 20:03:29	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-13 20:03:29	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-13 20:03:29	***	Buffer Playback...
+2015-09-13 20:03:29	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-13 20:03:29	 *	bennan_a [16:46:22] mib
+2015-09-13 20:03:29	bennan_a	[16:46:25] clear
+2015-09-13 20:03:29	***	Playback Complete.
+2015-09-13 20:03:33	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-14 08:17:39	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-14 08:17:39	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-14 08:17:39	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-14 08:17:39	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-14 08:17:39	***	Buffer Playback...
+2015-09-14 08:17:39	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-14 08:17:39	 *	bennan_a [16:46:22] mib
+2015-09-14 08:17:39	bennan_a	[16:46:25] clear
+2015-09-14 08:17:39	***	Playback Complete.
+2015-09-14 08:17:48	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-14 13:19:30	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-14 13:19:30	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-14 13:19:30	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-14 13:19:30	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-14 13:19:30	***	Buffer Playback...
+2015-09-14 13:19:30	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-14 13:19:30	 *	bennan_a [16:46:22] mib
+2015-09-14 13:19:30	bennan_a	[16:46:25] clear
+2015-09-14 13:19:30	***	Playback Complete.
+2015-09-14 13:19:34	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-14 14:01:33	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-14 14:01:33	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-14 14:01:33	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-14 14:01:33	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-14 14:01:33	***	Buffer Playback...
+2015-09-14 14:01:33	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-14 14:01:33	 *	bennan_a [16:46:22] mib
+2015-09-14 14:01:33	bennan_a	[16:46:25] clear
+2015-09-14 14:01:33	***	Playback Complete.
+2015-09-14 14:01:40	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-14 17:31:24	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-14 17:31:24	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-14 17:31:24	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-14 17:31:24	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-14 17:31:24	***	Buffer Playback...
+2015-09-14 17:31:24	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-14 17:31:24	 *	bennan_a [16:46:22] mib
+2015-09-14 17:31:24	bennan_a	[16:46:25] clear
+2015-09-14 17:31:24	***	Playback Complete.
+2015-09-14 17:31:34	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-14 22:53:10	<--	shepard (shepard@RZ-2l4suu.rev.poneytelecom.eu) has quit (Self-Quit: Hit any user to continue)
+2015-09-14 23:00:27	-->	shepard (shepard@RZ-2l4suu.rev.poneytelecom.eu) has joined #acdc-sup
+2015-09-15 00:26:49	<--	shepard (shepard@RZ-2l4suu.rev.poneytelecom.eu) has quit (Self-Quit: Hit any user to continue)
+2015-09-15 09:26:49	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-15 09:26:49	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-15 09:26:49	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-15 09:26:49	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-15 09:26:49	***	Buffer Playback...
+2015-09-15 09:26:49	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-15 09:26:49	 *	bennan_a [16:46:22] mib
+2015-09-15 09:26:49	bennan_a	[16:46:25] clear
+2015-09-15 09:26:49	***	Playback Complete.
+2015-09-15 09:26:53	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-15 13:29:28	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-15 13:29:28	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-15 13:29:28	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-15 13:29:28	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-15 13:29:28	***	Buffer Playback...
+2015-09-15 13:29:28	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-15 13:29:28	 *	bennan_a [16:46:22] mib
+2015-09-15 13:29:28	bennan_a	[16:46:25] clear
+2015-09-15 13:29:28	***	Playback Complete.
+2015-09-15 13:29:33	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-15 14:08:26	-->	mib (mib@RZ-4qk.qgl.102.10.IP) has joined #acdc-sup
+2015-09-15 14:17:33	<--	mib (mib@RZ-4qk.qgl.102.10.IP) has quit (Self-Quit: leaving)
+2015-09-15 17:55:28	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-15 17:55:28	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-15 17:55:28	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-15 17:55:28	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-15 17:55:28	***	Buffer Playback...
+2015-09-15 17:55:28	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-15 17:55:28	 *	bennan_a [16:46:22] mib
+2015-09-15 17:55:28	bennan_a	[16:46:25] clear
+2015-09-15 17:55:28	***	Playback Complete.
+2015-09-15 17:55:34	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-16 09:26:01	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-16 09:26:01	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-16 09:26:01	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-16 09:26:01	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-16 09:26:01	***	Buffer Playback...
+2015-09-16 09:26:01	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-16 09:26:01	 *	bennan_a [16:46:22] mib
+2015-09-16 09:26:01	bennan_a	[16:46:25] clear
+2015-09-16 09:26:01	***	Playback Complete.
+2015-09-16 09:26:09	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-16 09:33:54	-->	floom1 (floom@RZ-e7k.oqc.5.163.IP) has joined #acdc-sup
+2015-09-16 11:26:28	--	irc: disconnected from server
+2015-09-16 11:26:38	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-16 11:26:38	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-16 11:26:38	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-16 11:26:38	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-16 11:26:38	***	Buffer Playback...
+2015-09-16 11:26:38	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-16 11:26:38	 *	bennan_a [16:46:22] mib
+2015-09-16 11:26:38	bennan_a	[16:46:25] clear
+2015-09-16 11:26:38	***	Playback Complete.
+2015-09-16 11:27:00	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-16 11:27:56	-->	floom1 (floom@RZ-e7k.oqc.5.163.IP) has joined #acdc-sup
+2015-09-16 13:32:39	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-16 13:32:39	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-16 13:32:39	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-16 13:32:39	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-16 13:32:39	***	Buffer Playback...
+2015-09-16 13:32:39	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-16 13:32:39	 *	bennan_a [16:46:22] mib
+2015-09-16 13:32:39	bennan_a	[16:46:25] clear
+2015-09-16 13:32:39	***	Playback Complete.
+2015-09-16 13:32:43	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-16 13:55:01	-->	floom1 (floom@RZ-e7k.oqc.5.163.IP) has joined #acdc-sup
+2015-09-16 14:28:58	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-16 14:28:58	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-16 14:28:58	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-16 14:28:58	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-09-16 14:29:09	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-16 14:57:52	<--	floom1 (floom@RZ-e7k.oqc.5.163.IP) has quit (Ping timeout: 121 seconds)
+2015-09-16 14:58:59	<--	lowener (lowener@RZ-v30.oqc.5.163.IP) has quit (Ping timeout: 121 seconds)
+2015-09-16 15:16:08	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-16 15:16:08	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-16 15:16:08	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-16 15:16:08	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-16 15:16:08	***	Buffer Playback...
+2015-09-16 15:16:08	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-16 15:16:08	 *	bennan_a [16:46:22] mib
+2015-09-16 15:16:08	bennan_a	[16:46:25] clear
+2015-09-16 15:16:08	***	Playback Complete.
+2015-09-16 15:16:12	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-16 15:23:45	-->	floom1 (floom@RZ-e7k.oqc.5.163.IP) has joined #acdc-sup
+2015-09-16 16:53:43	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-16 16:53:43	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-16 16:53:43	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-16 16:53:43	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-16 16:53:43	***	Buffer Playback...
+2015-09-16 16:53:43	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-16 16:53:43	 *	bennan_a [16:46:22] mib
+2015-09-16 16:53:43	bennan_a	[16:46:25] clear
+2015-09-16 16:53:43	***	Playback Complete.
+2015-09-16 16:53:50	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-16 20:25:10	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-16 20:25:10	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-16 20:25:10	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-16 20:25:10	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-16 20:25:10	***	Buffer Playback...
+2015-09-16 20:25:10	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-16 20:25:10	 *	bennan_a [16:46:22] mib
+2015-09-16 20:25:10	bennan_a	[16:46:25] clear
+2015-09-16 20:25:10	***	Playback Complete.
+2015-09-16 20:25:15	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-16 20:33:41	-->	floom1 (floom@RZ-ee1.oqc.5.163.IP) has joined #acdc-sup
+2015-09-16 20:37:54	<--	floom1 (floom@RZ-ee1.oqc.5.163.IP) has quit (Ping timeout: 121 seconds)
+2015-09-16 21:18:06	--	irc: disconnected from server
+2015-09-16 21:18:17	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-16 21:18:17	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-16 21:18:17	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-16 21:18:17	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-16 21:18:17	***	Buffer Playback...
+2015-09-16 21:18:17	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-16 21:18:17	 *	bennan_a [16:46:22] mib
+2015-09-16 21:18:17	bennan_a	[16:46:25] clear
+2015-09-16 21:18:17	***	Playback Complete.
+2015-09-16 21:18:38	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-16 21:21:35	-->	floom1 (floom@RZ-ee1.oqc.5.163.IP) has joined #acdc-sup
+2015-09-17 09:27:40	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-17 09:27:40	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-17 09:27:40	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-17 09:27:40	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-17 09:27:40	***	Buffer Playback...
+2015-09-17 09:27:40	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-17 09:27:40	 *	bennan_a [16:46:22] mib
+2015-09-17 09:27:40	bennan_a	[16:46:25] clear
+2015-09-17 09:27:40	***	Playback Complete.
+2015-09-17 09:27:44	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-17 09:36:39	-->	Aerion (Thunderbird@RZ-umv.oqc.5.163.IP) has joined #acdc-sup
+2015-09-17 09:43:23	<--	floom1 (floom@RZ-ee1.oqc.5.163.IP) has quit (Ping timeout: 121 seconds)
+2015-09-17 10:02:19	-->	floom1 (floom@RZ-ee1.oqc.5.163.IP) has joined #acdc-sup
+2015-09-17 11:07:50	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-17 11:07:50	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-17 11:07:50	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-17 11:07:50	--	Channel #acdc-sup: 12 nicks (0 ops, 0 halfops, 0 voices, 12 normals)
+2015-09-17 11:07:50	***	Buffer Playback...
+2015-09-17 11:07:50	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-17 11:07:50	 *	bennan_a [16:46:22] mib
+2015-09-17 11:07:50	bennan_a	[16:46:25] clear
+2015-09-17 11:07:50	***	Playback Complete.
+2015-09-17 11:08:08	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-17 11:38:33	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-17 11:38:33	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-17 11:38:33	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-17 11:38:33	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-17 11:38:33	***	Buffer Playback...
+2015-09-17 11:38:33	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-17 11:38:33	 *	bennan_a [16:46:22] mib
+2015-09-17 11:38:33	bennan_a	[16:46:25] clear
+2015-09-17 11:38:33	***	Playback Complete.
+2015-09-17 11:38:37	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-17 12:41:55	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-17 12:41:55	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-17 12:41:55	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-17 12:41:55	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-17 12:41:55	***	Buffer Playback...
+2015-09-17 12:41:55	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-17 12:41:55	 *	bennan_a [16:46:22] mib
+2015-09-17 12:41:55	bennan_a	[16:46:25] clear
+2015-09-17 12:41:55	***	Playback Complete.
+2015-09-17 12:41:59	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-17 12:53:33	-->	floom1 (floom@RZ-1su.oqc.5.163.IP) has joined #acdc-sup
+2015-09-17 14:13:05	<--	floom1 (floom@RZ-1su.oqc.5.163.IP) has quit (Ping timeout: 121 seconds)
+2015-09-17 14:28:04	-->	floom1 (floom@RZ-1su.oqc.5.163.IP) has joined #acdc-sup
+2015-09-17 14:38:17	<--	floom1 (floom@RZ-1su.oqc.5.163.IP) has quit (Ping timeout: 121 seconds)
+2015-09-18 09:56:53	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-18 09:56:53	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-18 09:56:53	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-18 09:56:53	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-18 09:56:53	***	Buffer Playback...
+2015-09-18 09:56:53	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-18 09:56:53	 *	bennan_a [16:46:22] mib
+2015-09-18 09:56:53	bennan_a	[16:46:25] clear
+2015-09-18 09:56:53	***	Playback Complete.
+2015-09-18 09:57:19	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-18 14:21:02	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-18 14:21:02	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-18 14:21:02	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-18 14:21:02	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-18 14:21:02	***	Buffer Playback...
+2015-09-18 14:21:02	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-18 14:21:02	 *	bennan_a [16:46:22] mib
+2015-09-18 14:21:02	bennan_a	[16:46:25] clear
+2015-09-18 14:21:02	***	Playback Complete.
+2015-09-18 14:21:54	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-18 14:23:57	-->	Aerion (Thunderbird@RZ-bja6di.rev.sfr.net) has joined #acdc-sup
+2015-09-19 07:16:18	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-19 07:16:18	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-19 07:16:18	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-19 07:16:18	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-19 07:16:18	***	Buffer Playback...
+2015-09-19 07:16:18	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-19 07:16:18	 *	bennan_a [16:46:22] mib
+2015-09-19 07:16:18	bennan_a	[16:46:25] clear
+2015-09-19 07:16:18	***	Playback Complete.
+2015-09-19 07:16:35	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-20 12:36:20	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-20 12:36:20	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-20 12:36:20	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-20 12:36:20	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-20 12:36:20	***	Buffer Playback...
+2015-09-20 12:36:20	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-20 12:36:20	 *	bennan_a [16:46:22] mib
+2015-09-20 12:36:20	bennan_a	[16:46:25] clear
+2015-09-20 12:36:20	***	Playback Complete.
+2015-09-20 12:36:29	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-20 18:28:15	-->	Aerion (Thunderbird@RZ-45it5p.fbx.proxad.net) has joined #acdc-sup
+2015-09-21 12:13:19	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-21 12:13:19	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-21 12:13:19	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-21 12:13:19	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-21 12:13:19	***	Buffer Playback...
+2015-09-21 12:13:19	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-21 12:13:19	 *	bennan_a [16:46:22] mib
+2015-09-21 12:13:19	bennan_a	[16:46:25] clear
+2015-09-21 12:13:19	***	Playback Complete.
+2015-09-21 12:13:27	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-21 13:10:42	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-21 13:10:42	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-21 13:10:42	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-21 13:10:42	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-21 13:10:42	***	Buffer Playback...
+2015-09-21 13:10:42	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-21 13:10:42	 *	bennan_a [16:46:22] mib
+2015-09-21 13:10:42	bennan_a	[16:46:25] clear
+2015-09-21 13:10:42	***	Playback Complete.
+2015-09-21 13:10:50	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-21 13:52:27	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-21 13:52:27	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-21 13:52:27	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-21 13:52:27	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-21 13:52:27	***	Buffer Playback...
+2015-09-21 13:52:27	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-21 13:52:27	 *	bennan_a [16:46:22] mib
+2015-09-21 13:52:27	bennan_a	[16:46:25] clear
+2015-09-21 13:52:27	***	Playback Complete.
+2015-09-21 13:52:36	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-21 20:28:05	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-21 20:28:05	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-21 20:28:05	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-21 20:28:05	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-21 20:28:05	***	Buffer Playback...
+2015-09-21 20:28:05	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-21 20:28:05	 *	bennan_a [16:46:22] mib
+2015-09-21 20:28:05	bennan_a	[16:46:25] clear
+2015-09-21 20:28:05	***	Playback Complete.
+2015-09-21 20:28:10	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-21 22:00:31	<--	Aerion (Thunderbird@RZ-45it5p.fbx.proxad.net) has quit (Connection closed)
+2015-09-22 08:46:03	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-22 08:46:03	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-22 08:46:03	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-22 08:46:03	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-22 08:46:03	***	Buffer Playback...
+2015-09-22 08:46:03	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-22 08:46:03	 *	bennan_a [16:46:22] mib
+2015-09-22 08:46:03	bennan_a	[16:46:25] clear
+2015-09-22 08:46:03	***	Playback Complete.
+2015-09-22 08:46:11	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-22 13:31:22	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-22 13:31:22	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-22 13:31:22	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-22 13:31:22	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-22 13:31:22	***	Buffer Playback...
+2015-09-22 13:31:22	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-22 13:31:22	 *	bennan_a [16:46:22] mib
+2015-09-22 13:31:22	bennan_a	[16:46:25] clear
+2015-09-22 13:31:22	***	Playback Complete.
+2015-09-22 13:31:35	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-22 18:25:41	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-22 18:25:41	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-22 18:25:41	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-22 18:25:41	--	Channel #acdc-sup: 11 nicks (0 ops, 0 halfops, 0 voices, 11 normals)
+2015-09-22 18:25:41	***	Buffer Playback...
+2015-09-22 18:25:41	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-22 18:25:41	 *	bennan_a [16:46:22] mib
+2015-09-22 18:25:41	bennan_a	[16:46:25] clear
+2015-09-22 18:25:41	***	Playback Complete.
+2015-09-22 18:25:48	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-22 23:06:10	<--	Aerion (Thunderbird@RZ-45it5p.fbx.proxad.net) has quit (Client exited)
+2015-09-23 09:01:43	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-23 09:01:43	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-23 09:01:43	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-23 09:01:43	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-23 09:01:43	***	Buffer Playback...
+2015-09-23 09:01:43	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-23 09:01:43	 *	bennan_a [16:46:22] mib
+2015-09-23 09:01:43	bennan_a	[16:46:25] clear
+2015-09-23 09:01:43	***	Playback Complete.
+2015-09-23 09:01:51	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-23 13:07:46	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-23 13:07:46	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-23 13:07:46	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-23 13:07:46	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-23 13:07:46	***	Buffer Playback...
+2015-09-23 13:07:46	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-23 13:07:46	 *	bennan_a [16:46:22] mib
+2015-09-23 13:07:46	bennan_a	[16:46:25] clear
+2015-09-23 13:07:46	***	Playback Complete.
+2015-09-23 13:07:52	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-23 17:43:16	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-23 17:43:16	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-23 17:43:16	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-23 17:43:16	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-23 17:43:16	***	Buffer Playback...
+2015-09-23 17:43:16	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-23 17:43:16	 *	bennan_a [16:46:22] mib
+2015-09-23 17:43:16	bennan_a	[16:46:25] clear
+2015-09-23 17:43:16	***	Playback Complete.
+2015-09-23 17:43:21	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-23 17:57:24	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-23 17:57:24	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-23 17:57:24	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-23 17:57:24	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-23 17:57:24	***	Buffer Playback...
+2015-09-23 17:57:24	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-23 17:57:24	 *	bennan_a [16:46:22] mib
+2015-09-23 17:57:24	bennan_a	[16:46:25] clear
+2015-09-23 17:57:24	***	Playback Complete.
+2015-09-23 17:57:29	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-24 08:04:06	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-24 08:04:06	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-24 08:04:06	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-24 08:04:06	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-24 08:04:06	***	Buffer Playback...
+2015-09-24 08:04:06	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-24 08:04:06	 *	bennan_a [16:46:22] mib
+2015-09-24 08:04:06	bennan_a	[16:46:25] clear
+2015-09-24 08:04:06	***	Playback Complete.
+2015-09-24 08:04:11	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-24 18:26:29	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-24 18:26:29	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-24 18:26:29	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-24 18:26:29	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-24 18:26:29	***	Buffer Playback...
+2015-09-24 18:26:29	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-24 18:26:29	 *	bennan_a [16:46:22] mib
+2015-09-24 18:26:29	bennan_a	[16:46:25] clear
+2015-09-24 18:26:29	***	Playback Complete.
+2015-09-24 18:26:33	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-25 08:05:01	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-25 08:05:01	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-25 08:05:01	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-25 08:05:01	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-25 08:05:01	***	Buffer Playback...
+2015-09-25 08:05:01	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-25 08:05:01	 *	bennan_a [16:46:22] mib
+2015-09-25 08:05:01	bennan_a	[16:46:25] clear
+2015-09-25 08:05:01	***	Playback Complete.
+2015-09-25 08:05:09	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-25 16:17:21	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-25 16:17:21	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-25 16:17:21	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-25 16:17:21	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-25 16:17:21	***	Buffer Playback...
+2015-09-25 16:17:21	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-25 16:17:21	 *	bennan_a [16:46:22] mib
+2015-09-25 16:17:21	bennan_a	[16:46:25] clear
+2015-09-25 16:17:21	***	Playback Complete.
+2015-09-25 16:17:30	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-27 22:02:48	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-27 22:02:48	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-27 22:02:48	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-27 22:02:48	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-27 22:02:48	***	Buffer Playback...
+2015-09-27 22:02:48	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-27 22:02:48	 *	bennan_a [16:46:22] mib
+2015-09-27 22:02:48	bennan_a	[16:46:25] clear
+2015-09-27 22:02:48	***	Playback Complete.
+2015-09-27 22:02:53	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-28 12:21:37	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-28 12:21:37	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-28 12:21:37	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-28 12:21:37	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-28 12:21:37	***	Buffer Playback...
+2015-09-28 12:21:37	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-28 12:21:37	 *	bennan_a [16:46:22] mib
+2015-09-28 12:21:37	bennan_a	[16:46:25] clear
+2015-09-28 12:21:37	***	Playback Complete.
+2015-09-28 12:21:48	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-28 18:38:55	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-28 18:38:55	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-28 18:38:55	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-28 18:38:55	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-28 18:38:55	***	Buffer Playback...
+2015-09-28 18:38:55	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-28 18:38:55	 *	bennan_a [16:46:22] mib
+2015-09-28 18:38:55	bennan_a	[16:46:25] clear
+2015-09-28 18:38:55	***	Playback Complete.
+2015-09-28 18:39:02	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-29 18:30:38	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-29 18:30:38	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-29 18:30:38	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-29 18:30:38	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-29 18:30:38	***	Buffer Playback...
+2015-09-29 18:30:38	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-29 18:30:38	 *	bennan_a [16:46:22] mib
+2015-09-29 18:30:38	bennan_a	[16:46:25] clear
+2015-09-29 18:30:38	***	Playback Complete.
+2015-09-29 18:30:47	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-29 22:40:44	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-29 22:40:44	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-29 22:40:44	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-29 22:40:44	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-29 22:40:44	***	Buffer Playback...
+2015-09-29 22:40:44	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-29 22:40:44	 *	bennan_a [16:46:22] mib
+2015-09-29 22:40:44	bennan_a	[16:46:25] clear
+2015-09-29 22:40:44	***	Playback Complete.
+2015-09-29 22:40:48	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-30 09:11:11	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-30 09:11:11	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-30 09:11:11	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-30 09:11:11	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-30 09:11:11	***	Buffer Playback...
+2015-09-30 09:11:11	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-30 09:11:11	 *	bennan_a [16:46:22] mib
+2015-09-30 09:11:11	bennan_a	[16:46:25] clear
+2015-09-30 09:11:11	***	Playback Complete.
+2015-09-30 09:11:17	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-30 12:17:10	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-30 12:17:10	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-30 12:17:10	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-30 12:17:10	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-30 12:17:10	***	Buffer Playback...
+2015-09-30 12:17:10	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-30 12:17:10	 *	bennan_a [16:46:22] mib
+2015-09-30 12:17:10	bennan_a	[16:46:25] clear
+2015-09-30 12:17:10	***	Playback Complete.
+2015-09-30 12:17:20	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-30 17:30:22	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-30 17:30:22	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-30 17:30:22	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-30 17:30:22	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-30 17:30:22	***	Buffer Playback...
+2015-09-30 17:30:22	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-30 17:30:22	 *	bennan_a [16:46:22] mib
+2015-09-30 17:30:22	bennan_a	[16:46:25] clear
+2015-09-30 17:30:22	***	Playback Complete.
+2015-09-30 17:30:29	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-30 20:04:40	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-30 20:04:40	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-30 20:04:40	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-30 20:04:40	--	Channel #acdc-sup: 10 nicks (0 ops, 0 halfops, 0 voices, 10 normals)
+2015-09-30 20:04:40	***	Buffer Playback...
+2015-09-30 20:04:40	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-30 20:04:40	 *	bennan_a [16:46:22] mib
+2015-09-30 20:04:40	bennan_a	[16:46:25] clear
+2015-09-30 20:04:40	***	Playback Complete.
+2015-09-30 20:04:48	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-09-30 20:27:00	-->	Nils_ (Nils@RZ-9jbigv.1f4d.80vo.41d0.2001.IP) has joined #acdc-sup
+2015-09-30 20:51:29	<--	Nils_ (Nils@RZ-9jbigv.1f4d.80vo.41d0.2001.IP) has quit (Self-Quit: The game.)
+2015-09-30 20:53:51	-->	Nils_ (Nils@RZ-9jbigv.1f4d.80vo.41d0.2001.IP) has joined #acdc-sup
+2015-09-30 20:57:48	<--	Nils_ (Nils@RZ-9jbigv.1f4d.80vo.41d0.2001.IP) has quit (Self-Quit: The game.)
+2015-09-30 20:59:11	-->	Nils_ (Nils@RZ-9jbigv.1f4d.80vo.41d0.2001.IP) has joined #acdc-sup
+2015-09-30 22:44:52	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-09-30 22:44:52	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-09-30 22:44:52	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-09-30 22:44:52	--	Channel #acdc-sup: 10 nicks (1 op, 0 halfops, 0 voices, 9 normals)
+2015-09-30 22:44:52	***	Buffer Playback...
+2015-09-30 22:44:52	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-09-30 22:44:52	 *	bennan_a [16:46:22] mib
+2015-09-30 22:44:52	bennan_a	[16:46:25] clear
+2015-09-30 22:44:52	***	Playback Complete.
+2015-09-30 22:45:00	--	Channel created on Thu, 12 Feb 2015 11:35:12
+2015-10-01 18:40:19	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #acdc-sup
+2015-10-01 18:40:19	--	Topic for #acdc-sup is "Ce chan est réservé aux assistants et aux sup à Epita. N'hésitez pas à poser vos questions ici, nous sommes la pour ça !"
+2015-10-01 18:40:19	--	Topic set by Nils (Nils@RZ-0nsbc4.epimeros.org) on Thu, 12 Feb 2015 22:40:06
+2015-10-01 18:40:19	--	Channel #acdc-sup: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2015-10-01 18:40:19	***	Buffer Playback...
+2015-10-01 18:40:19	bennan_a	[16:33:30] Coucou je suis THLR qui pourrait m'aider
+2015-10-01 18:40:20	 *	bennan_a [16:46:22] mib
+2015-10-01 18:40:20	bennan_a	[16:46:25] clear
+2015-10-01 18:40:20	***	Playback Complete.
+2015-10-01 18:40:24	--	Channel created on Thu, 12 Feb 2015 11:35:12

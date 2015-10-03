@@ -2127,4 +2127,324 @@
 2015-10-01 19:05:32	Zeletochoy	[00:47:05] c'est des précurseurs
 2015-10-01 19:05:32	seirl	[00:49:34] faut montrer ça à vermeille il va candidater
 2015-10-01 19:05:32	coproduit	[00:51:50] WHO needs a PARADIGM these days and paradigms are dramatic things pertaining to the philosophy of science, right? A paradigm sounds scary, do we need to change everything? ("We will not do any such thing, we can handle our problems with more consultants from IBM and increase the testing budget and I heard about two new tools that can improve testing and Coverity pricing for static analysis is
-2015-10-01 19:05:32	coproduit	[00:51:52] probably acceptable based on the ROI that is reported on those tools..." There is a point when you need to think differently, but, in this case, think largely in the same way anyway, which may seem to be a dichotomy for sure, but it is all about timing.) The word "paradigm" is spot on, I have no doubt at all, but if you asked me
+2015-10-01 19:05:32	coproduit	[00:51:52] probably acceptable based on the ROI that is reported on those tools..." There is a point when you need to think differently, but, in this case, think largely in the same way anyway, which may seem to be a dichotomy for sure, but it is all about timing.) The word "paradigm" is spot on, I have no doubt at all, but if you asked me a few years ago I would not have known. Mind you, I associate the
+2015-10-01 19:05:32	coproduit	[00:51:54] word paradigm to Thomas Kuhn, the philosopher, and I have never quite liked the terminology of "programming paradigms". I talk about a real paradigm here, not of a fuzzy class of programming languages may or, more likely, may not have even operational semantics these days, and were created after reading up on papers from the 60ies to begin with, like ISWIM and more.
+2015-10-01 19:05:32	coproduit	[00:52:25] punaise c'est épique
+2015-10-01 19:05:32	coproduit	[00:53:24] https://www.facebook.com/photo.php?fbid=876353445794805
+2015-10-01 19:05:32	coproduit	[00:53:35]  There are sentences in an evolving language. Agile was a buzzword and still is, but there is a good point to keep things lightweight, and it is hardly news that rapid prototyping (70ies research) and incremental, iterative development is the way to go. With Functor Saclor™ we an express state charts and UML and programming languages and even, the only previous commercial application of the
+2015-10-01 19:05:32	coproduit	[00:53:37] technology from Functor, called the next programming paradigm, all of the natural languages.
+2015-10-01 19:05:32	coproduit	[00:53:48] bon je pourrais poster essentiellement tout le post donc je vais m'arrêter là
+2015-10-01 19:05:32	coproduit	[00:54:04] mais faudrait vraiment demander à « Johan Glimming, PhD » ce qu'il a fumé
+2015-10-01 19:05:32	seirl	[03:20:07] tiens Dettorer 
+2015-10-01 19:05:32	seirl	[03:20:12] on devait pas prendre cher pour epiquote ? :D
+2015-10-01 19:05:32	Zeletochoy	[03:40:07] ?
+2015-10-01 19:05:32	Dettorer	[04:20:59] haha oui
+2015-10-01 19:05:32	Bruce	[07:46:00] ça donne quoi cette histoire au final ? rien ?
+2015-10-01 19:05:32	Mareo	[13:37:07] c'est quoi cette histoire ?
+2015-10-01 19:05:32	Dettorer	[14:43:26] apparemment un prof était assez remonté contre epiquote y'a quelques mois, quelqu'un l'avait vu assez énervé dans un couloir en train de dire qu'on allait entendre parler de lui
+2015-10-01 19:05:32	Dettorer	[14:43:44] c'était avant les vacances, on a rien eu pour l'instant
+2015-10-01 19:05:32	Corwin	[14:43:58] il a pas dû parler assez fort, ça arrive
+2015-10-01 19:05:32	clippix	[14:49:36] Dettorer: Chevallier ?
+2015-10-01 19:05:32	Dettorer	[14:51:26] je sais plus
+2015-10-01 19:05:32	Bruce	[18:15:03]  /Q Zeletochoy 
+2015-10-01 19:05:32	Bruce	[18:15:08] rah.
+2015-10-01 19:05:32	***	Playback Complete.
+2015-10-01 19:05:43	--	Channel created on Sun, 10 Nov 2013 18:42:17
+2015-10-01 19:40:13	Corwin	raté
+2015-10-02 07:28:56	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #Test.
+2015-10-02 07:28:56	--	Topic for #Test. is "#Test. || http://bde-test.fail/ || Tempête de cerveaux : http://pad.gconfs.fr/p/pres-test-2015 || Merci à tous et à toutes (sauf les végétariennes) ! || Votai Test."
+2015-10-02 07:28:56	--	Topic set by halfr on Thu, 19 Mar 2015 16:04:06
+2015-10-02 07:28:56	--	Channel #Test.: 28 nicks (0 ops, 0 halfops, 0 voices, 28 normals)
+2015-10-02 07:28:56	***	Buffer Playback...
+2015-10-02 07:28:56	Nyquist	[10:10:36] Vu que c'est la mode des CoC en ce moment (coucou Github), est-ce que Test. pourrait adopter un CoQ ?
+2015-10-02 07:28:56	Corwin	[11:41:05] On pourrait faire une preuve de Test. avec Coq.
+2015-10-02 07:28:56	Nyquist	[21:01:42] Test. validé
+2015-10-02 07:28:56	halfr	[18:24:00] https://en.wikipedia.org/wiki/Third_place
+2015-10-02 07:28:56	halfr	[18:24:17] je propose que Test. devienne de façon permanente le troisième BDE
+2015-10-02 07:28:56	halfr	[18:24:31] Free or inexpensive -> OK
+2015-10-02 07:28:56	halfr	[18:24:38] Food and drink -> OK
+2015-10-02 07:28:56	halfr	[18:24:44] Highly accessible -> OK
+2015-10-02 07:28:56	halfr	[18:24:48] Involve regulars -> OK
+2015-10-02 07:28:56	halfr	[18:24:52] Welcoming and comfortable -> OK
+2015-10-02 07:28:56	halfr	[18:24:57] Both new friends and old should be found there -> OK
+2015-10-02 07:28:56	seirl	[18:26:04] pour ça il faut qu'il y ait deux BDE
+2015-10-02 07:28:56	halfr	[18:26:41] bah... non
+2015-10-02 07:28:56	halfr	[18:26:52] on peut juste s'autoproclamer troisième
+2015-10-02 07:28:56	halfr	[18:27:17] au pire si on a qu'un seul autre bde ça fera mindfuck les gens
+2015-10-02 07:28:56	seirl	[18:27:58] :D
+2015-10-02 07:28:56	Zeletochoy	[18:29:13] oh oui, faut absoluent qu'il y ait qu'un autre BDE
+2015-10-02 07:28:56	Zeletochoy	[18:29:25] comme ça on peut être 3e et casser le sens
+2015-10-02 07:28:56	coproduit	[00:42:31] http://www.functor.se/
+2015-10-02 07:28:56	coproduit	[00:42:40] https://www.facebook.com/photo.php?fbid=875965092500307
+2015-10-02 07:28:56	seirl	[00:43:49] :D :D :D
+2015-10-02 07:28:56	coproduit	[00:44:17] > We admit that a functor is a mathematical concept. After all, we are a research spinoff and our tools rely on advanced programming advances; otherwise they would not be disruptive as they are, even called *the next programming paradigm*.
+2015-10-02 07:28:56	coproduit	[00:44:39] > We truly are functors at Functor. A dazzling fact, if grasped.
+2015-10-02 07:28:56	coproduit	[00:46:00] leur annonce de recrutement ( https://www.linkedin.com/jobs2/view/60296037 ) est pas mal aussi
+2015-10-02 07:28:56	coproduit	[00:46:08] > Ocaml and Haskell talents, with or without PhD's, with industrial experience, passionate and talented for advanced functional programming and disruptive new technology based on Martin-Löf type theory, which we pioneer to the industry, as covered in Swedish news journal recently, a journal dedicated to the embedded software industry. 
+2015-10-02 07:28:56	coproduit	[00:46:33] je pensais pas que la théorie des types avait un potentiel buzzword rivalisant avec celui du Big Data
+2015-10-02 07:28:56	Zeletochoy	[00:47:05] c'est des précurseurs
+2015-10-02 07:28:56	seirl	[00:49:34] faut montrer ça à vermeille il va candidater
+2015-10-02 07:28:57	coproduit	[00:51:50] WHO needs a PARADIGM these days and paradigms are dramatic things pertaining to the philosophy of science, right? A paradigm sounds scary, do we need to change everything? ("We will not do any such thing, we can handle our problems with more consultants from IBM and increase the testing budget and I heard about two new tools that can improve testing and Coverity pricing for static analysis is
+2015-10-02 07:28:57	coproduit	[00:51:52] probably acceptable based on the ROI that is reported on those tools..." There is a point when you need to think differently, but, in this case, think largely in the same way anyway, which may seem to be a dichotomy for sure, but it is all about timing.) The word "paradigm" is spot on, I have no doubt at all, but if you asked me a few years ago I would not have known. Mind you, I associate the
+2015-10-02 07:28:57	coproduit	[00:51:54] word paradigm to Thomas Kuhn, the philosopher, and I have never quite liked the terminology of "programming paradigms". I talk about a real paradigm here, not of a fuzzy class of programming languages may or, more likely, may not have even operational semantics these days, and were created after reading up on papers from the 60ies to begin with, like ISWIM and more.
+2015-10-02 07:28:57	coproduit	[00:52:25] punaise c'est épique
+2015-10-02 07:28:57	coproduit	[00:53:24] https://www.facebook.com/photo.php?fbid=876353445794805
+2015-10-02 07:28:57	coproduit	[00:53:35]  There are sentences in an evolving language. Agile was a buzzword and still is, but there is a good point to keep things lightweight, and it is hardly news that rapid prototyping (70ies research) and incremental, iterative development is the way to go. With Functor Saclor™ we an express state charts and UML and programming languages and even, the only previous commercial application of the
+2015-10-02 07:28:57	coproduit	[00:53:37] technology from Functor, called the next programming paradigm, all of the natural languages.
+2015-10-02 07:28:57	coproduit	[00:53:48] bon je pourrais poster essentiellement tout le post donc je vais m'arrêter là
+2015-10-02 07:28:57	coproduit	[00:54:04] mais faudrait vraiment demander à « Johan Glimming, PhD » ce qu'il a fumé
+2015-10-02 07:28:57	seirl	[03:20:07] tiens Dettorer 
+2015-10-02 07:28:57	seirl	[03:20:12] on devait pas prendre cher pour epiquote ? :D
+2015-10-02 07:28:57	Zeletochoy	[03:40:07] ?
+2015-10-02 07:28:57	Dettorer	[04:20:59] haha oui
+2015-10-02 07:28:57	Bruce	[07:46:00] ça donne quoi cette histoire au final ? rien ?
+2015-10-02 07:28:57	Mareo	[13:37:07] c'est quoi cette histoire ?
+2015-10-02 07:28:57	Dettorer	[14:43:26] apparemment un prof était assez remonté contre epiquote y'a quelques mois, quelqu'un l'avait vu assez énervé dans un couloir en train de dire qu'on allait entendre parler de lui
+2015-10-02 07:28:57	Dettorer	[14:43:44] c'était avant les vacances, on a rien eu pour l'instant
+2015-10-02 07:28:57	Corwin	[14:43:58] il a pas dû parler assez fort, ça arrive
+2015-10-02 07:28:57	clippix	[14:49:36] Dettorer: Chevallier ?
+2015-10-02 07:28:57	Dettorer	[14:51:26] je sais plus
+2015-10-02 07:28:57	Bruce	[18:15:03]  /Q Zeletochoy 
+2015-10-02 07:28:57	Bruce	[18:15:08] rah.
+2015-10-02 07:28:57	Corwin	[19:40:29] raté
+2015-10-02 07:28:57	***	Playback Complete.
+2015-10-02 07:29:17	--	Channel created on Sun, 10 Nov 2013 18:42:17
+2015-10-02 07:55:56	-->	calops (calops@RZ-8ugu5f.tocards.net) has joined #Test.
+2015-10-02 08:08:28	<--	calops (calops@RZ-8ugu5f.tocards.net) has quit (Z-Lined: Session limit exceeded (ID: XMYPW9Q4LN))
+2015-10-02 08:39:13	-->	calops (calops@RZ-8ugu5f.tocards.net) has joined #Test.
+2015-10-02 12:24:56	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #Test.
+2015-10-02 12:24:56	--	Topic for #Test. is "#Test. || http://bde-test.fail/ || Tempête de cerveaux : http://pad.gconfs.fr/p/pres-test-2015 || Merci à tous et à toutes (sauf les végétariennes) ! || Votai Test."
+2015-10-02 12:24:56	--	Topic set by halfr on Thu, 19 Mar 2015 16:04:06
+2015-10-02 12:24:56	--	Channel #Test.: 27 nicks (0 ops, 0 halfops, 0 voices, 27 normals)
+2015-10-02 12:24:56	***	Buffer Playback...
+2015-10-02 12:24:56	Nyquist	[10:10:36] Vu que c'est la mode des CoC en ce moment (coucou Github), est-ce que Test. pourrait adopter un CoQ ?
+2015-10-02 12:24:56	Corwin	[11:41:05] On pourrait faire une preuve de Test. avec Coq.
+2015-10-02 12:24:56	Nyquist	[21:01:42] Test. validé
+2015-10-02 12:24:56	halfr	[18:24:00] https://en.wikipedia.org/wiki/Third_place
+2015-10-02 12:24:56	halfr	[18:24:17] je propose que Test. devienne de façon permanente le troisième BDE
+2015-10-02 12:24:56	halfr	[18:24:31] Free or inexpensive -> OK
+2015-10-02 12:24:56	halfr	[18:24:38] Food and drink -> OK
+2015-10-02 12:24:56	halfr	[18:24:44] Highly accessible -> OK
+2015-10-02 12:24:56	halfr	[18:24:48] Involve regulars -> OK
+2015-10-02 12:24:56	halfr	[18:24:52] Welcoming and comfortable -> OK
+2015-10-02 12:24:56	halfr	[18:24:57] Both new friends and old should be found there -> OK
+2015-10-02 12:24:56	seirl	[18:26:04] pour ça il faut qu'il y ait deux BDE
+2015-10-02 12:24:56	halfr	[18:26:41] bah... non
+2015-10-02 12:24:56	halfr	[18:26:52] on peut juste s'autoproclamer troisième
+2015-10-02 12:24:56	halfr	[18:27:17] au pire si on a qu'un seul autre bde ça fera mindfuck les gens
+2015-10-02 12:24:56	seirl	[18:27:58] :D
+2015-10-02 12:24:56	Zeletochoy	[18:29:13] oh oui, faut absoluent qu'il y ait qu'un autre BDE
+2015-10-02 12:24:56	Zeletochoy	[18:29:25] comme ça on peut être 3e et casser le sens
+2015-10-02 12:24:56	coproduit	[00:42:31] http://www.functor.se/
+2015-10-02 12:24:56	coproduit	[00:42:40] https://www.facebook.com/photo.php?fbid=875965092500307
+2015-10-02 12:24:56	seirl	[00:43:49] :D :D :D
+2015-10-02 12:24:56	coproduit	[00:44:17] > We admit that a functor is a mathematical concept. After all, we are a research spinoff and our tools rely on advanced programming advances; otherwise they would not be disruptive as they are, even called *the next programming paradigm*.
+2015-10-02 12:24:56	coproduit	[00:44:39] > We truly are functors at Functor. A dazzling fact, if grasped.
+2015-10-02 12:24:56	coproduit	[00:46:00] leur annonce de recrutement ( https://www.linkedin.com/jobs2/view/60296037 ) est pas mal aussi
+2015-10-02 12:24:56	coproduit	[00:46:08] > Ocaml and Haskell talents, with or without PhD's, with industrial experience, passionate and talented for advanced functional programming and disruptive new technology based on Martin-Löf type theory, which we pioneer to the industry, as covered in Swedish news journal recently, a journal dedicated to the embedded software industry. 
+2015-10-02 12:24:56	coproduit	[00:46:33] je pensais pas que la théorie des types avait un potentiel buzzword rivalisant avec celui du Big Data
+2015-10-02 12:24:56	Zeletochoy	[00:47:05] c'est des précurseurs
+2015-10-02 12:24:56	seirl	[00:49:34] faut montrer ça à vermeille il va candidater
+2015-10-02 12:24:56	coproduit	[00:51:50] WHO needs a PARADIGM these days and paradigms are dramatic things pertaining to the philosophy of science, right? A paradigm sounds scary, do we need to change everything? ("We will not do any such thing, we can handle our problems with more consultants from IBM and increase the testing budget and I heard about two new tools that can improve testing and Coverity pricing for static analysis is
+2015-10-02 12:24:56	coproduit	[00:51:52] probably acceptable based on the ROI that is reported on those tools..." There is a point when you need to think differently, but, in this case, think largely in the same way anyway, which may seem to be a dichotomy for sure, but it is all about timing.) The word "paradigm" is spot on, I have no doubt at all, but if you asked me a few years ago I would not have known. Mind you, I associate the
+2015-10-02 12:24:56	coproduit	[00:51:54] word paradigm to Thomas Kuhn, the philosopher, and I have never quite liked the terminology of "programming paradigms". I talk about a real paradigm here, not of a fuzzy class of programming languages may or, more likely, may not have even operational semantics these days, and were created after reading up on papers from the 60ies to begin with, like ISWIM and more.
+2015-10-02 12:24:56	coproduit	[00:52:25] punaise c'est épique
+2015-10-02 12:24:56	coproduit	[00:53:24] https://www.facebook.com/photo.php?fbid=876353445794805
+2015-10-02 12:24:56	coproduit	[00:53:35]  There are sentences in an evolving language. Agile was a buzzword and still is, but there is a good point to keep things lightweight, and it is hardly news that rapid prototyping (70ies research) and incremental, iterative development is the way to go. With Functor Saclor™ we an express state charts and UML and programming languages and even, the only previous commercial application of the
+2015-10-02 12:24:56	coproduit	[00:53:37] technology from Functor, called the next programming paradigm, all of the natural languages.
+2015-10-02 12:24:56	coproduit	[00:53:48] bon je pourrais poster essentiellement tout le post donc je vais m'arrêter là
+2015-10-02 12:24:56	coproduit	[00:54:04] mais faudrait vraiment demander à « Johan Glimming, PhD » ce qu'il a fumé
+2015-10-02 12:24:56	seirl	[03:20:07] tiens Dettorer 
+2015-10-02 12:24:56	seirl	[03:20:12] on devait pas prendre cher pour epiquote ? :D
+2015-10-02 12:24:56	Zeletochoy	[03:40:07] ?
+2015-10-02 12:24:56	Dettorer	[04:20:59] haha oui
+2015-10-02 12:24:56	Bruce	[07:46:00] ça donne quoi cette histoire au final ? rien ?
+2015-10-02 12:24:56	Mareo	[13:37:07] c'est quoi cette histoire ?
+2015-10-02 12:24:56	Dettorer	[14:43:26] apparemment un prof était assez remonté contre epiquote y'a quelques mois, quelqu'un l'avait vu assez énervé dans un couloir en train de dire qu'on allait entendre parler de lui
+2015-10-02 12:24:56	Dettorer	[14:43:44] c'était avant les vacances, on a rien eu pour l'instant
+2015-10-02 12:24:56	Corwin	[14:43:58] il a pas dû parler assez fort, ça arrive
+2015-10-02 12:24:56	clippix	[14:49:36] Dettorer: Chevallier ?
+2015-10-02 12:24:56	Dettorer	[14:51:26] je sais plus
+2015-10-02 12:24:56	Bruce	[18:15:03]  /Q Zeletochoy 
+2015-10-02 12:24:56	Bruce	[18:15:08] rah.
+2015-10-02 12:24:56	Corwin	[19:40:29] raté
+2015-10-02 12:24:56	***	Playback Complete.
+2015-10-02 12:25:02	--	Channel created on Sun, 10 Nov 2013 18:42:17
+2015-10-02 20:33:06	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #Test.
+2015-10-02 20:33:06	--	Topic for #Test. is "#Test. || http://bde-test.fail/ || Tempête de cerveaux : http://pad.gconfs.fr/p/pres-test-2015 || Merci à tous et à toutes (sauf les végétariennes) ! || Votai Test."
+2015-10-02 20:33:06	--	Topic set by halfr on Thu, 19 Mar 2015 16:04:06
+2015-10-02 20:33:06	--	Channel #Test.: 27 nicks (0 ops, 0 halfops, 0 voices, 27 normals)
+2015-10-02 20:33:06	***	Buffer Playback...
+2015-10-02 20:33:06	Nyquist	[10:10:36] Vu que c'est la mode des CoC en ce moment (coucou Github), est-ce que Test. pourrait adopter un CoQ ?
+2015-10-02 20:33:06	Corwin	[11:41:05] On pourrait faire une preuve de Test. avec Coq.
+2015-10-02 20:33:06	Nyquist	[21:01:42] Test. validé
+2015-10-02 20:33:06	halfr	[18:24:00] https://en.wikipedia.org/wiki/Third_place
+2015-10-02 20:33:06	halfr	[18:24:17] je propose que Test. devienne de façon permanente le troisième BDE
+2015-10-02 20:33:06	halfr	[18:24:31] Free or inexpensive -> OK
+2015-10-02 20:33:06	halfr	[18:24:38] Food and drink -> OK
+2015-10-02 20:33:06	halfr	[18:24:44] Highly accessible -> OK
+2015-10-02 20:33:06	halfr	[18:24:48] Involve regulars -> OK
+2015-10-02 20:33:06	halfr	[18:24:52] Welcoming and comfortable -> OK
+2015-10-02 20:33:06	halfr	[18:24:57] Both new friends and old should be found there -> OK
+2015-10-02 20:33:06	seirl	[18:26:04] pour ça il faut qu'il y ait deux BDE
+2015-10-02 20:33:06	halfr	[18:26:41] bah... non
+2015-10-02 20:33:06	halfr	[18:26:52] on peut juste s'autoproclamer troisième
+2015-10-02 20:33:06	halfr	[18:27:17] au pire si on a qu'un seul autre bde ça fera mindfuck les gens
+2015-10-02 20:33:06	seirl	[18:27:58] :D
+2015-10-02 20:33:06	Zeletochoy	[18:29:13] oh oui, faut absoluent qu'il y ait qu'un autre BDE
+2015-10-02 20:33:06	Zeletochoy	[18:29:25] comme ça on peut être 3e et casser le sens
+2015-10-02 20:33:06	coproduit	[00:42:31] http://www.functor.se/
+2015-10-02 20:33:06	coproduit	[00:42:40] https://www.facebook.com/photo.php?fbid=875965092500307
+2015-10-02 20:33:06	seirl	[00:43:49] :D :D :D
+2015-10-02 20:33:06	coproduit	[00:44:17] > We admit that a functor is a mathematical concept. After all, we are a research spinoff and our tools rely on advanced programming advances; otherwise they would not be disruptive as they are, even called *the next programming paradigm*.
+2015-10-02 20:33:06	coproduit	[00:44:39] > We truly are functors at Functor. A dazzling fact, if grasped.
+2015-10-02 20:33:06	coproduit	[00:46:00] leur annonce de recrutement ( https://www.linkedin.com/jobs2/view/60296037 ) est pas mal aussi
+2015-10-02 20:33:06	coproduit	[00:46:08] > Ocaml and Haskell talents, with or without PhD's, with industrial experience, passionate and talented for advanced functional programming and disruptive new technology based on Martin-Löf type theory, which we pioneer to the industry, as covered in Swedish news journal recently, a journal dedicated to the embedded software industry. 
+2015-10-02 20:33:06	coproduit	[00:46:33] je pensais pas que la théorie des types avait un potentiel buzzword rivalisant avec celui du Big Data
+2015-10-02 20:33:06	Zeletochoy	[00:47:05] c'est des précurseurs
+2015-10-02 20:33:06	seirl	[00:49:34] faut montrer ça à vermeille il va candidater
+2015-10-02 20:33:06	coproduit	[00:51:50] WHO needs a PARADIGM these days and paradigms are dramatic things pertaining to the philosophy of science, right? A paradigm sounds scary, do we need to change everything? ("We will not do any such thing, we can handle our problems with more consultants from IBM and increase the testing budget and I heard about two new tools that can improve testing and Coverity pricing for static analysis is
+2015-10-02 20:33:06	coproduit	[00:51:52] probably acceptable based on the ROI that is reported on those tools..." There is a point when you need to think differently, but, in this case, think largely in the same way anyway, which may seem to be a dichotomy for sure, but it is all about timing.) The word "paradigm" is spot on, I have no doubt at all, but if you asked me a few years ago I would not have known. Mind you, I associate the
+2015-10-02 20:33:06	coproduit	[00:51:54] word paradigm to Thomas Kuhn, the philosopher, and I have never quite liked the terminology of "programming paradigms". I talk about a real paradigm here, not of a fuzzy class of programming languages may or, more likely, may not have even operational semantics these days, and were created after reading up on papers from the 60ies to begin with, like ISWIM and more.
+2015-10-02 20:33:06	coproduit	[00:52:25] punaise c'est épique
+2015-10-02 20:33:06	coproduit	[00:53:24] https://www.facebook.com/photo.php?fbid=876353445794805
+2015-10-02 20:33:06	coproduit	[00:53:35]  There are sentences in an evolving language. Agile was a buzzword and still is, but there is a good point to keep things lightweight, and it is hardly news that rapid prototyping (70ies research) and incremental, iterative development is the way to go. With Functor Saclor™ we an express state charts and UML and programming languages and even, the only previous commercial application of the
+2015-10-02 20:33:06	coproduit	[00:53:37] technology from Functor, called the next programming paradigm, all of the natural languages.
+2015-10-02 20:33:06	coproduit	[00:53:48] bon je pourrais poster essentiellement tout le post donc je vais m'arrêter là
+2015-10-02 20:33:06	coproduit	[00:54:04] mais faudrait vraiment demander à « Johan Glimming, PhD » ce qu'il a fumé
+2015-10-02 20:33:06	seirl	[03:20:07] tiens Dettorer 
+2015-10-02 20:33:06	seirl	[03:20:12] on devait pas prendre cher pour epiquote ? :D
+2015-10-02 20:33:06	Zeletochoy	[03:40:07] ?
+2015-10-02 20:33:06	Dettorer	[04:20:59] haha oui
+2015-10-02 20:33:06	Bruce	[07:46:00] ça donne quoi cette histoire au final ? rien ?
+2015-10-02 20:33:06	Mareo	[13:37:07] c'est quoi cette histoire ?
+2015-10-02 20:33:06	Dettorer	[14:43:26] apparemment un prof était assez remonté contre epiquote y'a quelques mois, quelqu'un l'avait vu assez énervé dans un couloir en train de dire qu'on allait entendre parler de lui
+2015-10-02 20:33:06	Dettorer	[14:43:44] c'était avant les vacances, on a rien eu pour l'instant
+2015-10-02 20:33:06	Corwin	[14:43:58] il a pas dû parler assez fort, ça arrive
+2015-10-02 20:33:06	clippix	[14:49:36] Dettorer: Chevallier ?
+2015-10-02 20:33:06	Dettorer	[14:51:26] je sais plus
+2015-10-02 20:33:06	Bruce	[18:15:03]  /Q Zeletochoy 
+2015-10-02 20:33:06	Bruce	[18:15:08] rah.
+2015-10-02 20:33:06	Corwin	[19:40:29] raté
+2015-10-02 20:33:06	***	Playback Complete.
+2015-10-02 20:33:12	--	Channel created on Sun, 10 Nov 2013 18:42:17
+2015-10-02 23:46:25	-->	Horang (horang@RZ-q4rd0d.cn4e.kqqj.0e35.2a01.IP) has joined #Test.
+2015-10-02 23:46:35	-->	jm (jm@RZ-b70aub.fbx.proxad.net) has joined #Test.
+2015-10-02 23:50:09	<--	Horang (horang@RZ-q4rd0d.cn4e.kqqj.0e35.2a01.IP) has left #Test. ("WeeChat 0.4.2")
+2015-10-02 23:53:33	<--	jm (jm@RZ-b70aub.fbx.proxad.net) has quit (Self-Quit: WeeChat 0.3.7)
+2015-10-03 08:25:41	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #Test.
+2015-10-03 08:25:41	--	Topic for #Test. is "#Test. || http://bde-test.fail/ || Tempête de cerveaux : http://pad.gconfs.fr/p/pres-test-2015 || Merci à tous et à toutes (sauf les végétariennes) ! || Votai Test."
+2015-10-03 08:25:41	--	Topic set by halfr on Thu, 19 Mar 2015 16:04:06
+2015-10-03 08:25:41	--	Channel #Test.: 27 nicks (0 ops, 0 halfops, 0 voices, 27 normals)
+2015-10-03 08:25:41	***	Buffer Playback...
+2015-10-03 08:25:41	Nyquist	[10:10:36] Vu que c'est la mode des CoC en ce moment (coucou Github), est-ce que Test. pourrait adopter un CoQ ?
+2015-10-03 08:25:41	Corwin	[11:41:05] On pourrait faire une preuve de Test. avec Coq.
+2015-10-03 08:25:41	Nyquist	[21:01:42] Test. validé
+2015-10-03 08:25:41	halfr	[18:24:00] https://en.wikipedia.org/wiki/Third_place
+2015-10-03 08:25:41	halfr	[18:24:17] je propose que Test. devienne de façon permanente le troisième BDE
+2015-10-03 08:25:41	halfr	[18:24:31] Free or inexpensive -> OK
+2015-10-03 08:25:41	halfr	[18:24:38] Food and drink -> OK
+2015-10-03 08:25:41	halfr	[18:24:44] Highly accessible -> OK
+2015-10-03 08:25:41	halfr	[18:24:48] Involve regulars -> OK
+2015-10-03 08:25:41	halfr	[18:24:52] Welcoming and comfortable -> OK
+2015-10-03 08:25:41	halfr	[18:24:57] Both new friends and old should be found there -> OK
+2015-10-03 08:25:41	seirl	[18:26:04] pour ça il faut qu'il y ait deux BDE
+2015-10-03 08:25:41	halfr	[18:26:41] bah... non
+2015-10-03 08:25:41	halfr	[18:26:52] on peut juste s'autoproclamer troisième
+2015-10-03 08:25:41	halfr	[18:27:17] au pire si on a qu'un seul autre bde ça fera mindfuck les gens
+2015-10-03 08:25:41	seirl	[18:27:58] :D
+2015-10-03 08:25:41	Zeletochoy	[18:29:13] oh oui, faut absoluent qu'il y ait qu'un autre BDE
+2015-10-03 08:25:41	Zeletochoy	[18:29:25] comme ça on peut être 3e et casser le sens
+2015-10-03 08:25:41	coproduit	[00:42:31] http://www.functor.se/
+2015-10-03 08:25:42	coproduit	[00:42:40] https://www.facebook.com/photo.php?fbid=875965092500307
+2015-10-03 08:25:42	seirl	[00:43:49] :D :D :D
+2015-10-03 08:25:42	coproduit	[00:44:17] > We admit that a functor is a mathematical concept. After all, we are a research spinoff and our tools rely on advanced programming advances; otherwise they would not be disruptive as they are, even called *the next programming paradigm*.
+2015-10-03 08:25:42	coproduit	[00:44:39] > We truly are functors at Functor. A dazzling fact, if grasped.
+2015-10-03 08:25:42	coproduit	[00:46:00] leur annonce de recrutement ( https://www.linkedin.com/jobs2/view/60296037 ) est pas mal aussi
+2015-10-03 08:25:42	coproduit	[00:46:08] > Ocaml and Haskell talents, with or without PhD's, with industrial experience, passionate and talented for advanced functional programming and disruptive new technology based on Martin-Löf type theory, which we pioneer to the industry, as covered in Swedish news journal recently, a journal dedicated to the embedded software industry. 
+2015-10-03 08:25:42	coproduit	[00:46:33] je pensais pas que la théorie des types avait un potentiel buzzword rivalisant avec celui du Big Data
+2015-10-03 08:25:42	Zeletochoy	[00:47:05] c'est des précurseurs
+2015-10-03 08:25:42	seirl	[00:49:34] faut montrer ça à vermeille il va candidater
+2015-10-03 08:25:42	coproduit	[00:51:50] WHO needs a PARADIGM these days and paradigms are dramatic things pertaining to the philosophy of science, right? A paradigm sounds scary, do we need to change everything? ("We will not do any such thing, we can handle our problems with more consultants from IBM and increase the testing budget and I heard about two new tools that can improve testing and Coverity pricing for static analysis is
+2015-10-03 08:25:42	coproduit	[00:51:52] probably acceptable based on the ROI that is reported on those tools..." There is a point when you need to think differently, but, in this case, think largely in the same way anyway, which may seem to be a dichotomy for sure, but it is all about timing.) The word "paradigm" is spot on, I have no doubt at all, but if you asked me a few years ago I would not have known. Mind you, I associate the
+2015-10-03 08:25:42	coproduit	[00:51:54] word paradigm to Thomas Kuhn, the philosopher, and I have never quite liked the terminology of "programming paradigms". I talk about a real paradigm here, not of a fuzzy class of programming languages may or, more likely, may not have even operational semantics these days, and were created after reading up on papers from the 60ies to begin with, like ISWIM and more.
+2015-10-03 08:25:42	coproduit	[00:52:25] punaise c'est épique
+2015-10-03 08:25:42	coproduit	[00:53:24] https://www.facebook.com/photo.php?fbid=876353445794805
+2015-10-03 08:25:42	coproduit	[00:53:35]  There are sentences in an evolving language. Agile was a buzzword and still is, but there is a good point to keep things lightweight, and it is hardly news that rapid prototyping (70ies research) and incremental, iterative development is the way to go. With Functor Saclor™ we an express state charts and UML and programming languages and even, the only previous commercial application of the
+2015-10-03 08:25:42	coproduit	[00:53:37] technology from Functor, called the next programming paradigm, all of the natural languages.
+2015-10-03 08:25:42	coproduit	[00:53:48] bon je pourrais poster essentiellement tout le post donc je vais m'arrêter là
+2015-10-03 08:25:42	coproduit	[00:54:04] mais faudrait vraiment demander à « Johan Glimming, PhD » ce qu'il a fumé
+2015-10-03 08:25:42	seirl	[03:20:07] tiens Dettorer 
+2015-10-03 08:25:42	seirl	[03:20:12] on devait pas prendre cher pour epiquote ? :D
+2015-10-03 08:25:42	Zeletochoy	[03:40:07] ?
+2015-10-03 08:25:42	Dettorer	[04:20:59] haha oui
+2015-10-03 08:25:42	Bruce	[07:46:00] ça donne quoi cette histoire au final ? rien ?
+2015-10-03 08:25:42	Mareo	[13:37:07] c'est quoi cette histoire ?
+2015-10-03 08:25:42	Dettorer	[14:43:26] apparemment un prof était assez remonté contre epiquote y'a quelques mois, quelqu'un l'avait vu assez énervé dans un couloir en train de dire qu'on allait entendre parler de lui
+2015-10-03 08:25:42	Dettorer	[14:43:44] c'était avant les vacances, on a rien eu pour l'instant
+2015-10-03 08:25:42	Corwin	[14:43:58] il a pas dû parler assez fort, ça arrive
+2015-10-03 08:25:42	clippix	[14:49:36] Dettorer: Chevallier ?
+2015-10-03 08:25:42	Dettorer	[14:51:26] je sais plus
+2015-10-03 08:25:42	Bruce	[18:15:03]  /Q Zeletochoy 
+2015-10-03 08:25:42	Bruce	[18:15:08] rah.
+2015-10-03 08:25:42	Corwin	[19:40:29] raté
+2015-10-03 08:25:42	***	Playback Complete.
+2015-10-03 08:26:02	--	Channel created on Sun, 10 Nov 2013 18:42:17
+2015-10-03 18:50:52	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #Test.
+2015-10-03 18:50:52	--	Topic for #Test. is "#Test. || http://bde-test.fail/ || Tempête de cerveaux : http://pad.gconfs.fr/p/pres-test-2015 || Merci à tous et à toutes (sauf les végétariennes) ! || Votai Test."
+2015-10-03 18:50:52	--	Topic set by halfr on Thu, 19 Mar 2015 16:04:06
+2015-10-03 18:50:52	--	Channel #Test.: 27 nicks (0 ops, 0 halfops, 0 voices, 27 normals)
+2015-10-03 18:50:52	***	Buffer Playback...
+2015-10-03 18:50:52	Nyquist	[10:10:36] Vu que c'est la mode des CoC en ce moment (coucou Github), est-ce que Test. pourrait adopter un CoQ ?
+2015-10-03 18:50:52	Corwin	[11:41:05] On pourrait faire une preuve de Test. avec Coq.
+2015-10-03 18:50:52	Nyquist	[21:01:42] Test. validé
+2015-10-03 18:50:52	halfr	[18:24:00] https://en.wikipedia.org/wiki/Third_place
+2015-10-03 18:50:52	halfr	[18:24:17] je propose que Test. devienne de façon permanente le troisième BDE
+2015-10-03 18:50:52	halfr	[18:24:31] Free or inexpensive -> OK
+2015-10-03 18:50:52	halfr	[18:24:38] Food and drink -> OK
+2015-10-03 18:50:52	halfr	[18:24:44] Highly accessible -> OK
+2015-10-03 18:50:52	halfr	[18:24:48] Involve regulars -> OK
+2015-10-03 18:50:52	halfr	[18:24:52] Welcoming and comfortable -> OK
+2015-10-03 18:50:52	halfr	[18:24:57] Both new friends and old should be found there -> OK
+2015-10-03 18:50:52	seirl	[18:26:04] pour ça il faut qu'il y ait deux BDE
+2015-10-03 18:50:52	halfr	[18:26:41] bah... non
+2015-10-03 18:50:52	halfr	[18:26:52] on peut juste s'autoproclamer troisième
+2015-10-03 18:50:52	halfr	[18:27:17] au pire si on a qu'un seul autre bde ça fera mindfuck les gens
+2015-10-03 18:50:52	seirl	[18:27:58] :D
+2015-10-03 18:50:52	Zeletochoy	[18:29:13] oh oui, faut absoluent qu'il y ait qu'un autre BDE
+2015-10-03 18:50:52	Zeletochoy	[18:29:25] comme ça on peut être 3e et casser le sens
+2015-10-03 18:50:52	coproduit	[00:42:31] http://www.functor.se/
+2015-10-03 18:50:52	coproduit	[00:42:40] https://www.facebook.com/photo.php?fbid=875965092500307
+2015-10-03 18:50:52	seirl	[00:43:49] :D :D :D
+2015-10-03 18:50:52	coproduit	[00:44:17] > We admit that a functor is a mathematical concept. After all, we are a research spinoff and our tools rely on advanced programming advances; otherwise they would not be disruptive as they are, even called *the next programming paradigm*.
+2015-10-03 18:50:52	coproduit	[00:44:39] > We truly are functors at Functor. A dazzling fact, if grasped.
+2015-10-03 18:50:52	coproduit	[00:46:00] leur annonce de recrutement ( https://www.linkedin.com/jobs2/view/60296037 ) est pas mal aussi
+2015-10-03 18:50:52	coproduit	[00:46:08] > Ocaml and Haskell talents, with or without PhD's, with industrial experience, passionate and talented for advanced functional programming and disruptive new technology based on Martin-Löf type theory, which we pioneer to the industry, as covered in Swedish news journal recently, a journal dedicated to the embedded software industry. 
+2015-10-03 18:50:52	coproduit	[00:46:33] je pensais pas que la théorie des types avait un potentiel buzzword rivalisant avec celui du Big Data
+2015-10-03 18:50:52	Zeletochoy	[00:47:05] c'est des précurseurs
+2015-10-03 18:50:52	seirl	[00:49:34] faut montrer ça à vermeille il va candidater
+2015-10-03 18:50:52	coproduit	[00:51:50] WHO needs a PARADIGM these days and paradigms are dramatic things pertaining to the philosophy of science, right? A paradigm sounds scary, do we need to change everything? ("We will not do any such thing, we can handle our problems with more consultants from IBM and increase the testing budget and I heard about two new tools that can improve testing and Coverity pricing for static analysis is
+2015-10-03 18:50:52	coproduit	[00:51:52] probably acceptable based on the ROI that is reported on those tools..." There is a point when you need to think differently, but, in this case, think largely in the same way anyway, which may seem to be a dichotomy for sure, but it is all about timing.) The word "paradigm" is spot on, I have no doubt at all, but if you asked me a few years ago I would not have known. Mind you, I associate the
+2015-10-03 18:50:52	coproduit	[00:51:54] word paradigm to Thomas Kuhn, the philosopher, and I have never quite liked the terminology of "programming paradigms". I talk about a real paradigm here, not of a fuzzy class of programming languages may or, more likely, may not have even operational semantics these days, and were created after reading up on papers from the 60ies to begin with, like ISWIM and more.
+2015-10-03 18:50:52	coproduit	[00:52:25] punaise c'est épique
+2015-10-03 18:50:52	coproduit	[00:53:24] https://www.facebook.com/photo.php?fbid=876353445794805
+2015-10-03 18:50:52	coproduit	[00:53:35]  There are sentences in an evolving language. Agile was a buzzword and still is, but there is a good point to keep things lightweight, and it is hardly news that rapid prototyping (70ies research) and incremental, iterative development is the way to go. With Functor Saclor™ we an express state charts and UML and programming languages and even, the only previous commercial application of the
+2015-10-03 18:50:52	coproduit	[00:53:37] technology from Functor, called the next programming paradigm, all of the natural languages.
+2015-10-03 18:50:52	coproduit	[00:53:48] bon je pourrais poster essentiellement tout le post donc je vais m'arrêter là
+2015-10-03 18:50:52	coproduit	[00:54:04] mais faudrait vraiment demander à « Johan Glimming, PhD » ce qu'il a fumé
+2015-10-03 18:50:52	seirl	[03:20:07] tiens Dettorer 
+2015-10-03 18:50:52	seirl	[03:20:12] on devait pas prendre cher pour epiquote ? :D
+2015-10-03 18:50:52	Zeletochoy	[03:40:07] ?
+2015-10-03 18:50:52	Dettorer	[04:20:59] haha oui
+2015-10-03 18:50:52	Bruce	[07:46:00] ça donne quoi cette histoire au final ? rien ?
+2015-10-03 18:50:52	Mareo	[13:37:07] c'est quoi cette histoire ?
+2015-10-03 18:50:52	Dettorer	[14:43:26] apparemment un prof était assez remonté contre epiquote y'a quelques mois, quelqu'un l'avait vu assez énervé dans un couloir en train de dire qu'on allait entendre parler de lui
+2015-10-03 18:50:52	Dettorer	[14:43:44] c'était avant les vacances, on a rien eu pour l'instant
+2015-10-03 18:50:52	Corwin	[14:43:58] il a pas dû parler assez fort, ça arrive
+2015-10-03 18:50:52	clippix	[14:49:36] Dettorer: Chevallier ?
+2015-10-03 18:50:52	Dettorer	[14:51:26] je sais plus
+2015-10-03 18:50:52	Bruce	[18:15:03]  /Q Zeletochoy 
+2015-10-03 18:50:52	Bruce	[18:15:08] rah.
+2015-10-03 18:50:52	Corwin	[19:40:29] raté
+2015-10-03 18:50:52	***	Playback Complete.
+2015-10-03 18:50:57	--	Channel created on Sun, 10 Nov 2013 18:42:17

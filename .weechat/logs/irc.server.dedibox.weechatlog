@@ -7078,4 +7078,401 @@
 2015-10-01 19:05:32	--	- respect de nos obligations légales en vigueur en France.
 2015-10-01 19:05:32	--	-
 2015-10-01 19:05:32	--	- Les canaux officiels sont :
-2015-10-01 19:05:32	--	- - #help (pour toute aide s
+2015-10-01 19:05:32	--	- - #help (pour toute aide sur IRC, Unix, etc.),
+2015-10-01 19:05:32	--	- - #ecp (Chan de l'Ecole Centrale Paris)
+2015-10-01 19:05:32	--	- - #via (Chan de l'asso d'informatique VIA de l'ECP)
+2015-10-01 19:05:32	--	-
+2015-10-01 19:05:32	--	-
+2015-10-01 19:05:32	--	- Le charset préconisé sur RézoSup est l'UTF-8,
+2015-10-01 19:05:32	--	- mais chaque canal est libre du choix de son charset.
+2015-10-01 19:05:32	--	- Plus d'infos : http://www.rezosup.org/charset.phtml
+2015-10-01 19:05:32	--	-
+2015-10-01 19:05:32	--	- Pour toute aide sur les Commandes, tapez la commande :
+2015-10-01 19:05:32	--	-   /helpop
+2015-10-01 19:05:32	--	-
+2015-10-01 19:05:32	--	- Pour toute aide sur les Services, tapez la commande :
+2015-10-01 19:05:32	--	-   /msg helpserv help
+2015-10-01 19:05:32	--	-
+2015-10-01 19:05:32	--	- -----------------------------------------------------------
+2015-10-01 19:05:32	--	End of message of the day.
+2015-10-01 19:05:32	--	User mode [+rx] by mevouc
+2015-10-01 19:05:32	--	You have been marked as being away
+2015-10-01 19:05:43	--	You are no longer marked as being away
+2015-10-02 07:28:56	--	irc: connecting to server sd-80356.dedibox.fr/1996 (SSL)...
+2015-10-02 07:28:56	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-10-02 07:28:56	--	gnutls: receiving 1 certificate
+2015-10-02 07:28:56	--	 - certificate[1] info:
+2015-10-02 07:28:56	--	   - subject `OU=mevouc,CN=host.unknown,EMAIL=mevouc@host.unknown', issuer `OU=mevouc,CN=host.unknown,EMAIL=mevouc@host.unknown', RSA key 2048 bits, signed using RSA-SHA256, activated `2015-08-11 15:00:20 UTC', expires `2025-08-08 15:00:20 UTC', SHA-1 fingerprint `ea8dc72823fe4be7778a60a35266cb6e67caaa09'
+2015-10-02 07:28:56	=!=	gnutls: the hostname in the certificate does NOT match "sd-80356.dedibox.fr"
+2015-10-02 07:28:56	=!=	gnutls: peer's certificate is NOT trusted
+2015-10-02 07:28:56	=!=	gnutls: peer's certificate issuer is unknown
+2015-10-02 07:28:56	--	irc: connected to sd-80356.dedibox.fr/1996 (62.210.108.86)
+2015-10-02 07:28:56	--	Welcome to the RezoSup IRC Network mevouc!mevouc@62.210.108.86
+2015-10-02 07:28:56	--	Your host is irc.ec-paris.rezosup.org, running version InspIRCd-2.0
+2015-10-02 07:28:56	--	This server was created 17:28:23 May 10 2015
+2015-10-02 07:28:56	--	irc.ec-paris.rezosup.org InspIRCd-2.0 BHIRSWhikorswx CHIKMOQRSYabefhijklmnopqrstuvz HIYabefhjkloqv
+2015-10-02 07:28:56	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=Ibe,k,Hfjl,CKMOQRSimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,COQRSUz FNC INVEX=I KICKLEN=255 :are supported by this server
+2015-10-02 07:28:56	--	MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=RezoSup NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ SECURELIST SILENCE=32 SSL=138.195.130.77:6767 STARTTLS :are supported by this server
+2015-10-02 07:28:56	--	STATUSMSG=!~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-10-02 07:28:56	--	There are 410 users and 318 invisible on 10 servers
+2015-10-02 07:28:56	--	17 :operator(s) online
+2015-10-02 07:28:56	--	630 :channels formed
+2015-10-02 07:28:56	--	I have 103 clients and 1 servers
+2015-10-02 07:28:56	--	Current Local Users: 103  Max: 136
+2015-10-02 07:28:56	--	Current Global Users: 728  Max: 936
+2015-10-02 07:28:56	--	irc.ec-paris.rezosup.org message of the day
+2015-10-02 07:28:56	--	-      / __ \___ ____ ____ / ___/__  ______
+2015-10-02 07:28:56	--	-     / /_/ / _ Y_  // __ \\__ \/ / / / __ \
+2015-10-02 07:28:56	--	-    / _, _/  __// // /_/ /__/ / /_/ / /_/ /
+2015-10-02 07:28:56	--	-   /_/ |_|\___//___|____/____/\__,_/ .___/
+2015-10-02 07:28:56	--	-                                  /_/
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- Bienvenue sur le réseau IRC académique RezoSup.
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- En vous connectant à ce réseau, vous devez en accepter
+2015-10-02 07:28:56	--	- la charte de bonne conduite en vigueur qui se trouve sur :
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	-         http://www.rezosup.org/
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- Si vous ne l'acceptez pas, déconnectez-vous immédiatement.
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- Le site des utilisateurs de RezoSup est :
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	-         http://www.rezosup.net/
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- Vous êtes sur le serveur de l'Ecole Centrale Paris.
+2015-10-02 07:28:56	--	- - Port standard : 6667
+2015-10-02 07:28:56	--	- - Port sécurisé : 6767 (SSL/TLS)
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- Les opérateurs sont :
+2015-10-02 07:28:56	--	- - kiwi (ServerAdmin)
+2015-10-02 07:28:56	--	- - Asmadeus
+2015-10-02 07:28:56	--	- Les Opérateurs ne sont pas là pour régler les conflits
+2015-10-02 07:28:56	--	- entre utilisateurs, mais pour assurer le bon fonctionnement
+2015-10-02 07:28:56	--	- du réseau. Nous n'interviendrons que dans le cadre du
+2015-10-02 07:28:56	--	- respect de nos obligations légales en vigueur en France.
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- Les canaux officiels sont :
+2015-10-02 07:28:56	--	- - #help (pour toute aide sur IRC, Unix, etc.),
+2015-10-02 07:28:56	--	- - #ecp (Chan de l'Ecole Centrale Paris)
+2015-10-02 07:28:56	--	- - #via (Chan de l'asso d'informatique VIA de l'ECP)
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- Le charset préconisé sur RézoSup est l'UTF-8,
+2015-10-02 07:28:56	--	- mais chaque canal est libre du choix de son charset.
+2015-10-02 07:28:56	--	- Plus d'infos : http://www.rezosup.org/charset.phtml
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- Pour toute aide sur les Commandes, tapez la commande :
+2015-10-02 07:28:56	--	-   /helpop
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- Pour toute aide sur les Services, tapez la commande :
+2015-10-02 07:28:56	--	-   /msg helpserv help
+2015-10-02 07:28:56	--	-
+2015-10-02 07:28:56	--	- -----------------------------------------------------------
+2015-10-02 07:28:56	--	End of message of the day.
+2015-10-02 07:28:56	--	User mode [+rx] by mevouc
+2015-10-02 07:28:56	--	You have been marked as being away
+2015-10-02 07:29:17	--	You are no longer marked as being away
+2015-10-02 12:24:55	--	irc: connecting to server sd-80356.dedibox.fr/1996 (SSL)...
+2015-10-02 12:24:55	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-10-02 12:24:55	--	gnutls: receiving 1 certificate
+2015-10-02 12:24:55	--	 - certificate[1] info:
+2015-10-02 12:24:55	--	   - subject `OU=mevouc,CN=host.unknown,EMAIL=mevouc@host.unknown', issuer `OU=mevouc,CN=host.unknown,EMAIL=mevouc@host.unknown', RSA key 2048 bits, signed using RSA-SHA256, activated `2015-08-11 15:00:20 UTC', expires `2025-08-08 15:00:20 UTC', SHA-1 fingerprint `ea8dc72823fe4be7778a60a35266cb6e67caaa09'
+2015-10-02 12:24:55	=!=	gnutls: the hostname in the certificate does NOT match "sd-80356.dedibox.fr"
+2015-10-02 12:24:55	=!=	gnutls: peer's certificate is NOT trusted
+2015-10-02 12:24:55	=!=	gnutls: peer's certificate issuer is unknown
+2015-10-02 12:24:55	--	irc: connected to sd-80356.dedibox.fr/1996 (62.210.108.86)
+2015-10-02 12:24:55	--	Welcome to the RezoSup IRC Network mevouc!mevouc@62.210.108.86
+2015-10-02 12:24:55	--	Your host is irc.ec-paris.rezosup.org, running version InspIRCd-2.0
+2015-10-02 12:24:55	--	This server was created 17:28:23 May 10 2015
+2015-10-02 12:24:55	--	irc.ec-paris.rezosup.org InspIRCd-2.0 BHIRSWhikorswx CHIKMOQRSYabefhijklmnopqrstuvz HIYabefhjkloqv
+2015-10-02 12:24:55	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=Ibe,k,Hfjl,CKMOQRSimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,COQRSUz FNC INVEX=I KICKLEN=255 :are supported by this server
+2015-10-02 12:24:55	--	MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=RezoSup NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ SECURELIST SILENCE=32 SSL=138.195.130.77:6767 STARTTLS :are supported by this server
+2015-10-02 12:24:55	--	STATUSMSG=!~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-10-02 12:24:55	--	There are 410 users and 318 invisible on 10 servers
+2015-10-02 12:24:55	--	17 :operator(s) online
+2015-10-02 12:24:55	--	630 :channels formed
+2015-10-02 12:24:55	--	I have 103 clients and 1 servers
+2015-10-02 12:24:55	--	Current Local Users: 103  Max: 136
+2015-10-02 12:24:55	--	Current Global Users: 728  Max: 936
+2015-10-02 12:24:55	--	irc.ec-paris.rezosup.org message of the day
+2015-10-02 12:24:55	--	-      / __ \___ ____ ____ / ___/__  ______
+2015-10-02 12:24:55	--	-     / /_/ / _ Y_  // __ \\__ \/ / / / __ \
+2015-10-02 12:24:55	--	-    / _, _/  __// // /_/ /__/ / /_/ / /_/ /
+2015-10-02 12:24:55	--	-   /_/ |_|\___//___|____/____/\__,_/ .___/
+2015-10-02 12:24:55	--	-                                  /_/
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- Bienvenue sur le réseau IRC académique RezoSup.
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- En vous connectant à ce réseau, vous devez en accepter
+2015-10-02 12:24:55	--	- la charte de bonne conduite en vigueur qui se trouve sur :
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	-         http://www.rezosup.org/
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- Si vous ne l'acceptez pas, déconnectez-vous immédiatement.
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- Le site des utilisateurs de RezoSup est :
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	-         http://www.rezosup.net/
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- Vous êtes sur le serveur de l'Ecole Centrale Paris.
+2015-10-02 12:24:55	--	- - Port standard : 6667
+2015-10-02 12:24:55	--	- - Port sécurisé : 6767 (SSL/TLS)
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- Les opérateurs sont :
+2015-10-02 12:24:55	--	- - kiwi (ServerAdmin)
+2015-10-02 12:24:55	--	- - Asmadeus
+2015-10-02 12:24:55	--	- Les Opérateurs ne sont pas là pour régler les conflits
+2015-10-02 12:24:55	--	- entre utilisateurs, mais pour assurer le bon fonctionnement
+2015-10-02 12:24:55	--	- du réseau. Nous n'interviendrons que dans le cadre du
+2015-10-02 12:24:55	--	- respect de nos obligations légales en vigueur en France.
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- Les canaux officiels sont :
+2015-10-02 12:24:55	--	- - #help (pour toute aide sur IRC, Unix, etc.),
+2015-10-02 12:24:55	--	- - #ecp (Chan de l'Ecole Centrale Paris)
+2015-10-02 12:24:55	--	- - #via (Chan de l'asso d'informatique VIA de l'ECP)
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- Le charset préconisé sur RézoSup est l'UTF-8,
+2015-10-02 12:24:55	--	- mais chaque canal est libre du choix de son charset.
+2015-10-02 12:24:55	--	- Plus d'infos : http://www.rezosup.org/charset.phtml
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- Pour toute aide sur les Commandes, tapez la commande :
+2015-10-02 12:24:55	--	-   /helpop
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- Pour toute aide sur les Services, tapez la commande :
+2015-10-02 12:24:55	--	-   /msg helpserv help
+2015-10-02 12:24:55	--	-
+2015-10-02 12:24:55	--	- -----------------------------------------------------------
+2015-10-02 12:24:55	--	End of message of the day.
+2015-10-02 12:24:55	--	User mode [+rx] by mevouc
+2015-10-02 12:24:55	--	You have been marked as being away
+2015-10-02 12:25:02	--	You are no longer marked as being away
+2015-10-02 20:33:01	--	irc: connecting to server sd-80356.dedibox.fr/1996 (SSL)...
+2015-10-02 20:33:06	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-10-02 20:33:06	--	gnutls: receiving 1 certificate
+2015-10-02 20:33:06	--	 - certificate[1] info:
+2015-10-02 20:33:06	--	   - subject `OU=mevouc,CN=host.unknown,EMAIL=mevouc@host.unknown', issuer `OU=mevouc,CN=host.unknown,EMAIL=mevouc@host.unknown', RSA key 2048 bits, signed using RSA-SHA256, activated `2015-08-11 15:00:20 UTC', expires `2025-08-08 15:00:20 UTC', SHA-1 fingerprint `ea8dc72823fe4be7778a60a35266cb6e67caaa09'
+2015-10-02 20:33:06	=!=	gnutls: the hostname in the certificate does NOT match "sd-80356.dedibox.fr"
+2015-10-02 20:33:06	=!=	gnutls: peer's certificate is NOT trusted
+2015-10-02 20:33:06	=!=	gnutls: peer's certificate issuer is unknown
+2015-10-02 20:33:06	--	irc: connected to sd-80356.dedibox.fr/1996 (62.210.108.86)
+2015-10-02 20:33:06	--	Welcome to the RezoSup IRC Network mevouc!mevouc@62.210.108.86
+2015-10-02 20:33:06	--	Your host is irc.ec-paris.rezosup.org, running version InspIRCd-2.0
+2015-10-02 20:33:06	--	This server was created 17:28:23 May 10 2015
+2015-10-02 20:33:06	--	irc.ec-paris.rezosup.org InspIRCd-2.0 BHIRSWhikorswx CHIKMOQRSYabefhijklmnopqrstuvz HIYabefhjkloqv
+2015-10-02 20:33:06	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=Ibe,k,Hfjl,CKMOQRSimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,COQRSUz FNC INVEX=I KICKLEN=255 :are supported by this server
+2015-10-02 20:33:06	--	MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=RezoSup NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ SECURELIST SILENCE=32 SSL=138.195.130.77:6767 STARTTLS :are supported by this server
+2015-10-02 20:33:06	--	STATUSMSG=!~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-10-02 20:33:06	--	There are 410 users and 318 invisible on 10 servers
+2015-10-02 20:33:06	--	17 :operator(s) online
+2015-10-02 20:33:06	--	630 :channels formed
+2015-10-02 20:33:06	--	I have 103 clients and 1 servers
+2015-10-02 20:33:06	--	Current Local Users: 103  Max: 136
+2015-10-02 20:33:06	--	Current Global Users: 728  Max: 936
+2015-10-02 20:33:06	--	irc.ec-paris.rezosup.org message of the day
+2015-10-02 20:33:06	--	-      / __ \___ ____ ____ / ___/__  ______
+2015-10-02 20:33:06	--	-     / /_/ / _ Y_  // __ \\__ \/ / / / __ \
+2015-10-02 20:33:06	--	-    / _, _/  __// // /_/ /__/ / /_/ / /_/ /
+2015-10-02 20:33:06	--	-   /_/ |_|\___//___|____/____/\__,_/ .___/
+2015-10-02 20:33:06	--	-                                  /_/
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- Bienvenue sur le réseau IRC académique RezoSup.
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- En vous connectant à ce réseau, vous devez en accepter
+2015-10-02 20:33:06	--	- la charte de bonne conduite en vigueur qui se trouve sur :
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	-         http://www.rezosup.org/
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- Si vous ne l'acceptez pas, déconnectez-vous immédiatement.
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- Le site des utilisateurs de RezoSup est :
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	-         http://www.rezosup.net/
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- Vous êtes sur le serveur de l'Ecole Centrale Paris.
+2015-10-02 20:33:06	--	- - Port standard : 6667
+2015-10-02 20:33:06	--	- - Port sécurisé : 6767 (SSL/TLS)
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- Les opérateurs sont :
+2015-10-02 20:33:06	--	- - kiwi (ServerAdmin)
+2015-10-02 20:33:06	--	- - Asmadeus
+2015-10-02 20:33:06	--	- Les Opérateurs ne sont pas là pour régler les conflits
+2015-10-02 20:33:06	--	- entre utilisateurs, mais pour assurer le bon fonctionnement
+2015-10-02 20:33:06	--	- du réseau. Nous n'interviendrons que dans le cadre du
+2015-10-02 20:33:06	--	- respect de nos obligations légales en vigueur en France.
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- Les canaux officiels sont :
+2015-10-02 20:33:06	--	- - #help (pour toute aide sur IRC, Unix, etc.),
+2015-10-02 20:33:06	--	- - #ecp (Chan de l'Ecole Centrale Paris)
+2015-10-02 20:33:06	--	- - #via (Chan de l'asso d'informatique VIA de l'ECP)
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- Le charset préconisé sur RézoSup est l'UTF-8,
+2015-10-02 20:33:06	--	- mais chaque canal est libre du choix de son charset.
+2015-10-02 20:33:06	--	- Plus d'infos : http://www.rezosup.org/charset.phtml
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- Pour toute aide sur les Commandes, tapez la commande :
+2015-10-02 20:33:06	--	-   /helpop
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- Pour toute aide sur les Services, tapez la commande :
+2015-10-02 20:33:06	--	-   /msg helpserv help
+2015-10-02 20:33:06	--	-
+2015-10-02 20:33:06	--	- -----------------------------------------------------------
+2015-10-02 20:33:06	--	End of message of the day.
+2015-10-02 20:33:06	--	User mode [+rx] by mevouc
+2015-10-02 20:33:06	--	You have been marked as being away
+2015-10-02 20:33:12	--	You are no longer marked as being away
+2015-10-02 22:38:35	--	mevouc=+mevouc@RZ-v0n.arq.210.62.IP
+2015-10-02 22:53:53	--	mevouc=+mevouc@RZ-v0n.arq.210.62.IP
+2015-10-02 23:02:02	--	mevouc=+mevouc@RZ-v0n.arq.210.62.IP
+2015-10-03 08:25:41	--	irc: connecting to server sd-80356.dedibox.fr/1996 (SSL)...
+2015-10-03 08:25:41	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-10-03 08:25:41	--	gnutls: receiving 1 certificate
+2015-10-03 08:25:41	--	 - certificate[1] info:
+2015-10-03 08:25:41	--	   - subject `OU=mevouc,CN=host.unknown,EMAIL=mevouc@host.unknown', issuer `OU=mevouc,CN=host.unknown,EMAIL=mevouc@host.unknown', RSA key 2048 bits, signed using RSA-SHA256, activated `2015-08-11 15:00:20 UTC', expires `2025-08-08 15:00:20 UTC', SHA-1 fingerprint `ea8dc72823fe4be7778a60a35266cb6e67caaa09'
+2015-10-03 08:25:41	=!=	gnutls: the hostname in the certificate does NOT match "sd-80356.dedibox.fr"
+2015-10-03 08:25:41	=!=	gnutls: peer's certificate is NOT trusted
+2015-10-03 08:25:41	=!=	gnutls: peer's certificate issuer is unknown
+2015-10-03 08:25:41	--	irc: connected to sd-80356.dedibox.fr/1996 (62.210.108.86)
+2015-10-03 08:25:41	--	Welcome to the RezoSup IRC Network mevouc!mevouc@62.210.108.86
+2015-10-03 08:25:41	--	Your host is irc.ec-paris.rezosup.org, running version InspIRCd-2.0
+2015-10-03 08:25:41	--	This server was created 17:28:23 May 10 2015
+2015-10-03 08:25:41	--	irc.ec-paris.rezosup.org InspIRCd-2.0 BHIRSWhikorswx CHIKMOQRSYabefhijklmnopqrstuvz HIYabefhjkloqv
+2015-10-03 08:25:41	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=Ibe,k,Hfjl,CKMOQRSimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,COQRSUz FNC INVEX=I KICKLEN=255 :are supported by this server
+2015-10-03 08:25:41	--	MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=RezoSup NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ SECURELIST SILENCE=32 SSL=138.195.130.77:6767 STARTTLS :are supported by this server
+2015-10-03 08:25:41	--	STATUSMSG=!~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-10-03 08:25:41	--	There are 410 users and 318 invisible on 10 servers
+2015-10-03 08:25:41	--	17 :operator(s) online
+2015-10-03 08:25:41	--	630 :channels formed
+2015-10-03 08:25:41	--	I have 103 clients and 1 servers
+2015-10-03 08:25:41	--	Current Local Users: 103  Max: 136
+2015-10-03 08:25:41	--	Current Global Users: 728  Max: 936
+2015-10-03 08:25:41	--	irc.ec-paris.rezosup.org message of the day
+2015-10-03 08:25:41	--	-      / __ \___ ____ ____ / ___/__  ______
+2015-10-03 08:25:41	--	-     / /_/ / _ Y_  // __ \\__ \/ / / / __ \
+2015-10-03 08:25:41	--	-    / _, _/  __// // /_/ /__/ / /_/ / /_/ /
+2015-10-03 08:25:41	--	-   /_/ |_|\___//___|____/____/\__,_/ .___/
+2015-10-03 08:25:41	--	-                                  /_/
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- Bienvenue sur le réseau IRC académique RezoSup.
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- En vous connectant à ce réseau, vous devez en accepter
+2015-10-03 08:25:41	--	- la charte de bonne conduite en vigueur qui se trouve sur :
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	-         http://www.rezosup.org/
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- Si vous ne l'acceptez pas, déconnectez-vous immédiatement.
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- Le site des utilisateurs de RezoSup est :
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	-         http://www.rezosup.net/
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- Vous êtes sur le serveur de l'Ecole Centrale Paris.
+2015-10-03 08:25:41	--	- - Port standard : 6667
+2015-10-03 08:25:41	--	- - Port sécurisé : 6767 (SSL/TLS)
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- Les opérateurs sont :
+2015-10-03 08:25:41	--	- - kiwi (ServerAdmin)
+2015-10-03 08:25:41	--	- - Asmadeus
+2015-10-03 08:25:41	--	- Les Opérateurs ne sont pas là pour régler les conflits
+2015-10-03 08:25:41	--	- entre utilisateurs, mais pour assurer le bon fonctionnement
+2015-10-03 08:25:41	--	- du réseau. Nous n'interviendrons que dans le cadre du
+2015-10-03 08:25:41	--	- respect de nos obligations légales en vigueur en France.
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- Les canaux officiels sont :
+2015-10-03 08:25:41	--	- - #help (pour toute aide sur IRC, Unix, etc.),
+2015-10-03 08:25:41	--	- - #ecp (Chan de l'Ecole Centrale Paris)
+2015-10-03 08:25:41	--	- - #via (Chan de l'asso d'informatique VIA de l'ECP)
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- Le charset préconisé sur RézoSup est l'UTF-8,
+2015-10-03 08:25:41	--	- mais chaque canal est libre du choix de son charset.
+2015-10-03 08:25:41	--	- Plus d'infos : http://www.rezosup.org/charset.phtml
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- Pour toute aide sur les Commandes, tapez la commande :
+2015-10-03 08:25:41	--	-   /helpop
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- Pour toute aide sur les Services, tapez la commande :
+2015-10-03 08:25:41	--	-   /msg helpserv help
+2015-10-03 08:25:41	--	-
+2015-10-03 08:25:41	--	- -----------------------------------------------------------
+2015-10-03 08:25:41	--	End of message of the day.
+2015-10-03 08:25:41	--	User mode [+rx] by mevouc
+2015-10-03 08:25:41	--	You have been marked as being away
+2015-10-03 08:26:02	--	You are no longer marked as being away
+2015-10-03 18:50:50	--	irc: connecting to server sd-80356.dedibox.fr/1996 (SSL)...
+2015-10-03 18:50:51	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-10-03 18:50:51	--	gnutls: receiving 1 certificate
+2015-10-03 18:50:51	--	 - certificate[1] info:
+2015-10-03 18:50:51	--	   - subject `OU=mevouc,CN=host.unknown,EMAIL=mevouc@host.unknown', issuer `OU=mevouc,CN=host.unknown,EMAIL=mevouc@host.unknown', RSA key 2048 bits, signed using RSA-SHA256, activated `2015-08-11 15:00:20 UTC', expires `2025-08-08 15:00:20 UTC', SHA-1 fingerprint `ea8dc72823fe4be7778a60a35266cb6e67caaa09'
+2015-10-03 18:50:51	=!=	gnutls: the hostname in the certificate does NOT match "sd-80356.dedibox.fr"
+2015-10-03 18:50:51	=!=	gnutls: peer's certificate is NOT trusted
+2015-10-03 18:50:51	=!=	gnutls: peer's certificate issuer is unknown
+2015-10-03 18:50:51	--	irc: connected to sd-80356.dedibox.fr/1996 (62.210.108.86)
+2015-10-03 18:50:51	--	Welcome to the RezoSup IRC Network mevouc!mevouc@62.210.108.86
+2015-10-03 18:50:51	--	Your host is irc.ec-paris.rezosup.org, running version InspIRCd-2.0
+2015-10-03 18:50:51	--	This server was created 17:28:23 May 10 2015
+2015-10-03 18:50:51	--	irc.ec-paris.rezosup.org InspIRCd-2.0 BHIRSWhikorswx CHIKMOQRSYabefhijklmnopqrstuvz HIYabefhjkloqv
+2015-10-03 18:50:51	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=Ibe,k,Hfjl,CKMOQRSimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,COQRSUz FNC INVEX=I KICKLEN=255 :are supported by this server
+2015-10-03 18:50:51	--	MAP MAXBANS=60 MAXCHANNELS=30 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=RezoSup NICKLEN=31 PREFIX=(Yqaohv)!~&@%+ SECURELIST SILENCE=32 SSL=138.195.130.77:6767 STARTTLS :are supported by this server
+2015-10-03 18:50:51	--	STATUSMSG=!~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-10-03 18:50:51	--	There are 410 users and 318 invisible on 10 servers
+2015-10-03 18:50:51	--	17 :operator(s) online
+2015-10-03 18:50:51	--	630 :channels formed
+2015-10-03 18:50:51	--	I have 103 clients and 1 servers
+2015-10-03 18:50:51	--	Current Local Users: 103  Max: 136
+2015-10-03 18:50:51	--	Current Global Users: 728  Max: 936
+2015-10-03 18:50:51	--	irc.ec-paris.rezosup.org message of the day
+2015-10-03 18:50:51	--	-      / __ \___ ____ ____ / ___/__  ______
+2015-10-03 18:50:51	--	-     / /_/ / _ Y_  // __ \\__ \/ / / / __ \
+2015-10-03 18:50:51	--	-    / _, _/  __// // /_/ /__/ / /_/ / /_/ /
+2015-10-03 18:50:51	--	-   /_/ |_|\___//___|____/____/\__,_/ .___/
+2015-10-03 18:50:51	--	-                                  /_/
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- Bienvenue sur le réseau IRC académique RezoSup.
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- En vous connectant à ce réseau, vous devez en accepter
+2015-10-03 18:50:51	--	- la charte de bonne conduite en vigueur qui se trouve sur :
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	-         http://www.rezosup.org/
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- Si vous ne l'acceptez pas, déconnectez-vous immédiatement.
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- Le site des utilisateurs de RezoSup est :
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	-         http://www.rezosup.net/
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- Vous êtes sur le serveur de l'Ecole Centrale Paris.
+2015-10-03 18:50:51	--	- - Port standard : 6667
+2015-10-03 18:50:51	--	- - Port sécurisé : 6767 (SSL/TLS)
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- Les opérateurs sont :
+2015-10-03 18:50:51	--	- - kiwi (ServerAdmin)
+2015-10-03 18:50:51	--	- - Asmadeus
+2015-10-03 18:50:51	--	- Les Opérateurs ne sont pas là pour régler les conflits
+2015-10-03 18:50:51	--	- entre utilisateurs, mais pour assurer le bon fonctionnement
+2015-10-03 18:50:51	--	- du réseau. Nous n'interviendrons que dans le cadre du
+2015-10-03 18:50:51	--	- respect de nos obligations légales en vigueur en France.
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- Les canaux officiels sont :
+2015-10-03 18:50:51	--	- - #help (pour toute aide sur IRC, Unix, etc.),
+2015-10-03 18:50:51	--	- - #ecp (Chan de l'Ecole Centrale Paris)
+2015-10-03 18:50:51	--	- - #via (Chan de l'asso d'informatique VIA de l'ECP)
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- Le charset préconisé sur RézoSup est l'UTF-8,
+2015-10-03 18:50:51	--	- mais chaque canal est libre du choix de son charset.
+2015-10-03 18:50:51	--	- Plus d'infos : http://www.rezosup.org/charset.phtml
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- Pour toute aide sur les Commandes, tapez la commande :
+2015-10-03 18:50:51	--	-   /helpop
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- Pour toute aide sur les Services, tapez la commande :
+2015-10-03 18:50:51	--	-   /msg helpserv help
+2015-10-03 18:50:51	--	-
+2015-10-03 18:50:51	--	- -----------------------------------------------------------
+2015-10-03 18:50:51	--	End of message of the day.
+2015-10-03 18:50:51	--	User mode [+rx] by mevouc
+2015-10-03 18:50:51	--	You have been marked as being away
+2015-10-03 18:50:57	--	You are no longer marked as being away

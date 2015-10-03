@@ -2986,4 +2986,316 @@
 2015-10-01 19:05:43	~Bruce	[23:40:44] Sinon on s'en branle et on retourne sur #gconfs ?
 2015-10-01 19:05:43	Corwin	[23:40:59] oui
 2015-10-01 19:05:43	~Bruce	[23:42:15] Ah et sinon, pour la partie Pachet, elle en a l'air d'en avoir rien a péter pour la serrure
-2015-10-01 19:05:43
+2015-10-01 19:05:43	~Bruce	[23:42:24] Pluggi fera peut être un résumé un peu plus précis
+2015-10-01 19:05:43	Corwin	[23:42:54] on verra ça en réunion
+2015-10-01 19:05:43	Corwin	[23:42:58] go #gconfs
+2015-10-01 19:05:43	~Bruce	[23:43:15] la serrure non c'est interne au bureau je te rappelle.
+2015-10-01 19:05:43	~Bruce	[23:43:24] +virgules là où il faut
+2015-10-01 19:05:43	Corwin	[23:43:30] ah oui
+2015-10-01 19:05:43	Corwin	[23:43:48] bah mail bureau@
+2015-10-01 19:05:43	~Bruce	[23:43:53] Du coup elle veut qu'on lui montre ça la semaine pro (surtout pour le switch super root)
+2015-10-01 19:05:43	Corwin	[23:43:57] c'est pas le lieu pour en discuter
+2015-10-01 19:05:43	Pluggi	[23:46:58] si ?
+2015-10-01 19:05:43	Pluggi	[23:47:13] en attendant d'envoyer un mail
+2015-10-01 19:05:43	***	Playback Complete.
+2015-10-01 19:05:46	--	Channel created on Sat, 04 Oct 2014 10:42:46
+2015-10-02 07:29:16	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #gconfs-bureau
+2015-10-02 07:29:16	--	Topic for #gconfs-bureau is "Vacances §§ (mais pas trop) | Notes pour la prochaine réunion : http://piratepad.net/pAOL9W1jUr | Notes pour la demande de budget : http://piratepad.net/demandebudget"
+2015-10-02 07:29:16	--	Topic set by Dettorer on Wed, 18 Dec 2013 15:40:46
+2015-10-02 07:29:16	--	Channel #gconfs-bureau: 7 nicks (4 ops, 0 halfops, 0 voices, 3 normals)
+2015-10-02 07:29:16	***	Buffer Playback...
+2015-10-02 07:29:16	~Bruce	[15:13:13] Yop, avant d'en parler sur #gconfs, j'aimerais votre avis sur une idée que j'ai eue : Vu que l'asso a dix ans l'an prochain, ça serait pas cool de faire une "Gconfs Week" (oui bon c'est à peine pompé sur la lse week) histoire de marquer le coup ? ça doit être relou à organiser mais je pense que ça serait vachement cool
+2015-10-02 07:29:16	~Horgix	[15:14:29] go #gconfs
+2015-10-02 07:29:16	Corwin	[15:18:00] :D
+2015-10-02 07:29:16	mevouc	[01:00:35] Euh, c'est normal que j'ai cet écran lorsque j'essaie de me connecter au compte google avec admin@ ? http://puu.sh/jUnRa/66b9708cc8.png
+2015-10-02 07:29:16	~Horgix	[09:24:16] mevouc: j'ai pas le temps de vérifier, mais normalement oui c'est normal
+2015-10-02 07:29:16	~Horgix	[09:24:22] on a tous un account nickname@gconfs.fr now
+2015-10-02 07:29:16	~Horgix	[09:24:31] pour permettre du logging de ce qui se passe sur l'account
+2015-10-02 07:29:16	~Bruce	[09:46:39] au passage Horgix iirc j'ai pas les droits sur le calendar, si c'est comme sur mon calendar google perso je pense que tu peux me filer les droits, histoire de fix ce qu'il faut sans devoir pinger !bureau
+2015-10-02 07:29:16	Pluggi	[15:50:48] Ouai haha
+2015-10-02 07:29:16	Pluggi	[15:50:53] Merde
+2015-10-02 07:29:16	Pluggi	[19:17:26] Au fait vous savez si d'autres gens ont remarqué pour le bouton magique sur la porte ?
+2015-10-02 07:29:16	~Dettorer	[19:18:35] je pense que le mot va se répendre assez vite
+2015-10-02 07:29:16	~Dettorer	[19:18:42] vous avez prévenu l'adm ?
+2015-10-02 07:29:16	Pluggi	[19:18:56] Je crois pas qu'on ait prévenu l'adm non
+2015-10-02 07:29:16	~Zeletochoy	[19:19:23] pas encore
+2015-10-02 07:29:16	~Bruce	[19:31:28] Horgix: j'ai pas accès à la gestion des ML
+2015-10-02 07:29:16	~Bruce	[19:31:31] je suppose que c'est normal ?
+2015-10-02 07:29:16	Pluggi	[16:27:33] Dettorer: la serrure bio ?
+2015-10-02 07:29:16	~Dettorer	[16:27:42] hum oui
+2015-10-02 07:29:16	~Dettorer	[16:27:51] le délire avec la backdoor
+2015-10-02 07:29:16	Pluggi	[16:27:55] non
+2015-10-02 07:29:16	Pluggi	[16:28:06] Horgix voulait aller la voir en personne je crois
+2015-10-02 07:29:16	~Dettorer	[16:28:12] ok
+2015-10-02 07:29:16	Pluggi	[16:28:20] mais n'en parle pas sur #gconfs
+2015-10-02 07:29:16	~Dettorer	[16:28:29] en pratique n'importe qui fait l'affaire
+2015-10-02 07:29:16	Pluggi	[16:28:31] on en a même pas parlé à la réunion
+2015-10-02 07:29:16	~Dettorer	[16:28:36] ok
+2015-10-02 07:29:16	~Dettorer	[16:28:57] ça commence déjà à bien se répandre de toute façon, mais pas de problème
+2015-10-02 07:29:16	~Dettorer	[16:29:14] j'ai pas détaillé mon message dans le doute mais ça me semblait pas trop grave
+2015-10-02 07:29:16	~Dettorer	[16:43:52] ah oui bien le brouillage de piste x)
+2015-10-02 07:29:16	Corwin	[16:56:26] :D
+2015-10-02 07:29:16	~Horgix	[19:41:22] je vais tenter de la voir demain aprem
+2015-10-02 07:29:16	Corwin	[23:38:39] je suis le seul à trouver toogy ridicule là ?
+2015-10-02 07:29:16	~Bruce	[23:38:47] AHEM
+2015-10-02 07:29:16	 *	Bruce [23:38:50] ne dira rien
+2015-10-02 07:29:16	Corwin	[23:39:02] :D
+2015-10-02 07:29:16	mevouc	[23:39:05] non
+2015-10-02 07:29:16	mevouc	[23:39:23] mais c'est bien il a de l'auto-dérision
+2015-10-02 07:29:16	Pluggi	[23:40:21] +1 mevouc 
+2015-10-02 07:29:16	~Bruce	[23:40:44] Sinon on s'en branle et on retourne sur #gconfs ?
+2015-10-02 07:29:16	Corwin	[23:40:59] oui
+2015-10-02 07:29:16	~Bruce	[23:42:15] Ah et sinon, pour la partie Pachet, elle en a l'air d'en avoir rien a péter pour la serrure
+2015-10-02 07:29:16	~Bruce	[23:42:24] Pluggi fera peut être un résumé un peu plus précis
+2015-10-02 07:29:16	Corwin	[23:42:54] on verra ça en réunion
+2015-10-02 07:29:16	Corwin	[23:42:58] go #gconfs
+2015-10-02 07:29:16	~Bruce	[23:43:15] la serrure non c'est interne au bureau je te rappelle.
+2015-10-02 07:29:16	~Bruce	[23:43:24] +virgules là où il faut
+2015-10-02 07:29:16	Corwin	[23:43:30] ah oui
+2015-10-02 07:29:16	Corwin	[23:43:48] bah mail bureau@
+2015-10-02 07:29:16	~Bruce	[23:43:53] Du coup elle veut qu'on lui montre ça la semaine pro (surtout pour le switch super root)
+2015-10-02 07:29:16	Corwin	[23:43:57] c'est pas le lieu pour en discuter
+2015-10-02 07:29:16	Pluggi	[23:46:58] si ?
+2015-10-02 07:29:16	Pluggi	[23:47:13] en attendant d'envoyer un mail
+2015-10-02 07:29:16	***	Playback Complete.
+2015-10-02 07:29:17	--	Channel created on Sat, 04 Oct 2014 10:42:46
+2015-10-02 12:25:01	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #gconfs-bureau
+2015-10-02 12:25:01	--	Topic for #gconfs-bureau is "Vacances §§ (mais pas trop) | Notes pour la prochaine réunion : http://piratepad.net/pAOL9W1jUr | Notes pour la demande de budget : http://piratepad.net/demandebudget"
+2015-10-02 12:25:01	--	Topic set by Dettorer on Wed, 18 Dec 2013 15:40:46
+2015-10-02 12:25:01	--	Channel #gconfs-bureau: 7 nicks (4 ops, 0 halfops, 0 voices, 3 normals)
+2015-10-02 12:25:01	***	Buffer Playback...
+2015-10-02 12:25:01	~Bruce	[15:13:13] Yop, avant d'en parler sur #gconfs, j'aimerais votre avis sur une idée que j'ai eue : Vu que l'asso a dix ans l'an prochain, ça serait pas cool de faire une "Gconfs Week" (oui bon c'est à peine pompé sur la lse week) histoire de marquer le coup ? ça doit être relou à organiser mais je pense que ça serait vachement cool
+2015-10-02 12:25:01	~Horgix	[15:14:29] go #gconfs
+2015-10-02 12:25:01	Corwin	[15:18:00] :D
+2015-10-02 12:25:01	mevouc	[01:00:35] Euh, c'est normal que j'ai cet écran lorsque j'essaie de me connecter au compte google avec admin@ ? http://puu.sh/jUnRa/66b9708cc8.png
+2015-10-02 12:25:01	~Horgix	[09:24:16] mevouc: j'ai pas le temps de vérifier, mais normalement oui c'est normal
+2015-10-02 12:25:01	~Horgix	[09:24:22] on a tous un account nickname@gconfs.fr now
+2015-10-02 12:25:01	~Horgix	[09:24:31] pour permettre du logging de ce qui se passe sur l'account
+2015-10-02 12:25:01	~Bruce	[09:46:39] au passage Horgix iirc j'ai pas les droits sur le calendar, si c'est comme sur mon calendar google perso je pense que tu peux me filer les droits, histoire de fix ce qu'il faut sans devoir pinger !bureau
+2015-10-02 12:25:01	Pluggi	[15:50:48] Ouai haha
+2015-10-02 12:25:01	Pluggi	[15:50:53] Merde
+2015-10-02 12:25:01	Pluggi	[19:17:26] Au fait vous savez si d'autres gens ont remarqué pour le bouton magique sur la porte ?
+2015-10-02 12:25:01	~Dettorer	[19:18:35] je pense que le mot va se répendre assez vite
+2015-10-02 12:25:01	~Dettorer	[19:18:42] vous avez prévenu l'adm ?
+2015-10-02 12:25:01	Pluggi	[19:18:56] Je crois pas qu'on ait prévenu l'adm non
+2015-10-02 12:25:01	~Zeletochoy	[19:19:23] pas encore
+2015-10-02 12:25:01	~Bruce	[19:31:28] Horgix: j'ai pas accès à la gestion des ML
+2015-10-02 12:25:01	~Bruce	[19:31:31] je suppose que c'est normal ?
+2015-10-02 12:25:01	Pluggi	[16:27:33] Dettorer: la serrure bio ?
+2015-10-02 12:25:01	~Dettorer	[16:27:42] hum oui
+2015-10-02 12:25:01	~Dettorer	[16:27:51] le délire avec la backdoor
+2015-10-02 12:25:01	Pluggi	[16:27:55] non
+2015-10-02 12:25:01	Pluggi	[16:28:06] Horgix voulait aller la voir en personne je crois
+2015-10-02 12:25:01	~Dettorer	[16:28:12] ok
+2015-10-02 12:25:01	Pluggi	[16:28:20] mais n'en parle pas sur #gconfs
+2015-10-02 12:25:01	~Dettorer	[16:28:29] en pratique n'importe qui fait l'affaire
+2015-10-02 12:25:01	Pluggi	[16:28:31] on en a même pas parlé à la réunion
+2015-10-02 12:25:01	~Dettorer	[16:28:36] ok
+2015-10-02 12:25:01	~Dettorer	[16:28:57] ça commence déjà à bien se répandre de toute façon, mais pas de problème
+2015-10-02 12:25:01	~Dettorer	[16:29:14] j'ai pas détaillé mon message dans le doute mais ça me semblait pas trop grave
+2015-10-02 12:25:01	~Dettorer	[16:43:52] ah oui bien le brouillage de piste x)
+2015-10-02 12:25:01	Corwin	[16:56:26] :D
+2015-10-02 12:25:01	~Horgix	[19:41:22] je vais tenter de la voir demain aprem
+2015-10-02 12:25:01	Corwin	[23:38:39] je suis le seul à trouver toogy ridicule là ?
+2015-10-02 12:25:01	~Bruce	[23:38:47] AHEM
+2015-10-02 12:25:01	 *	Bruce [23:38:50] ne dira rien
+2015-10-02 12:25:01	Corwin	[23:39:02] :D
+2015-10-02 12:25:01	mevouc	[23:39:05] non
+2015-10-02 12:25:01	mevouc	[23:39:23] mais c'est bien il a de l'auto-dérision
+2015-10-02 12:25:01	Pluggi	[23:40:21] +1 mevouc 
+2015-10-02 12:25:01	~Bruce	[23:40:44] Sinon on s'en branle et on retourne sur #gconfs ?
+2015-10-02 12:25:01	Corwin	[23:40:59] oui
+2015-10-02 12:25:01	~Bruce	[23:42:15] Ah et sinon, pour la partie Pachet, elle en a l'air d'en avoir rien a péter pour la serrure
+2015-10-02 12:25:01	~Bruce	[23:42:24] Pluggi fera peut être un résumé un peu plus précis
+2015-10-02 12:25:01	Corwin	[23:42:54] on verra ça en réunion
+2015-10-02 12:25:01	Corwin	[23:42:58] go #gconfs
+2015-10-02 12:25:01	~Bruce	[23:43:15] la serrure non c'est interne au bureau je te rappelle.
+2015-10-02 12:25:01	~Bruce	[23:43:24] +virgules là où il faut
+2015-10-02 12:25:01	Corwin	[23:43:30] ah oui
+2015-10-02 12:25:01	Corwin	[23:43:48] bah mail bureau@
+2015-10-02 12:25:01	~Bruce	[23:43:53] Du coup elle veut qu'on lui montre ça la semaine pro (surtout pour le switch super root)
+2015-10-02 12:25:01	Corwin	[23:43:57] c'est pas le lieu pour en discuter
+2015-10-02 12:25:01	Pluggi	[23:46:58] si ?
+2015-10-02 12:25:01	Pluggi	[23:47:13] en attendant d'envoyer un mail
+2015-10-02 12:25:01	***	Playback Complete.
+2015-10-02 12:25:10	--	Channel created on Sat, 04 Oct 2014 10:42:46
+2015-10-02 20:33:12	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #gconfs-bureau
+2015-10-02 20:33:12	--	Topic for #gconfs-bureau is "Vacances §§ (mais pas trop) | Notes pour la prochaine réunion : http://piratepad.net/pAOL9W1jUr | Notes pour la demande de budget : http://piratepad.net/demandebudget"
+2015-10-02 20:33:12	--	Topic set by Dettorer on Wed, 18 Dec 2013 15:40:46
+2015-10-02 20:33:12	--	Channel #gconfs-bureau: 7 nicks (4 ops, 0 halfops, 0 voices, 3 normals)
+2015-10-02 20:33:12	***	Buffer Playback...
+2015-10-02 20:33:12	~Bruce	[15:13:13] Yop, avant d'en parler sur #gconfs, j'aimerais votre avis sur une idée que j'ai eue : Vu que l'asso a dix ans l'an prochain, ça serait pas cool de faire une "Gconfs Week" (oui bon c'est à peine pompé sur la lse week) histoire de marquer le coup ? ça doit être relou à organiser mais je pense que ça serait vachement cool
+2015-10-02 20:33:12	~Horgix	[15:14:29] go #gconfs
+2015-10-02 20:33:12	Corwin	[15:18:00] :D
+2015-10-02 20:33:12	mevouc	[01:00:35] Euh, c'est normal que j'ai cet écran lorsque j'essaie de me connecter au compte google avec admin@ ? http://puu.sh/jUnRa/66b9708cc8.png
+2015-10-02 20:33:12	~Horgix	[09:24:16] mevouc: j'ai pas le temps de vérifier, mais normalement oui c'est normal
+2015-10-02 20:33:12	~Horgix	[09:24:22] on a tous un account nickname@gconfs.fr now
+2015-10-02 20:33:12	~Horgix	[09:24:31] pour permettre du logging de ce qui se passe sur l'account
+2015-10-02 20:33:12	~Bruce	[09:46:39] au passage Horgix iirc j'ai pas les droits sur le calendar, si c'est comme sur mon calendar google perso je pense que tu peux me filer les droits, histoire de fix ce qu'il faut sans devoir pinger !bureau
+2015-10-02 20:33:12	Pluggi	[15:50:48] Ouai haha
+2015-10-02 20:33:12	Pluggi	[15:50:53] Merde
+2015-10-02 20:33:12	Pluggi	[19:17:26] Au fait vous savez si d'autres gens ont remarqué pour le bouton magique sur la porte ?
+2015-10-02 20:33:12	~Dettorer	[19:18:35] je pense que le mot va se répendre assez vite
+2015-10-02 20:33:12	~Dettorer	[19:18:42] vous avez prévenu l'adm ?
+2015-10-02 20:33:12	Pluggi	[19:18:56] Je crois pas qu'on ait prévenu l'adm non
+2015-10-02 20:33:12	~Zeletochoy	[19:19:23] pas encore
+2015-10-02 20:33:12	~Bruce	[19:31:28] Horgix: j'ai pas accès à la gestion des ML
+2015-10-02 20:33:12	~Bruce	[19:31:31] je suppose que c'est normal ?
+2015-10-02 20:33:12	Pluggi	[16:27:33] Dettorer: la serrure bio ?
+2015-10-02 20:33:12	~Dettorer	[16:27:42] hum oui
+2015-10-02 20:33:12	~Dettorer	[16:27:51] le délire avec la backdoor
+2015-10-02 20:33:12	Pluggi	[16:27:55] non
+2015-10-02 20:33:12	Pluggi	[16:28:06] Horgix voulait aller la voir en personne je crois
+2015-10-02 20:33:12	~Dettorer	[16:28:12] ok
+2015-10-02 20:33:12	Pluggi	[16:28:20] mais n'en parle pas sur #gconfs
+2015-10-02 20:33:12	~Dettorer	[16:28:29] en pratique n'importe qui fait l'affaire
+2015-10-02 20:33:12	Pluggi	[16:28:31] on en a même pas parlé à la réunion
+2015-10-02 20:33:12	~Dettorer	[16:28:36] ok
+2015-10-02 20:33:12	~Dettorer	[16:28:57] ça commence déjà à bien se répandre de toute façon, mais pas de problème
+2015-10-02 20:33:12	~Dettorer	[16:29:14] j'ai pas détaillé mon message dans le doute mais ça me semblait pas trop grave
+2015-10-02 20:33:12	~Dettorer	[16:43:52] ah oui bien le brouillage de piste x)
+2015-10-02 20:33:12	Corwin	[16:56:26] :D
+2015-10-02 20:33:12	~Horgix	[19:41:22] je vais tenter de la voir demain aprem
+2015-10-02 20:33:12	Corwin	[23:38:39] je suis le seul à trouver toogy ridicule là ?
+2015-10-02 20:33:12	~Bruce	[23:38:47] AHEM
+2015-10-02 20:33:12	 *	Bruce [23:38:50] ne dira rien
+2015-10-02 20:33:12	Corwin	[23:39:02] :D
+2015-10-02 20:33:12	mevouc	[23:39:05] non
+2015-10-02 20:33:12	mevouc	[23:39:23] mais c'est bien il a de l'auto-dérision
+2015-10-02 20:33:12	Pluggi	[23:40:21] +1 mevouc 
+2015-10-02 20:33:12	~Bruce	[23:40:44] Sinon on s'en branle et on retourne sur #gconfs ?
+2015-10-02 20:33:12	Corwin	[23:40:59] oui
+2015-10-02 20:33:12	~Bruce	[23:42:15] Ah et sinon, pour la partie Pachet, elle en a l'air d'en avoir rien a péter pour la serrure
+2015-10-02 20:33:12	~Bruce	[23:42:24] Pluggi fera peut être un résumé un peu plus précis
+2015-10-02 20:33:12	Corwin	[23:42:54] on verra ça en réunion
+2015-10-02 20:33:12	Corwin	[23:42:58] go #gconfs
+2015-10-02 20:33:12	~Bruce	[23:43:15] la serrure non c'est interne au bureau je te rappelle.
+2015-10-02 20:33:12	~Bruce	[23:43:24] +virgules là où il faut
+2015-10-02 20:33:12	Corwin	[23:43:30] ah oui
+2015-10-02 20:33:12	Corwin	[23:43:48] bah mail bureau@
+2015-10-02 20:33:12	~Bruce	[23:43:53] Du coup elle veut qu'on lui montre ça la semaine pro (surtout pour le switch super root)
+2015-10-02 20:33:12	Corwin	[23:43:57] c'est pas le lieu pour en discuter
+2015-10-02 20:33:12	Pluggi	[23:46:58] si ?
+2015-10-02 20:33:12	Pluggi	[23:47:13] en attendant d'envoyer un mail
+2015-10-02 20:33:12	***	Playback Complete.
+2015-10-02 20:33:20	--	Channel created on Sat, 04 Oct 2014 10:42:46
+2015-10-03 08:26:01	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #gconfs-bureau
+2015-10-03 08:26:01	--	Topic for #gconfs-bureau is "Vacances §§ (mais pas trop) | Notes pour la prochaine réunion : http://piratepad.net/pAOL9W1jUr | Notes pour la demande de budget : http://piratepad.net/demandebudget"
+2015-10-03 08:26:01	--	Topic set by Dettorer on Wed, 18 Dec 2013 15:40:46
+2015-10-03 08:26:01	--	Channel #gconfs-bureau: 7 nicks (4 ops, 0 halfops, 0 voices, 3 normals)
+2015-10-03 08:26:01	***	Buffer Playback...
+2015-10-03 08:26:01	~Bruce	[15:13:13] Yop, avant d'en parler sur #gconfs, j'aimerais votre avis sur une idée que j'ai eue : Vu que l'asso a dix ans l'an prochain, ça serait pas cool de faire une "Gconfs Week" (oui bon c'est à peine pompé sur la lse week) histoire de marquer le coup ? ça doit être relou à organiser mais je pense que ça serait vachement cool
+2015-10-03 08:26:01	~Horgix	[15:14:29] go #gconfs
+2015-10-03 08:26:01	Corwin	[15:18:00] :D
+2015-10-03 08:26:01	mevouc	[01:00:35] Euh, c'est normal que j'ai cet écran lorsque j'essaie de me connecter au compte google avec admin@ ? http://puu.sh/jUnRa/66b9708cc8.png
+2015-10-03 08:26:01	~Horgix	[09:24:16] mevouc: j'ai pas le temps de vérifier, mais normalement oui c'est normal
+2015-10-03 08:26:01	~Horgix	[09:24:22] on a tous un account nickname@gconfs.fr now
+2015-10-03 08:26:01	~Horgix	[09:24:31] pour permettre du logging de ce qui se passe sur l'account
+2015-10-03 08:26:01	~Bruce	[09:46:39] au passage Horgix iirc j'ai pas les droits sur le calendar, si c'est comme sur mon calendar google perso je pense que tu peux me filer les droits, histoire de fix ce qu'il faut sans devoir pinger !bureau
+2015-10-03 08:26:01	Pluggi	[15:50:48] Ouai haha
+2015-10-03 08:26:01	Pluggi	[15:50:53] Merde
+2015-10-03 08:26:01	Pluggi	[19:17:26] Au fait vous savez si d'autres gens ont remarqué pour le bouton magique sur la porte ?
+2015-10-03 08:26:01	~Dettorer	[19:18:35] je pense que le mot va se répendre assez vite
+2015-10-03 08:26:01	~Dettorer	[19:18:42] vous avez prévenu l'adm ?
+2015-10-03 08:26:01	Pluggi	[19:18:56] Je crois pas qu'on ait prévenu l'adm non
+2015-10-03 08:26:01	~Zeletochoy	[19:19:23] pas encore
+2015-10-03 08:26:01	~Bruce	[19:31:28] Horgix: j'ai pas accès à la gestion des ML
+2015-10-03 08:26:01	~Bruce	[19:31:31] je suppose que c'est normal ?
+2015-10-03 08:26:01	Pluggi	[16:27:33] Dettorer: la serrure bio ?
+2015-10-03 08:26:01	~Dettorer	[16:27:42] hum oui
+2015-10-03 08:26:01	~Dettorer	[16:27:51] le délire avec la backdoor
+2015-10-03 08:26:01	Pluggi	[16:27:55] non
+2015-10-03 08:26:01	Pluggi	[16:28:06] Horgix voulait aller la voir en personne je crois
+2015-10-03 08:26:01	~Dettorer	[16:28:12] ok
+2015-10-03 08:26:01	Pluggi	[16:28:20] mais n'en parle pas sur #gconfs
+2015-10-03 08:26:01	~Dettorer	[16:28:29] en pratique n'importe qui fait l'affaire
+2015-10-03 08:26:01	Pluggi	[16:28:31] on en a même pas parlé à la réunion
+2015-10-03 08:26:01	~Dettorer	[16:28:36] ok
+2015-10-03 08:26:01	~Dettorer	[16:28:57] ça commence déjà à bien se répandre de toute façon, mais pas de problème
+2015-10-03 08:26:01	~Dettorer	[16:29:14] j'ai pas détaillé mon message dans le doute mais ça me semblait pas trop grave
+2015-10-03 08:26:01	~Dettorer	[16:43:52] ah oui bien le brouillage de piste x)
+2015-10-03 08:26:01	Corwin	[16:56:26] :D
+2015-10-03 08:26:01	~Horgix	[19:41:22] je vais tenter de la voir demain aprem
+2015-10-03 08:26:01	Corwin	[23:38:39] je suis le seul à trouver toogy ridicule là ?
+2015-10-03 08:26:01	~Bruce	[23:38:47] AHEM
+2015-10-03 08:26:01	 *	Bruce [23:38:50] ne dira rien
+2015-10-03 08:26:01	Corwin	[23:39:02] :D
+2015-10-03 08:26:01	mevouc	[23:39:05] non
+2015-10-03 08:26:01	mevouc	[23:39:23] mais c'est bien il a de l'auto-dérision
+2015-10-03 08:26:01	Pluggi	[23:40:21] +1 mevouc 
+2015-10-03 08:26:01	~Bruce	[23:40:44] Sinon on s'en branle et on retourne sur #gconfs ?
+2015-10-03 08:26:01	Corwin	[23:40:59] oui
+2015-10-03 08:26:01	~Bruce	[23:42:15] Ah et sinon, pour la partie Pachet, elle en a l'air d'en avoir rien a péter pour la serrure
+2015-10-03 08:26:01	~Bruce	[23:42:24] Pluggi fera peut être un résumé un peu plus précis
+2015-10-03 08:26:01	Corwin	[23:42:54] on verra ça en réunion
+2015-10-03 08:26:01	Corwin	[23:42:58] go #gconfs
+2015-10-03 08:26:01	~Bruce	[23:43:15] la serrure non c'est interne au bureau je te rappelle.
+2015-10-03 08:26:01	~Bruce	[23:43:24] +virgules là où il faut
+2015-10-03 08:26:01	Corwin	[23:43:30] ah oui
+2015-10-03 08:26:01	Corwin	[23:43:48] bah mail bureau@
+2015-10-03 08:26:01	~Bruce	[23:43:53] Du coup elle veut qu'on lui montre ça la semaine pro (surtout pour le switch super root)
+2015-10-03 08:26:01	Corwin	[23:43:57] c'est pas le lieu pour en discuter
+2015-10-03 08:26:01	Pluggi	[23:46:58] si ?
+2015-10-03 08:26:01	Pluggi	[23:47:13] en attendant d'envoyer un mail
+2015-10-03 08:26:01	***	Playback Complete.
+2015-10-03 08:26:02	--	Channel created on Sat, 04 Oct 2014 10:42:46
+2015-10-03 18:50:57	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #gconfs-bureau
+2015-10-03 18:50:57	--	Topic for #gconfs-bureau is "Vacances §§ (mais pas trop) | Notes pour la prochaine réunion : http://piratepad.net/pAOL9W1jUr | Notes pour la demande de budget : http://piratepad.net/demandebudget"
+2015-10-03 18:50:57	--	Topic set by Dettorer on Wed, 18 Dec 2013 15:40:46
+2015-10-03 18:50:57	--	Channel #gconfs-bureau: 7 nicks (4 ops, 0 halfops, 0 voices, 3 normals)
+2015-10-03 18:50:57	***	Buffer Playback...
+2015-10-03 18:50:57	~Bruce	[15:13:13] Yop, avant d'en parler sur #gconfs, j'aimerais votre avis sur une idée que j'ai eue : Vu que l'asso a dix ans l'an prochain, ça serait pas cool de faire une "Gconfs Week" (oui bon c'est à peine pompé sur la lse week) histoire de marquer le coup ? ça doit être relou à organiser mais je pense que ça serait vachement cool
+2015-10-03 18:50:57	~Horgix	[15:14:29] go #gconfs
+2015-10-03 18:50:57	Corwin	[15:18:00] :D
+2015-10-03 18:50:57	mevouc	[01:00:35] Euh, c'est normal que j'ai cet écran lorsque j'essaie de me connecter au compte google avec admin@ ? http://puu.sh/jUnRa/66b9708cc8.png
+2015-10-03 18:50:57	~Horgix	[09:24:16] mevouc: j'ai pas le temps de vérifier, mais normalement oui c'est normal
+2015-10-03 18:50:57	~Horgix	[09:24:22] on a tous un account nickname@gconfs.fr now
+2015-10-03 18:50:57	~Horgix	[09:24:31] pour permettre du logging de ce qui se passe sur l'account
+2015-10-03 18:50:57	~Bruce	[09:46:39] au passage Horgix iirc j'ai pas les droits sur le calendar, si c'est comme sur mon calendar google perso je pense que tu peux me filer les droits, histoire de fix ce qu'il faut sans devoir pinger !bureau
+2015-10-03 18:50:57	Pluggi	[15:50:48] Ouai haha
+2015-10-03 18:50:57	Pluggi	[15:50:53] Merde
+2015-10-03 18:50:57	Pluggi	[19:17:26] Au fait vous savez si d'autres gens ont remarqué pour le bouton magique sur la porte ?
+2015-10-03 18:50:57	~Dettorer	[19:18:35] je pense que le mot va se répendre assez vite
+2015-10-03 18:50:57	~Dettorer	[19:18:42] vous avez prévenu l'adm ?
+2015-10-03 18:50:57	Pluggi	[19:18:56] Je crois pas qu'on ait prévenu l'adm non
+2015-10-03 18:50:57	~Zeletochoy	[19:19:23] pas encore
+2015-10-03 18:50:57	~Bruce	[19:31:28] Horgix: j'ai pas accès à la gestion des ML
+2015-10-03 18:50:57	~Bruce	[19:31:31] je suppose que c'est normal ?
+2015-10-03 18:50:57	Pluggi	[16:27:33] Dettorer: la serrure bio ?
+2015-10-03 18:50:57	~Dettorer	[16:27:42] hum oui
+2015-10-03 18:50:57	~Dettorer	[16:27:51] le délire avec la backdoor
+2015-10-03 18:50:57	Pluggi	[16:27:55] non
+2015-10-03 18:50:57	Pluggi	[16:28:06] Horgix voulait aller la voir en personne je crois
+2015-10-03 18:50:57	~Dettorer	[16:28:12] ok
+2015-10-03 18:50:57	Pluggi	[16:28:20] mais n'en parle pas sur #gconfs
+2015-10-03 18:50:57	~Dettorer	[16:28:29] en pratique n'importe qui fait l'affaire
+2015-10-03 18:50:57	Pluggi	[16:28:31] on en a même pas parlé à la réunion
+2015-10-03 18:50:57	~Dettorer	[16:28:36] ok
+2015-10-03 18:50:57	~Dettorer	[16:28:57] ça commence déjà à bien se répandre de toute façon, mais pas de problème
+2015-10-03 18:50:57	~Dettorer	[16:29:14] j'ai pas détaillé mon message dans le doute mais ça me semblait pas trop grave
+2015-10-03 18:50:57	~Dettorer	[16:43:52] ah oui bien le brouillage de piste x)
+2015-10-03 18:50:57	Corwin	[16:56:26] :D
+2015-10-03 18:50:57	~Horgix	[19:41:22] je vais tenter de la voir demain aprem
+2015-10-03 18:50:57	Corwin	[23:38:39] je suis le seul à trouver toogy ridicule là ?
+2015-10-03 18:50:57	~Bruce	[23:38:47] AHEM
+2015-10-03 18:50:57	 *	Bruce [23:38:50] ne dira rien
+2015-10-03 18:50:57	Corwin	[23:39:02] :D
+2015-10-03 18:50:57	mevouc	[23:39:05] non
+2015-10-03 18:50:57	mevouc	[23:39:23] mais c'est bien il a de l'auto-dérision
+2015-10-03 18:50:57	Pluggi	[23:40:21] +1 mevouc 
+2015-10-03 18:50:57	~Bruce	[23:40:44] Sinon on s'en branle et on retourne sur #gconfs ?
+2015-10-03 18:50:57	Corwin	[23:40:59] oui
+2015-10-03 18:50:57	~Bruce	[23:42:15] Ah et sinon, pour la partie Pachet, elle en a l'air d'en avoir rien a péter pour la serrure
+2015-10-03 18:50:57	~Bruce	[23:42:24] Pluggi fera peut être un résumé un peu plus précis
+2015-10-03 18:50:57	Corwin	[23:42:54] on verra ça en réunion
+2015-10-03 18:50:57	Corwin	[23:42:58] go #gconfs
+2015-10-03 18:50:57	~Bruce	[23:43:15] la serrure non c'est interne au bureau je te rappelle.
+2015-10-03 18:50:57	~Bruce	[23:43:24] +virgules là où il faut
+2015-10-03 18:50:57	Corwin	[23:43:30] ah oui
+2015-10-03 18:50:57	Corwin	[23:43:48] bah mail bureau@
+2015-10-03 18:50:57	~Bruce	[23:43:53] Du coup elle veut qu'on lui montre ça la semaine pro (surtout pour le switch super root)
+2015-10-03 18:50:57	Corwin	[23:43:57] c'est pas le lieu pour en discuter
+2015-10-03 18:50:57	Pluggi	[23:46:58] si ?
+2015-10-03 18:50:57	Pluggi	[23:47:13] en attendant d'envoyer un mail
+2015-10-03 18:50:57	***	Playback Complete.
+2015-10-03 18:51:05	--	Channel created on Sat, 04 Oct 2014 10:42:46

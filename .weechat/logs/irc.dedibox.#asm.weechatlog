@@ -1931,4 +1931,1084 @@
 2015-10-01 19:05:43	&zehir	[22:17:07] donc ça dépend si y a beaucoup de trucs à changer ou si il est complètement fonctionnel
 2015-10-01 19:05:43	&Renaud	[22:30:07] si il sagit juste de faire des fonctionalites basique il est completement fonctionel
 2015-10-01 19:05:43	&Renaud	[22:30:22] Tu gere quel groupe ?
-2015-10-01 19:05:43	&zehir	[2
+2015-10-01 19:05:43	&zehir	[22:34:12] les B2
+2015-10-01 19:05:43	&Renaud	[22:38:47] Bon je t'ai cree un compte
+2015-10-01 19:05:43	&Renaud	[22:39:18] Ca serait cool d'avoir quelqu'un qui fasse du dev web pour gerer un peut le site
+2015-10-01 19:05:43	&Renaud	[22:39:23] (Autre que moi)
+2015-10-01 19:05:43	&Renaud	[22:39:38] De facon a assurer une continuite sur les prochaines annees
+2015-10-01 19:05:43	&zehir	[22:45:09] J'ai posté sur notre groupe, personne a l'air motivé pour l'intra...
+2015-10-01 19:05:43	&yayg	[23:29:14] zehir: tu as posté sur le groupe facebook ?
+2015-10-01 19:05:43	&yayg	[23:30:45] sinon j'aimerais savoir si il va être utilisé car je suis en train de refaire la moulinette python pour faire de l'introspection C/C# donc j'aimerais savoir si je continue ou je ragequit et je formate mon serveur
+2015-10-01 19:05:43	&yayg	[23:31:15] (parce que j'aimerais bien passer mon serveur sous arch)
+2015-10-01 19:05:43	&zehir	[23:34:12] yayg: ouais j'ai posté sur notre groupe fb
+2015-10-01 19:05:43	&zehir	[23:36:01] et clairement ouais continue ta moulinette, même si on utilise pas l'intra au final ça peut servir
+2015-10-01 19:05:43	&yayg	[23:50:00] zehir: c'est un lot, pas d'intra pas de moulinette ;)
+2015-10-01 19:05:43	&yayg	[23:50:26] nan mais si vous l'utilisez pas c'est surtout Renaud qui sera emmerdé
+2015-10-01 19:05:43	&zehir	[00:05:21] bon du coup faudrait peut être abort l'idée, si je suis le seul intéressé et qu'en plus y a la pression pour l'utiliser :/
+2015-10-01 19:05:43	&Renaud	[01:02:14] Nan mais yayg c'est quoi cette pression ?
+2015-10-01 19:05:43	&Renaud	[01:03:56] C'est intolerable !
+2015-10-01 19:05:43	spartax	[15:13:32] quit
+2015-10-01 19:05:43	&yayg	[19:54:44] zehir: je suis désolé si j'ai mis la pression mais c'est juste que la question est pas compliqué et que j'ai pas de réponse de Marwan qui me renvoi vers vous ni de vous :/
+2015-10-01 19:05:43	&yayg	[19:55:33] Tout ce que je voulais savoir c'est si vous l'utiliserez en fait ^^
+2015-10-01 19:05:43	&yayg	[19:56:46] si vous voulez l'utiliser je suis en train de m'activer pour avoir des trucs corrects. Si vous l'utilisez pas ou pas tout de suite je me mets juste moins la pression.
+2015-10-01 19:05:43	&zehir	[19:59:33] yayg: ok bah on va dire que non alors
+2015-10-01 19:05:43	&zehir	[19:59:52] je pensais pouvoir le récupérer "au cas ou", mais j'étais pas sûr du tout de m'en servir
+2015-10-01 19:05:43	***	Playback Complete.
+2015-10-01 19:05:50	--	Channel created on Mon, 28 Sep 2015 13:02:34
+2015-10-02 07:29:16	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #asm
+2015-10-02 07:29:17	--	Topic for #asm is "Chan des ASM - Les vrais assistants"
+2015-10-02 07:29:17	--	Topic set by Corwin (Corwin@RZ-9dvhcm.eu) on Mon, 28 Sep 2015 17:59:20
+2015-10-02 07:29:17	--	Channel #asm: 9 nicks (5 ops, 0 halfops, 0 voices, 4 normals)
+2015-10-02 07:29:17	***	Buffer Playback...
+2015-10-02 07:29:17	~Corwin	[20:52:00] j'invite Marwan ? :D
+2015-10-02 07:29:17	Bruce	[20:52:21] hmm
+2015-10-02 07:29:17	Bruce	[20:52:25] je risque de rager 
+2015-10-02 07:29:17	Bruce	[20:52:27] :D
+2015-10-02 07:29:17	Bruce	[20:52:29] Mais go
+2015-10-02 07:29:17	~Corwin	[20:52:31] done
+2015-10-02 07:29:17	Bruce	[20:52:36] :DDDDDDD
+2015-10-02 07:29:17	~Corwin	[20:52:39] mevouc: coucou
+2015-10-02 07:29:17	~Corwin	[20:52:43] Miinimax: t'es qui ?
+2015-10-02 07:29:17	Miinimax	[20:52:43] Bijour :3
+2015-10-02 07:29:17	Miinimax	[20:53:07] Hmm, un asm actuel :)
+2015-10-02 07:29:17	~Corwin	[20:53:13] lequel ?
+2015-10-02 07:29:17	Miinimax	[20:53:19] boutin_a
+2015-10-02 07:29:17	~Corwin	[20:53:23] ah
+2015-10-02 07:29:17	~Corwin	[20:53:25] ok
+2015-10-02 07:29:17	~Corwin	[20:53:38] et spartax ?
+2015-10-02 07:29:17	&Blue	[20:53:40] Ah je suis content de voir que des gens lisent mes publications :D
+2015-10-02 07:29:17	Miinimax	[20:53:47] Mon binome
+2015-10-02 07:29:17	spartax	[20:54:00] bijour
+2015-10-02 07:29:17	~Corwin	[20:54:21] ah t'as fais un post sur le groupe des asm 2018 Blue 
+2015-10-02 07:29:17	~Corwin	[20:54:25] je me disais aussi
+2015-10-02 07:29:17	~Corwin	[20:54:37] ça fait masse de gens qui joinent d'un coup
+2015-10-02 07:29:17	&Blue	[20:54:43] Oui
+2015-10-02 07:29:17	~Corwin	[20:57:24] vous avez choisis un logo et une catchphrase ?
+2015-10-02 07:29:17	Bruce	[20:57:28] spartax: t'as vraiment un nick de merde
+2015-10-02 07:29:17	~Corwin	[20:57:51] je me disais la même chose
+2015-10-02 07:29:17	~Corwin	[20:58:03] vraiment à chier
+2015-10-02 07:29:17	Bruce	[20:58:12] :D
+2015-10-02 07:29:17	spartax	[20:59:41] script install buffers.pl
+2015-10-02 07:29:17	&Blue	[20:59:46] Pour le logo, pour l'instant on est sur une turret de portal
+2015-10-02 07:29:17	spartax	[20:59:55] petit fail
+2015-10-02 07:29:17	~Corwin	[20:59:57] raté
+2015-10-02 07:29:17	&Blue	[21:00:07] et sur la catchphrase, c'est entre "Are you still there ?" et "Eat, sleep, code, repeat"
+2015-10-02 07:29:17	Bruce	[21:00:11] J'espère que votre slogan sera mieux que le slogan acdc.
+2015-10-02 07:29:17	~Corwin	[21:00:19] le second est cool
+2015-10-02 07:29:17	~Corwin	[21:00:28] mais protip : bougez vous
+2015-10-02 07:29:17	Bruce	[21:00:34] Sinon Judge Dread avec comme slogan "I am the Law" :D
+2015-10-02 07:29:17	&Blue	[21:00:37] Il le sera
+2015-10-02 07:29:17	~Corwin	[21:00:38] ils vont pas vous attendre pour les t-shirts
+2015-10-02 07:29:17	Bruce	[21:00:45] Corwin: vous ne les avez jamais eu ?
+2015-10-02 07:29:17	&Blue	[21:00:46] Ils ne nous ont pas attendus
+2015-10-02 07:29:17	Bruce	[21:00:52] #laviestriste
+2015-10-02 07:29:17	~Corwin	[21:01:04] non
+2015-10-02 07:29:17	~Corwin	[21:04:51] bmoc: on est plus que sur #acdc maintenant
+2015-10-02 07:29:17	Bruce	[22:56:01] salut yayg 
+2015-10-02 07:29:17	Bruce	[22:56:17] pour le moment en asm ici il y a Blue 
+2015-10-02 07:29:17	Bruce	[22:56:23] peut être exy
+2015-10-02 07:29:17	Bruce	[22:56:30] sinon spartax et Miinimax quand ils sont co
+2015-10-02 07:29:17	Bruce	[22:57:06] mais du cou_p Blue si tu peux ajouter Rafael Gozlan a votre groupe FB Asm c'est cool
+2015-10-02 07:29:17	Bruce	[22:57:08] il a un truc a vous dire
+2015-10-02 07:29:17	&Blue	[22:57:12] Les autres sont censés nous rejoindre
+2015-10-02 07:29:17	&Blue	[22:57:35] Hmmm, que veut-il nous dire ?
+2015-10-02 07:29:17	&yayg	[22:57:37] j'aurais 2-3 trucs à vous dire en effet
+2015-10-02 07:29:17	&Blue	[22:57:48] Ok je t'ajoute
+2015-10-02 07:29:17	&Blue	[22:59:48] Hmm, il faut d'abord que je sois ami avec lui
+2015-10-02 07:29:17	Bruce	[23:00:02] ajoute le en ami
+2015-10-02 07:29:17	Bruce	[23:00:04] c'est un mec cool !
+2015-10-02 07:29:17	&yayg	[23:01:15] ensuite si mmmh
+2015-10-02 07:29:17	&yayg	[23:01:22] Marwan est là
+2015-10-02 07:29:17	&yayg	[23:01:24] problème
+2015-10-02 07:29:17	Bruce	[23:01:32] ACH
+2015-10-02 07:29:17	Bruce	[23:01:34] EIN PROBLEM ?
+2015-10-02 07:29:17	Bruce	[23:01:40] IL Y A UNE ZOLUZION
+2015-10-02 07:29:17	Bruce	[23:01:42] FINALE MEME
+2015-10-02 07:29:17	&yayg	[23:02:17] Blue: vous avez fais la réunion avec Marwan ?
+2015-10-02 07:29:17	&Blue	[23:03:04] Oui
+2015-10-02 07:29:17	Bruce	[23:03:12] "vous avez fais" ton orthographe donne le cancer à Chewie yayg 
+2015-10-02 07:29:17	Bruce	[23:03:16] :D
+2015-10-02 07:29:17	~Corwin	[23:08:48] Bruce: add moi aussi au groupe asm plz :D
+2015-10-02 07:29:17	~Corwin	[23:08:52] Blue: ^
+2015-10-02 07:29:17	~Corwin	[23:08:59] putain désolé
+2015-10-02 07:29:17	Bruce	[23:08:59] SALAUD Corwin 
+2015-10-02 07:29:17	Bruce	[23:09:01] :D
+2015-10-02 07:29:17	Bruce	[23:09:03] :D
+2015-10-02 07:29:17	Bruce	[23:09:05] :D
+2015-10-02 07:29:17	marque_o	[23:10:04] Bonsoir
+2015-10-02 07:29:17	~Corwin	[23:10:47] coucou
+2015-10-02 07:29:17	&Blue	[23:11:33] Done
+2015-10-02 07:29:17	mevouc	[23:11:34] trop de monde sur ce chan :D
+2015-10-02 07:29:17	~Corwin	[23:12:39] thx Blue 
+2015-10-02 07:29:17	&Blue	[23:13:25] Thx
+2015-10-02 07:29:17	~Corwin	[23:13:56] je vais vous mettre dans l'access list
+2015-10-02 07:29:17	~Corwin	[23:14:08] marque_o: t'es bien Guillaume Marques ?
+2015-10-02 07:29:17	~Corwin	[23:15:37] exy: t'es un asm ?
+2015-10-02 07:29:17	mevouc	[23:16:03] Bruce: non exy n'est pas asm
+2015-10-02 07:29:17	mevouc	[23:16:06] c'est un sup
+2015-10-02 07:29:17	mevouc	[23:16:10] spé
+2015-10-02 07:29:17	Bruce	[23:16:12] exy: t'es qui ?
+2015-10-02 07:29:17	mevouc	[23:16:13] désolé exy :D
+2015-10-02 07:29:17	mevouc	[23:16:21] un type bien
+2015-10-02 07:29:17	&yayg	[23:16:32] Blue: en gros ça concerne l'intra ASM/ACDC, depuis l'année dernière je l'host.
+2015-10-02 07:29:17	Bruce	[23:16:36] un type bien n'est pas un login matché par les regexp de Satreix que tran__ a cassé
+2015-10-02 07:29:17	&yayg	[23:16:52] Il n'as rien d'officiel mais c'est le seul et il est pas troip mal 
+2015-10-02 07:29:17	&yayg	[23:16:55] trop*
+2015-10-02 07:29:17	~Corwin	[23:17:16] c'est marrant, mevouc t'as pensé tout de suite que c'était Bruce qui posait la question
+2015-10-02 07:29:17	&Blue	[23:17:36] Oui Marwan nous en parlé
+2015-10-02 07:29:17	&yayg	[23:17:36] l'idée c'est si vous avez des gens qui veulent le maintenir (c'est du PHP) faites le savoir
+2015-10-02 07:29:17	&yayg	[23:17:41] ha
+2015-10-02 07:29:17	Bruce	[23:17:44] "c'est du PHP"
+2015-10-02 07:29:17	Bruce	[23:17:47] putain, les mecs…
+2015-10-02 07:29:17	Bruce	[23:17:55] Utilisez des technos viables svp.
+2015-10-02 07:29:17	&yayg	[23:17:59] du coup il vous as dis quoi ?
+2015-10-02 07:29:17	&yayg	[23:18:06] Bruce: TG
+2015-10-02 07:29:17	&Blue	[23:18:07] Mais pour le coup, vu que le rendu est par git et que les clés ssh sont sur l'intra ACU, je suis pas sur qu'on en ai besoin 
+2015-10-02 07:29:17	Bruce	[23:18:15] yayg :D
+2015-10-02 07:29:17	Bruce	[23:18:17] Blue: backup
+2015-10-02 07:29:17	Bruce	[23:18:27] rien que pour ça tu en aura besoin un jour
+2015-10-02 07:29:17	&Blue	[23:18:36] Il nous a dit que la promo d'avant en avait un
+2015-10-02 07:29:17	&Blue	[23:18:58] Il faut voir si quelqu'un veut s'en occuper alors
+2015-10-02 07:29:17	&yayg	[23:19:05] c'est aussi une plateforme qui moulinette en direct les rendus
+2015-10-02 07:29:17	&yayg	[23:19:22] mais si c'est déjà arrangé avec l'intra ACU c'est bien
+2015-10-02 07:29:17	&Blue	[23:19:32] Ah, ça c'est sympa
+2015-10-02 07:29:17	&yayg	[23:19:43] les spé peuvent se connecter à l'intra ACU ?
+2015-10-02 07:29:17	&Blue	[23:19:48] ça m'intéresse déja plus
+2015-10-02 07:29:17	marque_o	[23:19:48] Oui Corwin (désolé du delay)
+2015-10-02 07:29:17	Bruce	[23:19:50] yayg: l'an dernier on pouvait
+2015-10-02 07:29:17	&Blue	[23:19:53] oui
+2015-10-02 07:29:17	&yayg	[23:20:29] ok
+2015-10-02 07:29:17	mevouc	[23:21:07] Corwin: Bruce avait posé la question plus haut
+2015-10-02 07:29:17	~Corwin	[23:21:12] et normalement vous avez accès à leurs dépôt en lecture / écriture
+2015-10-02 07:29:17	~Corwin	[23:21:16] marque_o: ok
+2015-10-02 07:29:17	~Corwin	[23:21:24] np
+2015-10-02 07:29:17	~Corwin	[23:23:04] ça a l'air pas mal organisé cette année
+2015-10-02 07:29:17	~Corwin	[23:23:26] hésitez pas à demander à Marwan d'écrire vous-même les sujets
+2015-10-02 07:29:17	&yayg	[23:25:10] au premier semestre ça peut être un peu chaud mais limite inspirez vous des sujets qu'on a fait l'année dernière pour le premier semestre (sinon Marwan risque grandement de pas vous laisser les faire)
+2015-10-02 07:29:17	marque_o	[23:29:01] Il nous a dit que le s3 passait vraiment vite donc on n'aurait surement pas l'occasion de le faire mais au s4 ouais
+2015-10-02 07:29:17	&Blue	[23:29:16] Il nous a dit qu'il préférerait qu'on s'occupe des sujets du S4 plutot que ceux du S3
+2015-10-02 07:29:17	Bruce	[23:29:52] zehir o///
+2015-10-02 07:29:17	~Corwin	[23:29:59] coucou zehir 
+2015-10-02 07:29:17	&zehir	[23:30:00] yo !
+2015-10-02 07:29:17	Bruce	[23:30:25] zehir est pas asm iirc Corwin 
+2015-10-02 07:29:17	~Corwin	[23:30:30] si
+2015-10-02 07:29:17	&zehir	[23:30:43] sisi
+2015-10-02 07:29:17	Bruce	[23:30:45] oh
+2015-10-02 07:29:17	Bruce	[23:30:48] cool §
+2015-10-02 07:29:17	Bruce	[23:30:53] t'as reçu ce mail du coup :D
+2015-10-02 07:29:17	~Corwin	[23:30:56] michau_n c'est zehir Bruce 
+2015-10-02 07:29:17	Bruce	[23:31:19] j'sais pas, Blue m'a montré le mail, j'ai pas vu mon nom, je suis parti acheter a manger juste après :D
+2015-10-02 07:29:17	marque_o	[23:48:57] Bonne soirée !
+2015-10-02 07:29:17	Greed	[07:57:09] Du coup il y a des asm sur le chan ?
+2015-10-02 07:29:17	Greed	[07:57:27] Ou juste des ex-asm, ing1 et spe ?
+2015-10-02 07:29:17	Greed	[07:58:14] Je vais tenter de guess zehir est asm ?
+2015-10-02 07:29:17	Greed	[07:58:38] Je suppose Blue aussi ?
+2015-10-02 07:29:17	Bruce	[07:59:01] Greed: toutes les personnes qui sont +ao sont ASM 2018
+2015-10-02 07:29:17	Bruce	[07:59:13] le reste c'est soit des spés soit des ing1 qui lurkent :D
+2015-10-02 07:29:17	Greed	[08:00:34] Genre yayg ?
+2015-10-02 07:29:17	Greed	[08:01:09] Il me semble qu'il est yaka (enfin rien ne l'empeche d'etre asm a priori)
+2015-10-02 07:29:17	Greed	[08:01:49] Sinon merci 
+2015-10-02 07:29:17	Greed	[08:01:53] Du coup
+2015-10-02 07:29:17	Greed	[08:02:03] Je vais faire ma propagande
+2015-10-02 07:29:17	Greed	[08:02:14] Ca vous interesse d'avoir un intra ?
+2015-10-02 07:29:17	Greed	[08:02:21] Au hasard celui-la :
+2015-10-02 07:29:17	Greed	[08:02:28] asm.epita.it
+2015-10-02 07:29:17	&Blue	[08:23:19] Greed: Oui je suis asm
+2015-10-02 07:29:17	~Corwin	[09:58:19] Greed: les gens en +ao sont les anciens / nouveaux asm
+2015-10-02 07:29:17	~Corwin	[09:58:28] d'ailleurs...
+2015-10-02 07:29:17	~Corwin	[09:58:57] Greed: t'as pas register ton pseudo ?
+2015-10-02 07:29:17	&zehir	[17:12:58] Greed: t'es un ex asm ?
+2015-10-02 07:29:17	&zehir	[17:13:04] sinon moi je vote pour l'intra
+2015-10-02 07:29:17	~Corwin	[17:13:08] zehir: yep
+2015-10-02 07:29:17	&zehir	[17:13:23] Corwin: c'est qui ?
+2015-10-02 07:29:17	~Corwin	[17:13:28] Renaud
+2015-10-02 07:29:17	&zehir	[17:13:32] ah ok
+2015-10-02 07:29:17	&Renaud	[18:12:04] Corwin j'avais, j'ai pas du me logguer depuis un bout de temps
+2015-10-02 07:29:17	&Renaud	[18:12:10] Et je vais changer de pseudo
+2015-10-02 07:29:17	&Renaud	[18:12:18] *Enfin j'ai
+2015-10-02 07:29:17	&Renaud	[18:15:48] Voila Renaud Register
+2015-10-02 07:29:17	Bruce	[18:16:29] <
+2015-10-02 07:29:17	Bruce	[18:16:32] oups.
+2015-10-02 07:29:17	&Renaud	[18:43:30] zehir: Vous avez quelqu'un que ca ammuse un peut de s
+2015-10-02 07:29:17	&Renaud	[18:43:40] 'occuper de l'intra avec un ACDC ?
+2015-10-02 07:29:17	&zehir	[22:16:49] Renaud: moi éventuellement, mais je m'y connais pas des masses en web
+2015-10-02 07:29:17	&zehir	[22:17:07] donc ça dépend si y a beaucoup de trucs à changer ou si il est complètement fonctionnel
+2015-10-02 07:29:17	&Renaud	[22:30:07] si il sagit juste de faire des fonctionalites basique il est completement fonctionel
+2015-10-02 07:29:17	&Renaud	[22:30:22] Tu gere quel groupe ?
+2015-10-02 07:29:17	&zehir	[22:34:12] les B2
+2015-10-02 07:29:17	&Renaud	[22:38:47] Bon je t'ai cree un compte
+2015-10-02 07:29:17	&Renaud	[22:39:18] Ca serait cool d'avoir quelqu'un qui fasse du dev web pour gerer un peut le site
+2015-10-02 07:29:17	&Renaud	[22:39:23] (Autre que moi)
+2015-10-02 07:29:17	&Renaud	[22:39:38] De facon a assurer une continuite sur les prochaines annees
+2015-10-02 07:29:17	&zehir	[22:45:09] J'ai posté sur notre groupe, personne a l'air motivé pour l'intra...
+2015-10-02 07:29:17	&yayg	[23:29:14] zehir: tu as posté sur le groupe facebook ?
+2015-10-02 07:29:17	&yayg	[23:30:45] sinon j'aimerais savoir si il va être utilisé car je suis en train de refaire la moulinette python pour faire de l'introspection C/C# donc j'aimerais savoir si je continue ou je ragequit et je formate mon serveur
+2015-10-02 07:29:17	&yayg	[23:31:15] (parce que j'aimerais bien passer mon serveur sous arch)
+2015-10-02 07:29:17	&zehir	[23:34:12] yayg: ouais j'ai posté sur notre groupe fb
+2015-10-02 07:29:17	&zehir	[23:36:01] et clairement ouais continue ta moulinette, même si on utilise pas l'intra au final ça peut servir
+2015-10-02 07:29:17	&yayg	[23:50:00] zehir: c'est un lot, pas d'intra pas de moulinette ;)
+2015-10-02 07:29:17	&yayg	[23:50:26] nan mais si vous l'utilisez pas c'est surtout Renaud qui sera emmerdé
+2015-10-02 07:29:17	&zehir	[00:05:21] bon du coup faudrait peut être abort l'idée, si je suis le seul intéressé et qu'en plus y a la pression pour l'utiliser :/
+2015-10-02 07:29:17	&Renaud	[01:02:14] Nan mais yayg c'est quoi cette pression ?
+2015-10-02 07:29:17	&Renaud	[01:03:56] C'est intolerable !
+2015-10-02 07:29:17	spartax	[15:13:32] quit
+2015-10-02 07:29:17	&yayg	[19:54:44] zehir: je suis désolé si j'ai mis la pression mais c'est juste que la question est pas compliqué et que j'ai pas de réponse de Marwan qui me renvoi vers vous ni de vous :/
+2015-10-02 07:29:17	&yayg	[19:55:33] Tout ce que je voulais savoir c'est si vous l'utiliserez en fait ^^
+2015-10-02 07:29:17	&yayg	[19:56:46] si vous voulez l'utiliser je suis en train de m'activer pour avoir des trucs corrects. Si vous l'utilisez pas ou pas tout de suite je me mets juste moins la pression.
+2015-10-02 07:29:17	&zehir	[19:59:33] yayg: ok bah on va dire que non alors
+2015-10-02 07:29:17	&zehir	[19:59:52] je pensais pouvoir le récupérer "au cas ou", mais j'étais pas sûr du tout de m'en servir
+2015-10-02 07:29:17	***	Playback Complete.
+2015-10-02 07:29:20	--	Channel created on Mon, 28 Sep 2015 13:02:34
+2015-10-02 12:25:02	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #asm
+2015-10-02 12:25:02	--	Topic for #asm is "Chan des ASM - Les vrais assistants"
+2015-10-02 12:25:02	--	Topic set by Corwin (Corwin@RZ-9dvhcm.eu) on Mon, 28 Sep 2015 17:59:20
+2015-10-02 12:25:02	--	Channel #asm: 9 nicks (5 ops, 0 halfops, 0 voices, 4 normals)
+2015-10-02 12:25:02	***	Buffer Playback...
+2015-10-02 12:25:02	~Corwin	[20:52:00] j'invite Marwan ? :D
+2015-10-02 12:25:02	Bruce	[20:52:21] hmm
+2015-10-02 12:25:02	Bruce	[20:52:25] je risque de rager 
+2015-10-02 12:25:02	Bruce	[20:52:27] :D
+2015-10-02 12:25:02	Bruce	[20:52:29] Mais go
+2015-10-02 12:25:02	~Corwin	[20:52:31] done
+2015-10-02 12:25:02	Bruce	[20:52:36] :DDDDDDD
+2015-10-02 12:25:02	~Corwin	[20:52:39] mevouc: coucou
+2015-10-02 12:25:02	~Corwin	[20:52:43] Miinimax: t'es qui ?
+2015-10-02 12:25:02	Miinimax	[20:52:43] Bijour :3
+2015-10-02 12:25:02	Miinimax	[20:53:07] Hmm, un asm actuel :)
+2015-10-02 12:25:02	~Corwin	[20:53:13] lequel ?
+2015-10-02 12:25:02	Miinimax	[20:53:19] boutin_a
+2015-10-02 12:25:02	~Corwin	[20:53:23] ah
+2015-10-02 12:25:02	~Corwin	[20:53:25] ok
+2015-10-02 12:25:02	~Corwin	[20:53:38] et spartax ?
+2015-10-02 12:25:02	&Blue	[20:53:40] Ah je suis content de voir que des gens lisent mes publications :D
+2015-10-02 12:25:02	Miinimax	[20:53:47] Mon binome
+2015-10-02 12:25:02	spartax	[20:54:00] bijour
+2015-10-02 12:25:02	~Corwin	[20:54:21] ah t'as fais un post sur le groupe des asm 2018 Blue 
+2015-10-02 12:25:02	~Corwin	[20:54:25] je me disais aussi
+2015-10-02 12:25:02	~Corwin	[20:54:37] ça fait masse de gens qui joinent d'un coup
+2015-10-02 12:25:02	&Blue	[20:54:43] Oui
+2015-10-02 12:25:02	~Corwin	[20:57:24] vous avez choisis un logo et une catchphrase ?
+2015-10-02 12:25:02	Bruce	[20:57:28] spartax: t'as vraiment un nick de merde
+2015-10-02 12:25:02	~Corwin	[20:57:51] je me disais la même chose
+2015-10-02 12:25:02	~Corwin	[20:58:03] vraiment à chier
+2015-10-02 12:25:02	Bruce	[20:58:12] :D
+2015-10-02 12:25:02	spartax	[20:59:41] script install buffers.pl
+2015-10-02 12:25:02	&Blue	[20:59:46] Pour le logo, pour l'instant on est sur une turret de portal
+2015-10-02 12:25:02	spartax	[20:59:55] petit fail
+2015-10-02 12:25:02	~Corwin	[20:59:57] raté
+2015-10-02 12:25:02	&Blue	[21:00:07] et sur la catchphrase, c'est entre "Are you still there ?" et "Eat, sleep, code, repeat"
+2015-10-02 12:25:02	Bruce	[21:00:11] J'espère que votre slogan sera mieux que le slogan acdc.
+2015-10-02 12:25:02	~Corwin	[21:00:19] le second est cool
+2015-10-02 12:25:02	~Corwin	[21:00:28] mais protip : bougez vous
+2015-10-02 12:25:02	Bruce	[21:00:34] Sinon Judge Dread avec comme slogan "I am the Law" :D
+2015-10-02 12:25:02	&Blue	[21:00:37] Il le sera
+2015-10-02 12:25:02	~Corwin	[21:00:38] ils vont pas vous attendre pour les t-shirts
+2015-10-02 12:25:02	Bruce	[21:00:45] Corwin: vous ne les avez jamais eu ?
+2015-10-02 12:25:02	&Blue	[21:00:46] Ils ne nous ont pas attendus
+2015-10-02 12:25:02	Bruce	[21:00:52] #laviestriste
+2015-10-02 12:25:02	~Corwin	[21:01:04] non
+2015-10-02 12:25:02	~Corwin	[21:04:51] bmoc: on est plus que sur #acdc maintenant
+2015-10-02 12:25:02	Bruce	[22:56:01] salut yayg 
+2015-10-02 12:25:02	Bruce	[22:56:17] pour le moment en asm ici il y a Blue 
+2015-10-02 12:25:02	Bruce	[22:56:23] peut être exy
+2015-10-02 12:25:02	Bruce	[22:56:30] sinon spartax et Miinimax quand ils sont co
+2015-10-02 12:25:02	Bruce	[22:57:06] mais du cou_p Blue si tu peux ajouter Rafael Gozlan a votre groupe FB Asm c'est cool
+2015-10-02 12:25:02	Bruce	[22:57:08] il a un truc a vous dire
+2015-10-02 12:25:02	&Blue	[22:57:12] Les autres sont censés nous rejoindre
+2015-10-02 12:25:02	&Blue	[22:57:35] Hmmm, que veut-il nous dire ?
+2015-10-02 12:25:02	&yayg	[22:57:37] j'aurais 2-3 trucs à vous dire en effet
+2015-10-02 12:25:02	&Blue	[22:57:48] Ok je t'ajoute
+2015-10-02 12:25:02	&Blue	[22:59:48] Hmm, il faut d'abord que je sois ami avec lui
+2015-10-02 12:25:02	Bruce	[23:00:02] ajoute le en ami
+2015-10-02 12:25:02	Bruce	[23:00:04] c'est un mec cool !
+2015-10-02 12:25:02	&yayg	[23:01:15] ensuite si mmmh
+2015-10-02 12:25:02	&yayg	[23:01:22] Marwan est là
+2015-10-02 12:25:02	&yayg	[23:01:24] problème
+2015-10-02 12:25:02	Bruce	[23:01:32] ACH
+2015-10-02 12:25:02	Bruce	[23:01:34] EIN PROBLEM ?
+2015-10-02 12:25:02	Bruce	[23:01:40] IL Y A UNE ZOLUZION
+2015-10-02 12:25:02	Bruce	[23:01:42] FINALE MEME
+2015-10-02 12:25:02	&yayg	[23:02:17] Blue: vous avez fais la réunion avec Marwan ?
+2015-10-02 12:25:02	&Blue	[23:03:04] Oui
+2015-10-02 12:25:02	Bruce	[23:03:12] "vous avez fais" ton orthographe donne le cancer à Chewie yayg 
+2015-10-02 12:25:02	Bruce	[23:03:16] :D
+2015-10-02 12:25:02	~Corwin	[23:08:48] Bruce: add moi aussi au groupe asm plz :D
+2015-10-02 12:25:02	~Corwin	[23:08:52] Blue: ^
+2015-10-02 12:25:02	~Corwin	[23:08:59] putain désolé
+2015-10-02 12:25:02	Bruce	[23:08:59] SALAUD Corwin 
+2015-10-02 12:25:02	Bruce	[23:09:01] :D
+2015-10-02 12:25:02	Bruce	[23:09:03] :D
+2015-10-02 12:25:02	Bruce	[23:09:05] :D
+2015-10-02 12:25:02	marque_o	[23:10:04] Bonsoir
+2015-10-02 12:25:02	~Corwin	[23:10:47] coucou
+2015-10-02 12:25:02	&Blue	[23:11:33] Done
+2015-10-02 12:25:02	mevouc	[23:11:34] trop de monde sur ce chan :D
+2015-10-02 12:25:02	~Corwin	[23:12:39] thx Blue 
+2015-10-02 12:25:02	&Blue	[23:13:25] Thx
+2015-10-02 12:25:02	~Corwin	[23:13:56] je vais vous mettre dans l'access list
+2015-10-02 12:25:02	~Corwin	[23:14:08] marque_o: t'es bien Guillaume Marques ?
+2015-10-02 12:25:02	~Corwin	[23:15:37] exy: t'es un asm ?
+2015-10-02 12:25:02	mevouc	[23:16:03] Bruce: non exy n'est pas asm
+2015-10-02 12:25:02	mevouc	[23:16:06] c'est un sup
+2015-10-02 12:25:02	mevouc	[23:16:10] spé
+2015-10-02 12:25:02	Bruce	[23:16:12] exy: t'es qui ?
+2015-10-02 12:25:02	mevouc	[23:16:13] désolé exy :D
+2015-10-02 12:25:02	mevouc	[23:16:21] un type bien
+2015-10-02 12:25:02	&yayg	[23:16:32] Blue: en gros ça concerne l'intra ASM/ACDC, depuis l'année dernière je l'host.
+2015-10-02 12:25:02	Bruce	[23:16:36] un type bien n'est pas un login matché par les regexp de Satreix que tran__ a cassé
+2015-10-02 12:25:02	&yayg	[23:16:52] Il n'as rien d'officiel mais c'est le seul et il est pas troip mal 
+2015-10-02 12:25:02	&yayg	[23:16:55] trop*
+2015-10-02 12:25:02	~Corwin	[23:17:16] c'est marrant, mevouc t'as pensé tout de suite que c'était Bruce qui posait la question
+2015-10-02 12:25:02	&Blue	[23:17:36] Oui Marwan nous en parlé
+2015-10-02 12:25:02	&yayg	[23:17:36] l'idée c'est si vous avez des gens qui veulent le maintenir (c'est du PHP) faites le savoir
+2015-10-02 12:25:02	&yayg	[23:17:41] ha
+2015-10-02 12:25:02	Bruce	[23:17:44] "c'est du PHP"
+2015-10-02 12:25:02	Bruce	[23:17:47] putain, les mecs…
+2015-10-02 12:25:02	Bruce	[23:17:55] Utilisez des technos viables svp.
+2015-10-02 12:25:02	&yayg	[23:17:59] du coup il vous as dis quoi ?
+2015-10-02 12:25:02	&yayg	[23:18:06] Bruce: TG
+2015-10-02 12:25:02	&Blue	[23:18:07] Mais pour le coup, vu que le rendu est par git et que les clés ssh sont sur l'intra ACU, je suis pas sur qu'on en ai besoin 
+2015-10-02 12:25:02	Bruce	[23:18:15] yayg :D
+2015-10-02 12:25:02	Bruce	[23:18:17] Blue: backup
+2015-10-02 12:25:02	Bruce	[23:18:27] rien que pour ça tu en aura besoin un jour
+2015-10-02 12:25:02	&Blue	[23:18:36] Il nous a dit que la promo d'avant en avait un
+2015-10-02 12:25:02	&Blue	[23:18:58] Il faut voir si quelqu'un veut s'en occuper alors
+2015-10-02 12:25:02	&yayg	[23:19:05] c'est aussi une plateforme qui moulinette en direct les rendus
+2015-10-02 12:25:02	&yayg	[23:19:22] mais si c'est déjà arrangé avec l'intra ACU c'est bien
+2015-10-02 12:25:02	&Blue	[23:19:32] Ah, ça c'est sympa
+2015-10-02 12:25:02	&yayg	[23:19:43] les spé peuvent se connecter à l'intra ACU ?
+2015-10-02 12:25:02	&Blue	[23:19:48] ça m'intéresse déja plus
+2015-10-02 12:25:02	marque_o	[23:19:48] Oui Corwin (désolé du delay)
+2015-10-02 12:25:02	Bruce	[23:19:50] yayg: l'an dernier on pouvait
+2015-10-02 12:25:02	&Blue	[23:19:53] oui
+2015-10-02 12:25:02	&yayg	[23:20:29] ok
+2015-10-02 12:25:02	mevouc	[23:21:07] Corwin: Bruce avait posé la question plus haut
+2015-10-02 12:25:02	~Corwin	[23:21:12] et normalement vous avez accès à leurs dépôt en lecture / écriture
+2015-10-02 12:25:02	~Corwin	[23:21:16] marque_o: ok
+2015-10-02 12:25:02	~Corwin	[23:21:24] np
+2015-10-02 12:25:02	~Corwin	[23:23:04] ça a l'air pas mal organisé cette année
+2015-10-02 12:25:02	~Corwin	[23:23:26] hésitez pas à demander à Marwan d'écrire vous-même les sujets
+2015-10-02 12:25:02	&yayg	[23:25:10] au premier semestre ça peut être un peu chaud mais limite inspirez vous des sujets qu'on a fait l'année dernière pour le premier semestre (sinon Marwan risque grandement de pas vous laisser les faire)
+2015-10-02 12:25:02	marque_o	[23:29:01] Il nous a dit que le s3 passait vraiment vite donc on n'aurait surement pas l'occasion de le faire mais au s4 ouais
+2015-10-02 12:25:02	&Blue	[23:29:16] Il nous a dit qu'il préférerait qu'on s'occupe des sujets du S4 plutot que ceux du S3
+2015-10-02 12:25:02	Bruce	[23:29:52] zehir o///
+2015-10-02 12:25:02	~Corwin	[23:29:59] coucou zehir 
+2015-10-02 12:25:02	&zehir	[23:30:00] yo !
+2015-10-02 12:25:02	Bruce	[23:30:25] zehir est pas asm iirc Corwin 
+2015-10-02 12:25:02	~Corwin	[23:30:30] si
+2015-10-02 12:25:02	&zehir	[23:30:43] sisi
+2015-10-02 12:25:02	Bruce	[23:30:45] oh
+2015-10-02 12:25:02	Bruce	[23:30:48] cool §
+2015-10-02 12:25:02	Bruce	[23:30:53] t'as reçu ce mail du coup :D
+2015-10-02 12:25:02	~Corwin	[23:30:56] michau_n c'est zehir Bruce 
+2015-10-02 12:25:02	Bruce	[23:31:19] j'sais pas, Blue m'a montré le mail, j'ai pas vu mon nom, je suis parti acheter a manger juste après :D
+2015-10-02 12:25:02	marque_o	[23:48:57] Bonne soirée !
+2015-10-02 12:25:02	Greed	[07:57:09] Du coup il y a des asm sur le chan ?
+2015-10-02 12:25:02	Greed	[07:57:27] Ou juste des ex-asm, ing1 et spe ?
+2015-10-02 12:25:02	Greed	[07:58:14] Je vais tenter de guess zehir est asm ?
+2015-10-02 12:25:02	Greed	[07:58:38] Je suppose Blue aussi ?
+2015-10-02 12:25:02	Bruce	[07:59:01] Greed: toutes les personnes qui sont +ao sont ASM 2018
+2015-10-02 12:25:02	Bruce	[07:59:13] le reste c'est soit des spés soit des ing1 qui lurkent :D
+2015-10-02 12:25:02	Greed	[08:00:34] Genre yayg ?
+2015-10-02 12:25:02	Greed	[08:01:09] Il me semble qu'il est yaka (enfin rien ne l'empeche d'etre asm a priori)
+2015-10-02 12:25:02	Greed	[08:01:49] Sinon merci 
+2015-10-02 12:25:02	Greed	[08:01:53] Du coup
+2015-10-02 12:25:02	Greed	[08:02:03] Je vais faire ma propagande
+2015-10-02 12:25:02	Greed	[08:02:14] Ca vous interesse d'avoir un intra ?
+2015-10-02 12:25:02	Greed	[08:02:21] Au hasard celui-la :
+2015-10-02 12:25:02	Greed	[08:02:28] asm.epita.it
+2015-10-02 12:25:02	&Blue	[08:23:19] Greed: Oui je suis asm
+2015-10-02 12:25:02	~Corwin	[09:58:19] Greed: les gens en +ao sont les anciens / nouveaux asm
+2015-10-02 12:25:02	~Corwin	[09:58:28] d'ailleurs...
+2015-10-02 12:25:02	~Corwin	[09:58:57] Greed: t'as pas register ton pseudo ?
+2015-10-02 12:25:02	&zehir	[17:12:58] Greed: t'es un ex asm ?
+2015-10-02 12:25:02	&zehir	[17:13:04] sinon moi je vote pour l'intra
+2015-10-02 12:25:02	~Corwin	[17:13:08] zehir: yep
+2015-10-02 12:25:02	&zehir	[17:13:23] Corwin: c'est qui ?
+2015-10-02 12:25:02	~Corwin	[17:13:28] Renaud
+2015-10-02 12:25:02	&zehir	[17:13:32] ah ok
+2015-10-02 12:25:02	&Renaud	[18:12:04] Corwin j'avais, j'ai pas du me logguer depuis un bout de temps
+2015-10-02 12:25:02	&Renaud	[18:12:10] Et je vais changer de pseudo
+2015-10-02 12:25:02	&Renaud	[18:12:18] *Enfin j'ai
+2015-10-02 12:25:02	&Renaud	[18:15:48] Voila Renaud Register
+2015-10-02 12:25:02	Bruce	[18:16:29] <
+2015-10-02 12:25:02	Bruce	[18:16:32] oups.
+2015-10-02 12:25:02	&Renaud	[18:43:30] zehir: Vous avez quelqu'un que ca ammuse un peut de s
+2015-10-02 12:25:02	&Renaud	[18:43:40] 'occuper de l'intra avec un ACDC ?
+2015-10-02 12:25:02	&zehir	[22:16:49] Renaud: moi éventuellement, mais je m'y connais pas des masses en web
+2015-10-02 12:25:02	&zehir	[22:17:07] donc ça dépend si y a beaucoup de trucs à changer ou si il est complètement fonctionnel
+2015-10-02 12:25:02	&Renaud	[22:30:07] si il sagit juste de faire des fonctionalites basique il est completement fonctionel
+2015-10-02 12:25:02	&Renaud	[22:30:22] Tu gere quel groupe ?
+2015-10-02 12:25:02	&zehir	[22:34:12] les B2
+2015-10-02 12:25:02	&Renaud	[22:38:47] Bon je t'ai cree un compte
+2015-10-02 12:25:02	&Renaud	[22:39:18] Ca serait cool d'avoir quelqu'un qui fasse du dev web pour gerer un peut le site
+2015-10-02 12:25:02	&Renaud	[22:39:23] (Autre que moi)
+2015-10-02 12:25:02	&Renaud	[22:39:38] De facon a assurer une continuite sur les prochaines annees
+2015-10-02 12:25:02	&zehir	[22:45:09] J'ai posté sur notre groupe, personne a l'air motivé pour l'intra...
+2015-10-02 12:25:02	&yayg	[23:29:14] zehir: tu as posté sur le groupe facebook ?
+2015-10-02 12:25:02	&yayg	[23:30:45] sinon j'aimerais savoir si il va être utilisé car je suis en train de refaire la moulinette python pour faire de l'introspection C/C# donc j'aimerais savoir si je continue ou je ragequit et je formate mon serveur
+2015-10-02 12:25:02	&yayg	[23:31:15] (parce que j'aimerais bien passer mon serveur sous arch)
+2015-10-02 12:25:02	&zehir	[23:34:12] yayg: ouais j'ai posté sur notre groupe fb
+2015-10-02 12:25:02	&zehir	[23:36:01] et clairement ouais continue ta moulinette, même si on utilise pas l'intra au final ça peut servir
+2015-10-02 12:25:02	&yayg	[23:50:00] zehir: c'est un lot, pas d'intra pas de moulinette ;)
+2015-10-02 12:25:02	&yayg	[23:50:26] nan mais si vous l'utilisez pas c'est surtout Renaud qui sera emmerdé
+2015-10-02 12:25:02	&zehir	[00:05:21] bon du coup faudrait peut être abort l'idée, si je suis le seul intéressé et qu'en plus y a la pression pour l'utiliser :/
+2015-10-02 12:25:02	&Renaud	[01:02:14] Nan mais yayg c'est quoi cette pression ?
+2015-10-02 12:25:02	&Renaud	[01:03:56] C'est intolerable !
+2015-10-02 12:25:02	spartax	[15:13:32] quit
+2015-10-02 12:25:02	&yayg	[19:54:44] zehir: je suis désolé si j'ai mis la pression mais c'est juste que la question est pas compliqué et que j'ai pas de réponse de Marwan qui me renvoi vers vous ni de vous :/
+2015-10-02 12:25:02	&yayg	[19:55:33] Tout ce que je voulais savoir c'est si vous l'utiliserez en fait ^^
+2015-10-02 12:25:02	&yayg	[19:56:46] si vous voulez l'utiliser je suis en train de m'activer pour avoir des trucs corrects. Si vous l'utilisez pas ou pas tout de suite je me mets juste moins la pression.
+2015-10-02 12:25:02	&zehir	[19:59:33] yayg: ok bah on va dire que non alors
+2015-10-02 12:25:02	&zehir	[19:59:52] je pensais pouvoir le récupérer "au cas ou", mais j'étais pas sûr du tout de m'en servir
+2015-10-02 12:25:02	***	Playback Complete.
+2015-10-02 12:25:14	--	Channel created on Mon, 28 Sep 2015 13:02:34
+2015-10-02 20:33:12	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #asm
+2015-10-02 20:33:12	--	Topic for #asm is "Chan des ASM - Les vrais assistants"
+2015-10-02 20:33:12	--	Topic set by Corwin (Corwin@RZ-9dvhcm.eu) on Mon, 28 Sep 2015 17:59:20
+2015-10-02 20:33:12	--	Channel #asm: 9 nicks (4 ops, 0 halfops, 0 voices, 5 normals)
+2015-10-02 20:33:12	***	Buffer Playback...
+2015-10-02 20:33:12	~Corwin	[20:52:00] j'invite Marwan ? :D
+2015-10-02 20:33:12	Bruce	[20:52:21] hmm
+2015-10-02 20:33:12	Bruce	[20:52:25] je risque de rager 
+2015-10-02 20:33:12	Bruce	[20:52:27] :D
+2015-10-02 20:33:12	Bruce	[20:52:29] Mais go
+2015-10-02 20:33:12	~Corwin	[20:52:31] done
+2015-10-02 20:33:12	Bruce	[20:52:36] :DDDDDDD
+2015-10-02 20:33:12	~Corwin	[20:52:39] mevouc: coucou
+2015-10-02 20:33:12	~Corwin	[20:52:43] Miinimax: t'es qui ?
+2015-10-02 20:33:12	Miinimax	[20:52:43] Bijour :3
+2015-10-02 20:33:12	Miinimax	[20:53:07] Hmm, un asm actuel :)
+2015-10-02 20:33:12	~Corwin	[20:53:13] lequel ?
+2015-10-02 20:33:12	Miinimax	[20:53:19] boutin_a
+2015-10-02 20:33:12	~Corwin	[20:53:23] ah
+2015-10-02 20:33:12	~Corwin	[20:53:25] ok
+2015-10-02 20:33:12	~Corwin	[20:53:38] et spartax ?
+2015-10-02 20:33:12	&Blue	[20:53:40] Ah je suis content de voir que des gens lisent mes publications :D
+2015-10-02 20:33:12	Miinimax	[20:53:47] Mon binome
+2015-10-02 20:33:12	spartax	[20:54:00] bijour
+2015-10-02 20:33:12	~Corwin	[20:54:21] ah t'as fais un post sur le groupe des asm 2018 Blue 
+2015-10-02 20:33:12	~Corwin	[20:54:25] je me disais aussi
+2015-10-02 20:33:12	~Corwin	[20:54:37] ça fait masse de gens qui joinent d'un coup
+2015-10-02 20:33:12	&Blue	[20:54:43] Oui
+2015-10-02 20:33:12	~Corwin	[20:57:24] vous avez choisis un logo et une catchphrase ?
+2015-10-02 20:33:12	Bruce	[20:57:28] spartax: t'as vraiment un nick de merde
+2015-10-02 20:33:12	~Corwin	[20:57:51] je me disais la même chose
+2015-10-02 20:33:12	~Corwin	[20:58:03] vraiment à chier
+2015-10-02 20:33:12	Bruce	[20:58:12] :D
+2015-10-02 20:33:12	spartax	[20:59:41] script install buffers.pl
+2015-10-02 20:33:12	&Blue	[20:59:46] Pour le logo, pour l'instant on est sur une turret de portal
+2015-10-02 20:33:12	spartax	[20:59:55] petit fail
+2015-10-02 20:33:12	~Corwin	[20:59:57] raté
+2015-10-02 20:33:12	&Blue	[21:00:07] et sur la catchphrase, c'est entre "Are you still there ?" et "Eat, sleep, code, repeat"
+2015-10-02 20:33:12	Bruce	[21:00:11] J'espère que votre slogan sera mieux que le slogan acdc.
+2015-10-02 20:33:12	~Corwin	[21:00:19] le second est cool
+2015-10-02 20:33:12	~Corwin	[21:00:28] mais protip : bougez vous
+2015-10-02 20:33:12	Bruce	[21:00:34] Sinon Judge Dread avec comme slogan "I am the Law" :D
+2015-10-02 20:33:12	&Blue	[21:00:37] Il le sera
+2015-10-02 20:33:12	~Corwin	[21:00:38] ils vont pas vous attendre pour les t-shirts
+2015-10-02 20:33:12	Bruce	[21:00:45] Corwin: vous ne les avez jamais eu ?
+2015-10-02 20:33:12	&Blue	[21:00:46] Ils ne nous ont pas attendus
+2015-10-02 20:33:12	Bruce	[21:00:52] #laviestriste
+2015-10-02 20:33:12	~Corwin	[21:01:04] non
+2015-10-02 20:33:12	~Corwin	[21:04:51] bmoc: on est plus que sur #acdc maintenant
+2015-10-02 20:33:12	Bruce	[22:56:01] salut yayg 
+2015-10-02 20:33:12	Bruce	[22:56:17] pour le moment en asm ici il y a Blue 
+2015-10-02 20:33:12	Bruce	[22:56:23] peut être exy
+2015-10-02 20:33:12	Bruce	[22:56:30] sinon spartax et Miinimax quand ils sont co
+2015-10-02 20:33:12	Bruce	[22:57:06] mais du cou_p Blue si tu peux ajouter Rafael Gozlan a votre groupe FB Asm c'est cool
+2015-10-02 20:33:12	Bruce	[22:57:08] il a un truc a vous dire
+2015-10-02 20:33:12	&Blue	[22:57:12] Les autres sont censés nous rejoindre
+2015-10-02 20:33:12	&Blue	[22:57:35] Hmmm, que veut-il nous dire ?
+2015-10-02 20:33:12	&yayg	[22:57:37] j'aurais 2-3 trucs à vous dire en effet
+2015-10-02 20:33:12	&Blue	[22:57:48] Ok je t'ajoute
+2015-10-02 20:33:12	&Blue	[22:59:48] Hmm, il faut d'abord que je sois ami avec lui
+2015-10-02 20:33:12	Bruce	[23:00:02] ajoute le en ami
+2015-10-02 20:33:12	Bruce	[23:00:04] c'est un mec cool !
+2015-10-02 20:33:12	&yayg	[23:01:15] ensuite si mmmh
+2015-10-02 20:33:12	&yayg	[23:01:22] Marwan est là
+2015-10-02 20:33:12	&yayg	[23:01:24] problème
+2015-10-02 20:33:12	Bruce	[23:01:32] ACH
+2015-10-02 20:33:12	Bruce	[23:01:34] EIN PROBLEM ?
+2015-10-02 20:33:12	Bruce	[23:01:40] IL Y A UNE ZOLUZION
+2015-10-02 20:33:12	Bruce	[23:01:42] FINALE MEME
+2015-10-02 20:33:12	&yayg	[23:02:17] Blue: vous avez fais la réunion avec Marwan ?
+2015-10-02 20:33:12	&Blue	[23:03:04] Oui
+2015-10-02 20:33:12	Bruce	[23:03:12] "vous avez fais" ton orthographe donne le cancer à Chewie yayg 
+2015-10-02 20:33:12	Bruce	[23:03:16] :D
+2015-10-02 20:33:12	~Corwin	[23:08:48] Bruce: add moi aussi au groupe asm plz :D
+2015-10-02 20:33:12	~Corwin	[23:08:52] Blue: ^
+2015-10-02 20:33:12	~Corwin	[23:08:59] putain désolé
+2015-10-02 20:33:12	Bruce	[23:08:59] SALAUD Corwin 
+2015-10-02 20:33:12	Bruce	[23:09:01] :D
+2015-10-02 20:33:12	Bruce	[23:09:03] :D
+2015-10-02 20:33:12	Bruce	[23:09:05] :D
+2015-10-02 20:33:12	marque_o	[23:10:04] Bonsoir
+2015-10-02 20:33:12	~Corwin	[23:10:47] coucou
+2015-10-02 20:33:12	&Blue	[23:11:33] Done
+2015-10-02 20:33:12	mevouc	[23:11:34] trop de monde sur ce chan :D
+2015-10-02 20:33:12	~Corwin	[23:12:39] thx Blue 
+2015-10-02 20:33:12	&Blue	[23:13:25] Thx
+2015-10-02 20:33:12	~Corwin	[23:13:56] je vais vous mettre dans l'access list
+2015-10-02 20:33:12	~Corwin	[23:14:08] marque_o: t'es bien Guillaume Marques ?
+2015-10-02 20:33:12	~Corwin	[23:15:37] exy: t'es un asm ?
+2015-10-02 20:33:12	mevouc	[23:16:03] Bruce: non exy n'est pas asm
+2015-10-02 20:33:12	mevouc	[23:16:06] c'est un sup
+2015-10-02 20:33:12	mevouc	[23:16:10] spé
+2015-10-02 20:33:12	Bruce	[23:16:12] exy: t'es qui ?
+2015-10-02 20:33:12	mevouc	[23:16:13] désolé exy :D
+2015-10-02 20:33:12	mevouc	[23:16:21] un type bien
+2015-10-02 20:33:12	&yayg	[23:16:32] Blue: en gros ça concerne l'intra ASM/ACDC, depuis l'année dernière je l'host.
+2015-10-02 20:33:12	Bruce	[23:16:36] un type bien n'est pas un login matché par les regexp de Satreix que tran__ a cassé
+2015-10-02 20:33:12	&yayg	[23:16:52] Il n'as rien d'officiel mais c'est le seul et il est pas troip mal 
+2015-10-02 20:33:12	&yayg	[23:16:55] trop*
+2015-10-02 20:33:12	~Corwin	[23:17:16] c'est marrant, mevouc t'as pensé tout de suite que c'était Bruce qui posait la question
+2015-10-02 20:33:12	&Blue	[23:17:36] Oui Marwan nous en parlé
+2015-10-02 20:33:12	&yayg	[23:17:36] l'idée c'est si vous avez des gens qui veulent le maintenir (c'est du PHP) faites le savoir
+2015-10-02 20:33:12	&yayg	[23:17:41] ha
+2015-10-02 20:33:12	Bruce	[23:17:44] "c'est du PHP"
+2015-10-02 20:33:12	Bruce	[23:17:47] putain, les mecs…
+2015-10-02 20:33:12	Bruce	[23:17:55] Utilisez des technos viables svp.
+2015-10-02 20:33:12	&yayg	[23:17:59] du coup il vous as dis quoi ?
+2015-10-02 20:33:12	&yayg	[23:18:06] Bruce: TG
+2015-10-02 20:33:12	&Blue	[23:18:07] Mais pour le coup, vu que le rendu est par git et que les clés ssh sont sur l'intra ACU, je suis pas sur qu'on en ai besoin 
+2015-10-02 20:33:12	Bruce	[23:18:15] yayg :D
+2015-10-02 20:33:12	Bruce	[23:18:17] Blue: backup
+2015-10-02 20:33:12	Bruce	[23:18:27] rien que pour ça tu en aura besoin un jour
+2015-10-02 20:33:12	&Blue	[23:18:36] Il nous a dit que la promo d'avant en avait un
+2015-10-02 20:33:12	&Blue	[23:18:58] Il faut voir si quelqu'un veut s'en occuper alors
+2015-10-02 20:33:12	&yayg	[23:19:05] c'est aussi une plateforme qui moulinette en direct les rendus
+2015-10-02 20:33:12	&yayg	[23:19:22] mais si c'est déjà arrangé avec l'intra ACU c'est bien
+2015-10-02 20:33:12	&Blue	[23:19:32] Ah, ça c'est sympa
+2015-10-02 20:33:12	&yayg	[23:19:43] les spé peuvent se connecter à l'intra ACU ?
+2015-10-02 20:33:12	&Blue	[23:19:48] ça m'intéresse déja plus
+2015-10-02 20:33:12	marque_o	[23:19:48] Oui Corwin (désolé du delay)
+2015-10-02 20:33:12	Bruce	[23:19:50] yayg: l'an dernier on pouvait
+2015-10-02 20:33:12	&Blue	[23:19:53] oui
+2015-10-02 20:33:12	&yayg	[23:20:29] ok
+2015-10-02 20:33:12	mevouc	[23:21:07] Corwin: Bruce avait posé la question plus haut
+2015-10-02 20:33:12	~Corwin	[23:21:12] et normalement vous avez accès à leurs dépôt en lecture / écriture
+2015-10-02 20:33:12	~Corwin	[23:21:16] marque_o: ok
+2015-10-02 20:33:12	~Corwin	[23:21:24] np
+2015-10-02 20:33:12	~Corwin	[23:23:04] ça a l'air pas mal organisé cette année
+2015-10-02 20:33:12	~Corwin	[23:23:26] hésitez pas à demander à Marwan d'écrire vous-même les sujets
+2015-10-02 20:33:12	&yayg	[23:25:10] au premier semestre ça peut être un peu chaud mais limite inspirez vous des sujets qu'on a fait l'année dernière pour le premier semestre (sinon Marwan risque grandement de pas vous laisser les faire)
+2015-10-02 20:33:12	marque_o	[23:29:01] Il nous a dit que le s3 passait vraiment vite donc on n'aurait surement pas l'occasion de le faire mais au s4 ouais
+2015-10-02 20:33:12	&Blue	[23:29:16] Il nous a dit qu'il préférerait qu'on s'occupe des sujets du S4 plutot que ceux du S3
+2015-10-02 20:33:12	Bruce	[23:29:52] zehir o///
+2015-10-02 20:33:12	~Corwin	[23:29:59] coucou zehir 
+2015-10-02 20:33:12	zehir	[23:30:00] yo !
+2015-10-02 20:33:12	Bruce	[23:30:25] zehir est pas asm iirc Corwin 
+2015-10-02 20:33:12	~Corwin	[23:30:30] si
+2015-10-02 20:33:12	zehir	[23:30:43] sisi
+2015-10-02 20:33:12	Bruce	[23:30:45] oh
+2015-10-02 20:33:12	Bruce	[23:30:48] cool §
+2015-10-02 20:33:12	Bruce	[23:30:53] t'as reçu ce mail du coup :D
+2015-10-02 20:33:12	~Corwin	[23:30:56] michau_n c'est zehir Bruce 
+2015-10-02 20:33:12	Bruce	[23:31:19] j'sais pas, Blue m'a montré le mail, j'ai pas vu mon nom, je suis parti acheter a manger juste après :D
+2015-10-02 20:33:12	marque_o	[23:48:57] Bonne soirée !
+2015-10-02 20:33:12	Greed	[07:57:09] Du coup il y a des asm sur le chan ?
+2015-10-02 20:33:12	Greed	[07:57:27] Ou juste des ex-asm, ing1 et spe ?
+2015-10-02 20:33:12	Greed	[07:58:14] Je vais tenter de guess zehir est asm ?
+2015-10-02 20:33:12	Greed	[07:58:38] Je suppose Blue aussi ?
+2015-10-02 20:33:12	Bruce	[07:59:01] Greed: toutes les personnes qui sont +ao sont ASM 2018
+2015-10-02 20:33:12	Bruce	[07:59:13] le reste c'est soit des spés soit des ing1 qui lurkent :D
+2015-10-02 20:33:12	Greed	[08:00:34] Genre yayg ?
+2015-10-02 20:33:12	Greed	[08:01:09] Il me semble qu'il est yaka (enfin rien ne l'empeche d'etre asm a priori)
+2015-10-02 20:33:12	Greed	[08:01:49] Sinon merci 
+2015-10-02 20:33:12	Greed	[08:01:53] Du coup
+2015-10-02 20:33:12	Greed	[08:02:03] Je vais faire ma propagande
+2015-10-02 20:33:12	Greed	[08:02:14] Ca vous interesse d'avoir un intra ?
+2015-10-02 20:33:12	Greed	[08:02:21] Au hasard celui-la :
+2015-10-02 20:33:12	Greed	[08:02:28] asm.epita.it
+2015-10-02 20:33:12	&Blue	[08:23:19] Greed: Oui je suis asm
+2015-10-02 20:33:12	~Corwin	[09:58:19] Greed: les gens en +ao sont les anciens / nouveaux asm
+2015-10-02 20:33:12	~Corwin	[09:58:28] d'ailleurs...
+2015-10-02 20:33:12	~Corwin	[09:58:57] Greed: t'as pas register ton pseudo ?
+2015-10-02 20:33:12	zehir	[17:12:58] Greed: t'es un ex asm ?
+2015-10-02 20:33:12	zehir	[17:13:04] sinon moi je vote pour l'intra
+2015-10-02 20:33:12	~Corwin	[17:13:08] zehir: yep
+2015-10-02 20:33:12	zehir	[17:13:23] Corwin: c'est qui ?
+2015-10-02 20:33:12	~Corwin	[17:13:28] Renaud
+2015-10-02 20:33:12	zehir	[17:13:32] ah ok
+2015-10-02 20:33:12	&Renaud	[18:12:04] Corwin j'avais, j'ai pas du me logguer depuis un bout de temps
+2015-10-02 20:33:12	&Renaud	[18:12:10] Et je vais changer de pseudo
+2015-10-02 20:33:12	&Renaud	[18:12:18] *Enfin j'ai
+2015-10-02 20:33:12	&Renaud	[18:15:48] Voila Renaud Register
+2015-10-02 20:33:12	Bruce	[18:16:29] <
+2015-10-02 20:33:12	Bruce	[18:16:32] oups.
+2015-10-02 20:33:12	&Renaud	[18:43:30] zehir: Vous avez quelqu'un que ca ammuse un peut de s
+2015-10-02 20:33:12	&Renaud	[18:43:40] 'occuper de l'intra avec un ACDC ?
+2015-10-02 20:33:12	zehir	[22:16:49] Renaud: moi éventuellement, mais je m'y connais pas des masses en web
+2015-10-02 20:33:12	zehir	[22:17:07] donc ça dépend si y a beaucoup de trucs à changer ou si il est complètement fonctionnel
+2015-10-02 20:33:12	&Renaud	[22:30:07] si il sagit juste de faire des fonctionalites basique il est completement fonctionel
+2015-10-02 20:33:12	&Renaud	[22:30:22] Tu gere quel groupe ?
+2015-10-02 20:33:12	zehir	[22:34:12] les B2
+2015-10-02 20:33:12	&Renaud	[22:38:47] Bon je t'ai cree un compte
+2015-10-02 20:33:12	&Renaud	[22:39:18] Ca serait cool d'avoir quelqu'un qui fasse du dev web pour gerer un peut le site
+2015-10-02 20:33:12	&Renaud	[22:39:23] (Autre que moi)
+2015-10-02 20:33:12	&Renaud	[22:39:38] De facon a assurer une continuite sur les prochaines annees
+2015-10-02 20:33:12	zehir	[22:45:09] J'ai posté sur notre groupe, personne a l'air motivé pour l'intra...
+2015-10-02 20:33:12	&yayg	[23:29:14] zehir: tu as posté sur le groupe facebook ?
+2015-10-02 20:33:12	&yayg	[23:30:45] sinon j'aimerais savoir si il va être utilisé car je suis en train de refaire la moulinette python pour faire de l'introspection C/C# donc j'aimerais savoir si je continue ou je ragequit et je formate mon serveur
+2015-10-02 20:33:12	&yayg	[23:31:15] (parce que j'aimerais bien passer mon serveur sous arch)
+2015-10-02 20:33:12	zehir	[23:34:12] yayg: ouais j'ai posté sur notre groupe fb
+2015-10-02 20:33:12	zehir	[23:36:01] et clairement ouais continue ta moulinette, même si on utilise pas l'intra au final ça peut servir
+2015-10-02 20:33:12	&yayg	[23:50:00] zehir: c'est un lot, pas d'intra pas de moulinette ;)
+2015-10-02 20:33:12	&yayg	[23:50:26] nan mais si vous l'utilisez pas c'est surtout Renaud qui sera emmerdé
+2015-10-02 20:33:12	zehir	[00:05:21] bon du coup faudrait peut être abort l'idée, si je suis le seul intéressé et qu'en plus y a la pression pour l'utiliser :/
+2015-10-02 20:33:12	&Renaud	[01:02:14] Nan mais yayg c'est quoi cette pression ?
+2015-10-02 20:33:12	&Renaud	[01:03:56] C'est intolerable !
+2015-10-02 20:33:12	spartax	[15:13:32] quit
+2015-10-02 20:33:12	&yayg	[19:54:44] zehir: je suis désolé si j'ai mis la pression mais c'est juste que la question est pas compliqué et que j'ai pas de réponse de Marwan qui me renvoi vers vous ni de vous :/
+2015-10-02 20:33:12	&yayg	[19:55:33] Tout ce que je voulais savoir c'est si vous l'utiliserez en fait ^^
+2015-10-02 20:33:12	&yayg	[19:56:46] si vous voulez l'utiliser je suis en train de m'activer pour avoir des trucs corrects. Si vous l'utilisez pas ou pas tout de suite je me mets juste moins la pression.
+2015-10-02 20:33:12	zehir	[19:59:33] yayg: ok bah on va dire que non alors
+2015-10-02 20:33:12	zehir	[19:59:52] je pensais pouvoir le récupérer "au cas ou", mais j'étais pas sûr du tout de m'en servir
+2015-10-02 20:33:12	***	Playback Complete.
+2015-10-02 20:33:24	--	Channel created on Mon, 28 Sep 2015 13:02:34
+2015-10-02 20:59:18	-->	zehir (zehir@RZ-9bm4g0.6e6a.nihf.41d0.2001.IP) has joined #asm
+2015-10-02 20:59:18	--	Mode #asm [+ao zehir zehir] by ChanServ
+2015-10-02 23:37:22	&zehir	yayg: Renaud: Bon finalement on va récupérer l'intra, y a mon binôme (Alexandre Abita) qui est chaud aussi pour l'intra et qui a un peu d'expérience en web donc il pourrait le maintenir (probablement mieux que moi en tout cas)
+2015-10-02 23:42:19	&zehir	par contre il voudrait savoir quelles technos sont utilisées pour faire le site
+2015-10-02 23:42:39	&zehir	et il utilise pas irc donc je suis obligé de relayer :/ ou alors faudrait que vous le contactiez sur fb
+2015-10-02 23:42:57	~Corwin	pourquoi il utilise pas irc ?
+2015-10-02 23:43:31	&zehir	"j'ai pas irc", je lui en ai pas demandé plus
+2015-10-02 23:43:44	~Corwin	mais mais mais...
+2015-10-02 23:43:50	&zehir	flemme d'essayer de le convaincre
+2015-10-03 00:49:57	&Renaud	zehir: C'est du php avec symfony2
+2015-10-03 00:50:19	&Renaud	A priori tu dois pouvoir lui cree un compte sur le site
+2015-10-03 00:50:45	&Renaud	Faudra que je m'occupe de clean la db des eleves de l'annee derniere
+2015-10-03 01:28:35	&Renaud	*creer
+2015-10-03 08:26:01	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #asm
+2015-10-03 08:26:01	--	Topic for #asm is "Chan des ASM - Les vrais assistants"
+2015-10-03 08:26:01	--	Topic set by Corwin (Corwin@RZ-9dvhcm.eu) on Mon, 28 Sep 2015 17:59:20
+2015-10-03 08:26:01	--	Channel #asm: 10 nicks (5 ops, 0 halfops, 0 voices, 5 normals)
+2015-10-03 08:26:01	***	Buffer Playback...
+2015-10-03 08:26:01	~Corwin	[20:52:00] j'invite Marwan ? :D
+2015-10-03 08:26:01	Bruce	[20:52:21] hmm
+2015-10-03 08:26:01	Bruce	[20:52:25] je risque de rager 
+2015-10-03 08:26:01	Bruce	[20:52:27] :D
+2015-10-03 08:26:01	Bruce	[20:52:29] Mais go
+2015-10-03 08:26:01	~Corwin	[20:52:31] done
+2015-10-03 08:26:01	Bruce	[20:52:36] :DDDDDDD
+2015-10-03 08:26:01	~Corwin	[20:52:39] mevouc: coucou
+2015-10-03 08:26:01	~Corwin	[20:52:43] Miinimax: t'es qui ?
+2015-10-03 08:26:01	Miinimax	[20:52:43] Bijour :3
+2015-10-03 08:26:01	Miinimax	[20:53:07] Hmm, un asm actuel :)
+2015-10-03 08:26:01	~Corwin	[20:53:13] lequel ?
+2015-10-03 08:26:01	Miinimax	[20:53:19] boutin_a
+2015-10-03 08:26:01	~Corwin	[20:53:23] ah
+2015-10-03 08:26:01	~Corwin	[20:53:25] ok
+2015-10-03 08:26:01	~Corwin	[20:53:38] et spartax ?
+2015-10-03 08:26:01	&Blue	[20:53:40] Ah je suis content de voir que des gens lisent mes publications :D
+2015-10-03 08:26:01	Miinimax	[20:53:47] Mon binome
+2015-10-03 08:26:01	spartax	[20:54:00] bijour
+2015-10-03 08:26:01	~Corwin	[20:54:21] ah t'as fais un post sur le groupe des asm 2018 Blue 
+2015-10-03 08:26:01	~Corwin	[20:54:25] je me disais aussi
+2015-10-03 08:26:01	~Corwin	[20:54:37] ça fait masse de gens qui joinent d'un coup
+2015-10-03 08:26:01	&Blue	[20:54:43] Oui
+2015-10-03 08:26:01	~Corwin	[20:57:24] vous avez choisis un logo et une catchphrase ?
+2015-10-03 08:26:01	Bruce	[20:57:28] spartax: t'as vraiment un nick de merde
+2015-10-03 08:26:01	~Corwin	[20:57:51] je me disais la même chose
+2015-10-03 08:26:01	~Corwin	[20:58:03] vraiment à chier
+2015-10-03 08:26:01	Bruce	[20:58:12] :D
+2015-10-03 08:26:01	spartax	[20:59:41] script install buffers.pl
+2015-10-03 08:26:01	&Blue	[20:59:46] Pour le logo, pour l'instant on est sur une turret de portal
+2015-10-03 08:26:01	spartax	[20:59:55] petit fail
+2015-10-03 08:26:01	~Corwin	[20:59:57] raté
+2015-10-03 08:26:01	&Blue	[21:00:07] et sur la catchphrase, c'est entre "Are you still there ?" et "Eat, sleep, code, repeat"
+2015-10-03 08:26:01	Bruce	[21:00:11] J'espère que votre slogan sera mieux que le slogan acdc.
+2015-10-03 08:26:01	~Corwin	[21:00:19] le second est cool
+2015-10-03 08:26:01	~Corwin	[21:00:28] mais protip : bougez vous
+2015-10-03 08:26:01	Bruce	[21:00:34] Sinon Judge Dread avec comme slogan "I am the Law" :D
+2015-10-03 08:26:01	&Blue	[21:00:37] Il le sera
+2015-10-03 08:26:01	~Corwin	[21:00:38] ils vont pas vous attendre pour les t-shirts
+2015-10-03 08:26:01	Bruce	[21:00:45] Corwin: vous ne les avez jamais eu ?
+2015-10-03 08:26:01	&Blue	[21:00:46] Ils ne nous ont pas attendus
+2015-10-03 08:26:01	Bruce	[21:00:52] #laviestriste
+2015-10-03 08:26:01	~Corwin	[21:01:04] non
+2015-10-03 08:26:01	~Corwin	[21:04:51] bmoc: on est plus que sur #acdc maintenant
+2015-10-03 08:26:01	Bruce	[22:56:01] salut yayg 
+2015-10-03 08:26:01	Bruce	[22:56:17] pour le moment en asm ici il y a Blue 
+2015-10-03 08:26:01	Bruce	[22:56:23] peut être exy
+2015-10-03 08:26:01	Bruce	[22:56:30] sinon spartax et Miinimax quand ils sont co
+2015-10-03 08:26:01	Bruce	[22:57:06] mais du cou_p Blue si tu peux ajouter Rafael Gozlan a votre groupe FB Asm c'est cool
+2015-10-03 08:26:01	Bruce	[22:57:08] il a un truc a vous dire
+2015-10-03 08:26:01	&Blue	[22:57:12] Les autres sont censés nous rejoindre
+2015-10-03 08:26:01	&Blue	[22:57:35] Hmmm, que veut-il nous dire ?
+2015-10-03 08:26:01	&yayg	[22:57:37] j'aurais 2-3 trucs à vous dire en effet
+2015-10-03 08:26:01	&Blue	[22:57:48] Ok je t'ajoute
+2015-10-03 08:26:01	&Blue	[22:59:48] Hmm, il faut d'abord que je sois ami avec lui
+2015-10-03 08:26:01	Bruce	[23:00:02] ajoute le en ami
+2015-10-03 08:26:01	Bruce	[23:00:04] c'est un mec cool !
+2015-10-03 08:26:01	&yayg	[23:01:15] ensuite si mmmh
+2015-10-03 08:26:01	&yayg	[23:01:22] Marwan est là
+2015-10-03 08:26:01	&yayg	[23:01:24] problème
+2015-10-03 08:26:01	Bruce	[23:01:32] ACH
+2015-10-03 08:26:01	Bruce	[23:01:34] EIN PROBLEM ?
+2015-10-03 08:26:01	Bruce	[23:01:40] IL Y A UNE ZOLUZION
+2015-10-03 08:26:01	Bruce	[23:01:42] FINALE MEME
+2015-10-03 08:26:01	&yayg	[23:02:17] Blue: vous avez fais la réunion avec Marwan ?
+2015-10-03 08:26:01	&Blue	[23:03:04] Oui
+2015-10-03 08:26:01	Bruce	[23:03:12] "vous avez fais" ton orthographe donne le cancer à Chewie yayg 
+2015-10-03 08:26:01	Bruce	[23:03:16] :D
+2015-10-03 08:26:01	~Corwin	[23:08:48] Bruce: add moi aussi au groupe asm plz :D
+2015-10-03 08:26:01	~Corwin	[23:08:52] Blue: ^
+2015-10-03 08:26:01	~Corwin	[23:08:59] putain désolé
+2015-10-03 08:26:01	Bruce	[23:08:59] SALAUD Corwin 
+2015-10-03 08:26:01	Bruce	[23:09:01] :D
+2015-10-03 08:26:01	Bruce	[23:09:03] :D
+2015-10-03 08:26:01	Bruce	[23:09:05] :D
+2015-10-03 08:26:01	marque_o	[23:10:04] Bonsoir
+2015-10-03 08:26:01	~Corwin	[23:10:47] coucou
+2015-10-03 08:26:01	&Blue	[23:11:33] Done
+2015-10-03 08:26:01	mevouc	[23:11:34] trop de monde sur ce chan :D
+2015-10-03 08:26:01	~Corwin	[23:12:39] thx Blue 
+2015-10-03 08:26:01	&Blue	[23:13:25] Thx
+2015-10-03 08:26:01	~Corwin	[23:13:56] je vais vous mettre dans l'access list
+2015-10-03 08:26:01	~Corwin	[23:14:08] marque_o: t'es bien Guillaume Marques ?
+2015-10-03 08:26:01	~Corwin	[23:15:37] exy: t'es un asm ?
+2015-10-03 08:26:01	mevouc	[23:16:03] Bruce: non exy n'est pas asm
+2015-10-03 08:26:01	mevouc	[23:16:06] c'est un sup
+2015-10-03 08:26:01	mevouc	[23:16:10] spé
+2015-10-03 08:26:01	Bruce	[23:16:12] exy: t'es qui ?
+2015-10-03 08:26:01	mevouc	[23:16:13] désolé exy :D
+2015-10-03 08:26:01	mevouc	[23:16:21] un type bien
+2015-10-03 08:26:01	&yayg	[23:16:32] Blue: en gros ça concerne l'intra ASM/ACDC, depuis l'année dernière je l'host.
+2015-10-03 08:26:01	Bruce	[23:16:36] un type bien n'est pas un login matché par les regexp de Satreix que tran__ a cassé
+2015-10-03 08:26:01	&yayg	[23:16:52] Il n'as rien d'officiel mais c'est le seul et il est pas troip mal 
+2015-10-03 08:26:01	&yayg	[23:16:55] trop*
+2015-10-03 08:26:01	~Corwin	[23:17:16] c'est marrant, mevouc t'as pensé tout de suite que c'était Bruce qui posait la question
+2015-10-03 08:26:01	&Blue	[23:17:36] Oui Marwan nous en parlé
+2015-10-03 08:26:01	&yayg	[23:17:36] l'idée c'est si vous avez des gens qui veulent le maintenir (c'est du PHP) faites le savoir
+2015-10-03 08:26:01	&yayg	[23:17:41] ha
+2015-10-03 08:26:01	Bruce	[23:17:44] "c'est du PHP"
+2015-10-03 08:26:01	Bruce	[23:17:47] putain, les mecs…
+2015-10-03 08:26:01	Bruce	[23:17:55] Utilisez des technos viables svp.
+2015-10-03 08:26:01	&yayg	[23:17:59] du coup il vous as dis quoi ?
+2015-10-03 08:26:01	&yayg	[23:18:06] Bruce: TG
+2015-10-03 08:26:01	&Blue	[23:18:07] Mais pour le coup, vu que le rendu est par git et que les clés ssh sont sur l'intra ACU, je suis pas sur qu'on en ai besoin 
+2015-10-03 08:26:01	Bruce	[23:18:15] yayg :D
+2015-10-03 08:26:01	Bruce	[23:18:17] Blue: backup
+2015-10-03 08:26:01	Bruce	[23:18:27] rien que pour ça tu en aura besoin un jour
+2015-10-03 08:26:01	&Blue	[23:18:36] Il nous a dit que la promo d'avant en avait un
+2015-10-03 08:26:01	&Blue	[23:18:58] Il faut voir si quelqu'un veut s'en occuper alors
+2015-10-03 08:26:01	&yayg	[23:19:05] c'est aussi une plateforme qui moulinette en direct les rendus
+2015-10-03 08:26:01	&yayg	[23:19:22] mais si c'est déjà arrangé avec l'intra ACU c'est bien
+2015-10-03 08:26:01	&Blue	[23:19:32] Ah, ça c'est sympa
+2015-10-03 08:26:01	&yayg	[23:19:43] les spé peuvent se connecter à l'intra ACU ?
+2015-10-03 08:26:01	&Blue	[23:19:48] ça m'intéresse déja plus
+2015-10-03 08:26:01	marque_o	[23:19:48] Oui Corwin (désolé du delay)
+2015-10-03 08:26:01	Bruce	[23:19:50] yayg: l'an dernier on pouvait
+2015-10-03 08:26:01	&Blue	[23:19:53] oui
+2015-10-03 08:26:01	&yayg	[23:20:29] ok
+2015-10-03 08:26:01	mevouc	[23:21:07] Corwin: Bruce avait posé la question plus haut
+2015-10-03 08:26:01	~Corwin	[23:21:12] et normalement vous avez accès à leurs dépôt en lecture / écriture
+2015-10-03 08:26:01	~Corwin	[23:21:16] marque_o: ok
+2015-10-03 08:26:01	~Corwin	[23:21:24] np
+2015-10-03 08:26:01	~Corwin	[23:23:04] ça a l'air pas mal organisé cette année
+2015-10-03 08:26:01	~Corwin	[23:23:26] hésitez pas à demander à Marwan d'écrire vous-même les sujets
+2015-10-03 08:26:01	&yayg	[23:25:10] au premier semestre ça peut être un peu chaud mais limite inspirez vous des sujets qu'on a fait l'année dernière pour le premier semestre (sinon Marwan risque grandement de pas vous laisser les faire)
+2015-10-03 08:26:01	marque_o	[23:29:01] Il nous a dit que le s3 passait vraiment vite donc on n'aurait surement pas l'occasion de le faire mais au s4 ouais
+2015-10-03 08:26:01	&Blue	[23:29:16] Il nous a dit qu'il préférerait qu'on s'occupe des sujets du S4 plutot que ceux du S3
+2015-10-03 08:26:01	Bruce	[23:29:52] zehir o///
+2015-10-03 08:26:01	~Corwin	[23:29:59] coucou zehir 
+2015-10-03 08:26:01	&zehir	[23:30:00] yo !
+2015-10-03 08:26:01	Bruce	[23:30:25] zehir est pas asm iirc Corwin 
+2015-10-03 08:26:01	~Corwin	[23:30:30] si
+2015-10-03 08:26:01	&zehir	[23:30:43] sisi
+2015-10-03 08:26:01	Bruce	[23:30:45] oh
+2015-10-03 08:26:01	Bruce	[23:30:48] cool §
+2015-10-03 08:26:01	Bruce	[23:30:53] t'as reçu ce mail du coup :D
+2015-10-03 08:26:01	~Corwin	[23:30:56] michau_n c'est zehir Bruce 
+2015-10-03 08:26:01	Bruce	[23:31:19] j'sais pas, Blue m'a montré le mail, j'ai pas vu mon nom, je suis parti acheter a manger juste après :D
+2015-10-03 08:26:01	marque_o	[23:48:57] Bonne soirée !
+2015-10-03 08:26:01	Greed	[07:57:09] Du coup il y a des asm sur le chan ?
+2015-10-03 08:26:01	Greed	[07:57:27] Ou juste des ex-asm, ing1 et spe ?
+2015-10-03 08:26:01	Greed	[07:58:14] Je vais tenter de guess zehir est asm ?
+2015-10-03 08:26:01	Greed	[07:58:38] Je suppose Blue aussi ?
+2015-10-03 08:26:01	Bruce	[07:59:01] Greed: toutes les personnes qui sont +ao sont ASM 2018
+2015-10-03 08:26:01	Bruce	[07:59:13] le reste c'est soit des spés soit des ing1 qui lurkent :D
+2015-10-03 08:26:01	Greed	[08:00:34] Genre yayg ?
+2015-10-03 08:26:01	Greed	[08:01:09] Il me semble qu'il est yaka (enfin rien ne l'empeche d'etre asm a priori)
+2015-10-03 08:26:01	Greed	[08:01:49] Sinon merci 
+2015-10-03 08:26:01	Greed	[08:01:53] Du coup
+2015-10-03 08:26:01	Greed	[08:02:03] Je vais faire ma propagande
+2015-10-03 08:26:01	Greed	[08:02:14] Ca vous interesse d'avoir un intra ?
+2015-10-03 08:26:01	Greed	[08:02:21] Au hasard celui-la :
+2015-10-03 08:26:01	Greed	[08:02:28] asm.epita.it
+2015-10-03 08:26:01	&Blue	[08:23:19] Greed: Oui je suis asm
+2015-10-03 08:26:01	~Corwin	[09:58:19] Greed: les gens en +ao sont les anciens / nouveaux asm
+2015-10-03 08:26:01	~Corwin	[09:58:28] d'ailleurs...
+2015-10-03 08:26:01	~Corwin	[09:58:57] Greed: t'as pas register ton pseudo ?
+2015-10-03 08:26:01	&zehir	[17:12:58] Greed: t'es un ex asm ?
+2015-10-03 08:26:01	&zehir	[17:13:04] sinon moi je vote pour l'intra
+2015-10-03 08:26:01	~Corwin	[17:13:08] zehir: yep
+2015-10-03 08:26:01	&zehir	[17:13:23] Corwin: c'est qui ?
+2015-10-03 08:26:01	~Corwin	[17:13:28] Renaud
+2015-10-03 08:26:01	&zehir	[17:13:32] ah ok
+2015-10-03 08:26:01	&Renaud	[18:12:04] Corwin j'avais, j'ai pas du me logguer depuis un bout de temps
+2015-10-03 08:26:01	&Renaud	[18:12:10] Et je vais changer de pseudo
+2015-10-03 08:26:01	&Renaud	[18:12:18] *Enfin j'ai
+2015-10-03 08:26:01	&Renaud	[18:15:48] Voila Renaud Register
+2015-10-03 08:26:01	Bruce	[18:16:29] <
+2015-10-03 08:26:01	Bruce	[18:16:32] oups.
+2015-10-03 08:26:01	&Renaud	[18:43:30] zehir: Vous avez quelqu'un que ca ammuse un peut de s
+2015-10-03 08:26:01	&Renaud	[18:43:40] 'occuper de l'intra avec un ACDC ?
+2015-10-03 08:26:01	&zehir	[22:16:49] Renaud: moi éventuellement, mais je m'y connais pas des masses en web
+2015-10-03 08:26:01	&zehir	[22:17:07] donc ça dépend si y a beaucoup de trucs à changer ou si il est complètement fonctionnel
+2015-10-03 08:26:01	&Renaud	[22:30:07] si il sagit juste de faire des fonctionalites basique il est completement fonctionel
+2015-10-03 08:26:01	&Renaud	[22:30:22] Tu gere quel groupe ?
+2015-10-03 08:26:01	&zehir	[22:34:12] les B2
+2015-10-03 08:26:01	&Renaud	[22:38:47] Bon je t'ai cree un compte
+2015-10-03 08:26:01	&Renaud	[22:39:18] Ca serait cool d'avoir quelqu'un qui fasse du dev web pour gerer un peut le site
+2015-10-03 08:26:01	&Renaud	[22:39:23] (Autre que moi)
+2015-10-03 08:26:01	&Renaud	[22:39:38] De facon a assurer une continuite sur les prochaines annees
+2015-10-03 08:26:01	&zehir	[22:45:09] J'ai posté sur notre groupe, personne a l'air motivé pour l'intra...
+2015-10-03 08:26:01	&yayg	[23:29:14] zehir: tu as posté sur le groupe facebook ?
+2015-10-03 08:26:01	&yayg	[23:30:45] sinon j'aimerais savoir si il va être utilisé car je suis en train de refaire la moulinette python pour faire de l'introspection C/C# donc j'aimerais savoir si je continue ou je ragequit et je formate mon serveur
+2015-10-03 08:26:01	&yayg	[23:31:15] (parce que j'aimerais bien passer mon serveur sous arch)
+2015-10-03 08:26:01	&zehir	[23:34:12] yayg: ouais j'ai posté sur notre groupe fb
+2015-10-03 08:26:01	&zehir	[23:36:01] et clairement ouais continue ta moulinette, même si on utilise pas l'intra au final ça peut servir
+2015-10-03 08:26:01	&yayg	[23:50:00] zehir: c'est un lot, pas d'intra pas de moulinette ;)
+2015-10-03 08:26:01	&yayg	[23:50:26] nan mais si vous l'utilisez pas c'est surtout Renaud qui sera emmerdé
+2015-10-03 08:26:02	&zehir	[00:05:21] bon du coup faudrait peut être abort l'idée, si je suis le seul intéressé et qu'en plus y a la pression pour l'utiliser :/
+2015-10-03 08:26:02	&Renaud	[01:02:14] Nan mais yayg c'est quoi cette pression ?
+2015-10-03 08:26:02	&Renaud	[01:03:56] C'est intolerable !
+2015-10-03 08:26:02	spartax	[15:13:32] quit
+2015-10-03 08:26:02	&yayg	[19:54:44] zehir: je suis désolé si j'ai mis la pression mais c'est juste que la question est pas compliqué et que j'ai pas de réponse de Marwan qui me renvoi vers vous ni de vous :/
+2015-10-03 08:26:02	&yayg	[19:55:33] Tout ce que je voulais savoir c'est si vous l'utiliserez en fait ^^
+2015-10-03 08:26:02	&yayg	[19:56:46] si vous voulez l'utiliser je suis en train de m'activer pour avoir des trucs corrects. Si vous l'utilisez pas ou pas tout de suite je me mets juste moins la pression.
+2015-10-03 08:26:02	&zehir	[19:59:33] yayg: ok bah on va dire que non alors
+2015-10-03 08:26:02	&zehir	[19:59:52] je pensais pouvoir le récupérer "au cas ou", mais j'étais pas sûr du tout de m'en servir
+2015-10-03 08:26:02	&zehir	[23:37:39] yayg: Renaud: Bon finalement on va récupérer l'intra, y a mon binôme (Alexandre Abita) qui est chaud aussi pour l'intra et qui a un peu d'expérience en web donc il pourrait le maintenir (probablement mieux que moi en tout cas)
+2015-10-03 08:26:02	&zehir	[23:42:36] par contre il voudrait savoir quelles technos sont utilisées pour faire le site
+2015-10-03 08:26:02	&zehir	[23:42:56] et il utilise pas irc donc je suis obligé de relayer :/ ou alors faudrait que vous le contactiez sur fb
+2015-10-03 08:26:02	~Corwin	[23:43:14] pourquoi il utilise pas irc ?
+2015-10-03 08:26:02	&zehir	[23:43:48] "j'ai pas irc", je lui en ai pas demandé plus
+2015-10-03 08:26:02	~Corwin	[23:44:01] mais mais mais...
+2015-10-03 08:26:02	&zehir	[23:44:07] flemme d'essayer de le convaincre
+2015-10-03 08:26:02	&Renaud	[00:50:14] zehir: C'est du php avec symfony2
+2015-10-03 08:26:02	&Renaud	[00:50:36] A priori tu dois pouvoir lui cree un compte sur le site
+2015-10-03 08:26:02	&Renaud	[00:51:02] Faudra que je m'occupe de clean la db des eleves de l'annee derniere
+2015-10-03 08:26:02	&Renaud	[01:28:52] *creer
+2015-10-03 08:26:02	***	Playback Complete.
+2015-10-03 08:26:05	--	Channel created on Mon, 28 Sep 2015 13:02:34
+2015-10-03 18:50:57	-->	mevouc (mevouc@RZ-v0n.arq.210.62.IP) has joined #asm
+2015-10-03 18:50:57	--	Topic for #asm is "Chan des ASM - Les vrais assistants"
+2015-10-03 18:50:57	--	Topic set by Corwin (Corwin@RZ-9dvhcm.eu) on Mon, 28 Sep 2015 17:59:20
+2015-10-03 18:50:57	--	Channel #asm: 11 nicks (5 ops, 0 halfops, 0 voices, 6 normals)
+2015-10-03 18:50:57	***	Buffer Playback...
+2015-10-03 18:50:57	~Corwin	[20:52:00] j'invite Marwan ? :D
+2015-10-03 18:50:57	Bruce	[20:52:21] hmm
+2015-10-03 18:50:57	Bruce	[20:52:25] je risque de rager 
+2015-10-03 18:50:57	Bruce	[20:52:27] :D
+2015-10-03 18:50:57	Bruce	[20:52:29] Mais go
+2015-10-03 18:50:57	~Corwin	[20:52:31] done
+2015-10-03 18:50:57	Bruce	[20:52:36] :DDDDDDD
+2015-10-03 18:50:57	~Corwin	[20:52:39] mevouc: coucou
+2015-10-03 18:50:57	~Corwin	[20:52:43] Miinimax: t'es qui ?
+2015-10-03 18:50:57	Miinimax	[20:52:43] Bijour :3
+2015-10-03 18:50:57	Miinimax	[20:53:07] Hmm, un asm actuel :)
+2015-10-03 18:50:57	~Corwin	[20:53:13] lequel ?
+2015-10-03 18:50:57	Miinimax	[20:53:19] boutin_a
+2015-10-03 18:50:57	~Corwin	[20:53:23] ah
+2015-10-03 18:50:57	~Corwin	[20:53:25] ok
+2015-10-03 18:50:57	~Corwin	[20:53:38] et spartax ?
+2015-10-03 18:50:57	&Blue	[20:53:40] Ah je suis content de voir que des gens lisent mes publications :D
+2015-10-03 18:50:57	Miinimax	[20:53:47] Mon binome
+2015-10-03 18:50:57	spartax	[20:54:00] bijour
+2015-10-03 18:50:57	~Corwin	[20:54:21] ah t'as fais un post sur le groupe des asm 2018 Blue 
+2015-10-03 18:50:57	~Corwin	[20:54:25] je me disais aussi
+2015-10-03 18:50:57	~Corwin	[20:54:37] ça fait masse de gens qui joinent d'un coup
+2015-10-03 18:50:57	&Blue	[20:54:43] Oui
+2015-10-03 18:50:57	~Corwin	[20:57:24] vous avez choisis un logo et une catchphrase ?
+2015-10-03 18:50:57	Bruce	[20:57:28] spartax: t'as vraiment un nick de merde
+2015-10-03 18:50:57	~Corwin	[20:57:51] je me disais la même chose
+2015-10-03 18:50:57	~Corwin	[20:58:03] vraiment à chier
+2015-10-03 18:50:57	Bruce	[20:58:12] :D
+2015-10-03 18:50:57	spartax	[20:59:41] script install buffers.pl
+2015-10-03 18:50:57	&Blue	[20:59:46] Pour le logo, pour l'instant on est sur une turret de portal
+2015-10-03 18:50:57	spartax	[20:59:55] petit fail
+2015-10-03 18:50:57	~Corwin	[20:59:57] raté
+2015-10-03 18:50:57	&Blue	[21:00:07] et sur la catchphrase, c'est entre "Are you still there ?" et "Eat, sleep, code, repeat"
+2015-10-03 18:50:57	Bruce	[21:00:11] J'espère que votre slogan sera mieux que le slogan acdc.
+2015-10-03 18:50:57	~Corwin	[21:00:19] le second est cool
+2015-10-03 18:50:57	~Corwin	[21:00:28] mais protip : bougez vous
+2015-10-03 18:50:57	Bruce	[21:00:34] Sinon Judge Dread avec comme slogan "I am the Law" :D
+2015-10-03 18:50:57	&Blue	[21:00:37] Il le sera
+2015-10-03 18:50:57	~Corwin	[21:00:38] ils vont pas vous attendre pour les t-shirts
+2015-10-03 18:50:57	Bruce	[21:00:45] Corwin: vous ne les avez jamais eu ?
+2015-10-03 18:50:57	&Blue	[21:00:46] Ils ne nous ont pas attendus
+2015-10-03 18:50:57	Bruce	[21:00:52] #laviestriste
+2015-10-03 18:50:57	~Corwin	[21:01:04] non
+2015-10-03 18:50:57	~Corwin	[21:04:51] bmoc: on est plus que sur #acdc maintenant
+2015-10-03 18:50:57	Bruce	[22:56:01] salut yayg 
+2015-10-03 18:50:57	Bruce	[22:56:17] pour le moment en asm ici il y a Blue 
+2015-10-03 18:50:57	Bruce	[22:56:23] peut être exy
+2015-10-03 18:50:57	Bruce	[22:56:30] sinon spartax et Miinimax quand ils sont co
+2015-10-03 18:50:57	Bruce	[22:57:06] mais du cou_p Blue si tu peux ajouter Rafael Gozlan a votre groupe FB Asm c'est cool
+2015-10-03 18:50:57	Bruce	[22:57:08] il a un truc a vous dire
+2015-10-03 18:50:57	&Blue	[22:57:12] Les autres sont censés nous rejoindre
+2015-10-03 18:50:57	&Blue	[22:57:35] Hmmm, que veut-il nous dire ?
+2015-10-03 18:50:57	&yayg	[22:57:37] j'aurais 2-3 trucs à vous dire en effet
+2015-10-03 18:50:57	&Blue	[22:57:48] Ok je t'ajoute
+2015-10-03 18:50:57	&Blue	[22:59:48] Hmm, il faut d'abord que je sois ami avec lui
+2015-10-03 18:50:57	Bruce	[23:00:02] ajoute le en ami
+2015-10-03 18:50:57	Bruce	[23:00:04] c'est un mec cool !
+2015-10-03 18:50:57	&yayg	[23:01:15] ensuite si mmmh
+2015-10-03 18:50:57	&yayg	[23:01:22] Marwan est là
+2015-10-03 18:50:57	&yayg	[23:01:24] problème
+2015-10-03 18:50:57	Bruce	[23:01:32] ACH
+2015-10-03 18:50:57	Bruce	[23:01:34] EIN PROBLEM ?
+2015-10-03 18:50:57	Bruce	[23:01:40] IL Y A UNE ZOLUZION
+2015-10-03 18:50:57	Bruce	[23:01:42] FINALE MEME
+2015-10-03 18:50:57	&yayg	[23:02:17] Blue: vous avez fais la réunion avec Marwan ?
+2015-10-03 18:50:57	&Blue	[23:03:04] Oui
+2015-10-03 18:50:57	Bruce	[23:03:12] "vous avez fais" ton orthographe donne le cancer à Chewie yayg 
+2015-10-03 18:50:57	Bruce	[23:03:16] :D
+2015-10-03 18:50:57	~Corwin	[23:08:48] Bruce: add moi aussi au groupe asm plz :D
+2015-10-03 18:50:57	~Corwin	[23:08:52] Blue: ^
+2015-10-03 18:50:57	~Corwin	[23:08:59] putain désolé
+2015-10-03 18:50:57	Bruce	[23:08:59] SALAUD Corwin 
+2015-10-03 18:50:57	Bruce	[23:09:01] :D
+2015-10-03 18:50:57	Bruce	[23:09:03] :D
+2015-10-03 18:50:57	Bruce	[23:09:05] :D
+2015-10-03 18:50:57	marque_o	[23:10:04] Bonsoir
+2015-10-03 18:50:57	~Corwin	[23:10:47] coucou
+2015-10-03 18:50:57	&Blue	[23:11:33] Done
+2015-10-03 18:50:57	mevouc	[23:11:34] trop de monde sur ce chan :D
+2015-10-03 18:50:57	~Corwin	[23:12:39] thx Blue 
+2015-10-03 18:50:57	&Blue	[23:13:25] Thx
+2015-10-03 18:50:57	~Corwin	[23:13:56] je vais vous mettre dans l'access list
+2015-10-03 18:50:57	~Corwin	[23:14:08] marque_o: t'es bien Guillaume Marques ?
+2015-10-03 18:50:57	~Corwin	[23:15:37] exy: t'es un asm ?
+2015-10-03 18:50:57	mevouc	[23:16:03] Bruce: non exy n'est pas asm
+2015-10-03 18:50:57	mevouc	[23:16:06] c'est un sup
+2015-10-03 18:50:57	mevouc	[23:16:10] spé
+2015-10-03 18:50:57	Bruce	[23:16:12] exy: t'es qui ?
+2015-10-03 18:50:57	mevouc	[23:16:13] désolé exy :D
+2015-10-03 18:50:57	mevouc	[23:16:21] un type bien
+2015-10-03 18:50:57	&yayg	[23:16:32] Blue: en gros ça concerne l'intra ASM/ACDC, depuis l'année dernière je l'host.
+2015-10-03 18:50:57	Bruce	[23:16:36] un type bien n'est pas un login matché par les regexp de Satreix que tran__ a cassé
+2015-10-03 18:50:57	&yayg	[23:16:52] Il n'as rien d'officiel mais c'est le seul et il est pas troip mal 
+2015-10-03 18:50:57	&yayg	[23:16:55] trop*
+2015-10-03 18:50:57	~Corwin	[23:17:16] c'est marrant, mevouc t'as pensé tout de suite que c'était Bruce qui posait la question
+2015-10-03 18:50:57	&Blue	[23:17:36] Oui Marwan nous en parlé
+2015-10-03 18:50:57	&yayg	[23:17:36] l'idée c'est si vous avez des gens qui veulent le maintenir (c'est du PHP) faites le savoir
+2015-10-03 18:50:57	&yayg	[23:17:41] ha
+2015-10-03 18:50:57	Bruce	[23:17:44] "c'est du PHP"
+2015-10-03 18:50:57	Bruce	[23:17:47] putain, les mecs…
+2015-10-03 18:50:57	Bruce	[23:17:55] Utilisez des technos viables svp.
+2015-10-03 18:50:57	&yayg	[23:17:59] du coup il vous as dis quoi ?
+2015-10-03 18:50:57	&yayg	[23:18:06] Bruce: TG
+2015-10-03 18:50:57	&Blue	[23:18:07] Mais pour le coup, vu que le rendu est par git et que les clés ssh sont sur l'intra ACU, je suis pas sur qu'on en ai besoin 
+2015-10-03 18:50:57	Bruce	[23:18:15] yayg :D
+2015-10-03 18:50:57	Bruce	[23:18:17] Blue: backup
+2015-10-03 18:50:57	Bruce	[23:18:27] rien que pour ça tu en aura besoin un jour
+2015-10-03 18:50:57	&Blue	[23:18:36] Il nous a dit que la promo d'avant en avait un
+2015-10-03 18:50:57	&Blue	[23:18:58] Il faut voir si quelqu'un veut s'en occuper alors
+2015-10-03 18:50:57	&yayg	[23:19:05] c'est aussi une plateforme qui moulinette en direct les rendus
+2015-10-03 18:50:57	&yayg	[23:19:22] mais si c'est déjà arrangé avec l'intra ACU c'est bien
+2015-10-03 18:50:57	&Blue	[23:19:32] Ah, ça c'est sympa
+2015-10-03 18:50:57	&yayg	[23:19:43] les spé peuvent se connecter à l'intra ACU ?
+2015-10-03 18:50:57	&Blue	[23:19:48] ça m'intéresse déja plus
+2015-10-03 18:50:57	marque_o	[23:19:48] Oui Corwin (désolé du delay)
+2015-10-03 18:50:57	Bruce	[23:19:50] yayg: l'an dernier on pouvait
+2015-10-03 18:50:57	&Blue	[23:19:53] oui
+2015-10-03 18:50:57	&yayg	[23:20:29] ok
+2015-10-03 18:50:57	mevouc	[23:21:07] Corwin: Bruce avait posé la question plus haut
+2015-10-03 18:50:57	~Corwin	[23:21:12] et normalement vous avez accès à leurs dépôt en lecture / écriture
+2015-10-03 18:50:57	~Corwin	[23:21:16] marque_o: ok
+2015-10-03 18:50:57	~Corwin	[23:21:24] np
+2015-10-03 18:50:57	~Corwin	[23:23:04] ça a l'air pas mal organisé cette année
+2015-10-03 18:50:57	~Corwin	[23:23:26] hésitez pas à demander à Marwan d'écrire vous-même les sujets
+2015-10-03 18:50:57	&yayg	[23:25:10] au premier semestre ça peut être un peu chaud mais limite inspirez vous des sujets qu'on a fait l'année dernière pour le premier semestre (sinon Marwan risque grandement de pas vous laisser les faire)
+2015-10-03 18:50:57	marque_o	[23:29:01] Il nous a dit que le s3 passait vraiment vite donc on n'aurait surement pas l'occasion de le faire mais au s4 ouais
+2015-10-03 18:50:57	&Blue	[23:29:16] Il nous a dit qu'il préférerait qu'on s'occupe des sujets du S4 plutot que ceux du S3
+2015-10-03 18:50:57	Bruce	[23:29:52] zehir o///
+2015-10-03 18:50:57	~Corwin	[23:29:59] coucou zehir 
+2015-10-03 18:50:57	&zehir	[23:30:00] yo !
+2015-10-03 18:50:57	Bruce	[23:30:25] zehir est pas asm iirc Corwin 
+2015-10-03 18:50:57	~Corwin	[23:30:30] si
+2015-10-03 18:50:57	&zehir	[23:30:43] sisi
+2015-10-03 18:50:57	Bruce	[23:30:45] oh
+2015-10-03 18:50:57	Bruce	[23:30:48] cool §
+2015-10-03 18:50:57	Bruce	[23:30:53] t'as reçu ce mail du coup :D
+2015-10-03 18:50:57	~Corwin	[23:30:56] michau_n c'est zehir Bruce 
+2015-10-03 18:50:57	Bruce	[23:31:19] j'sais pas, Blue m'a montré le mail, j'ai pas vu mon nom, je suis parti acheter a manger juste après :D
+2015-10-03 18:50:57	marque_o	[23:48:57] Bonne soirée !
+2015-10-03 18:50:57	Greed	[07:57:09] Du coup il y a des asm sur le chan ?
+2015-10-03 18:50:57	Greed	[07:57:27] Ou juste des ex-asm, ing1 et spe ?
+2015-10-03 18:50:57	Greed	[07:58:14] Je vais tenter de guess zehir est asm ?
+2015-10-03 18:50:57	Greed	[07:58:38] Je suppose Blue aussi ?
+2015-10-03 18:50:57	Bruce	[07:59:01] Greed: toutes les personnes qui sont +ao sont ASM 2018
+2015-10-03 18:50:57	Bruce	[07:59:13] le reste c'est soit des spés soit des ing1 qui lurkent :D
+2015-10-03 18:50:57	Greed	[08:00:34] Genre yayg ?
+2015-10-03 18:50:57	Greed	[08:01:09] Il me semble qu'il est yaka (enfin rien ne l'empeche d'etre asm a priori)
+2015-10-03 18:50:57	Greed	[08:01:49] Sinon merci 
+2015-10-03 18:50:57	Greed	[08:01:53] Du coup
+2015-10-03 18:50:57	Greed	[08:02:03] Je vais faire ma propagande
+2015-10-03 18:50:57	Greed	[08:02:14] Ca vous interesse d'avoir un intra ?
+2015-10-03 18:50:57	Greed	[08:02:21] Au hasard celui-la :
+2015-10-03 18:50:57	Greed	[08:02:28] asm.epita.it
+2015-10-03 18:50:57	&Blue	[08:23:19] Greed: Oui je suis asm
+2015-10-03 18:50:57	~Corwin	[09:58:19] Greed: les gens en +ao sont les anciens / nouveaux asm
+2015-10-03 18:50:57	~Corwin	[09:58:28] d'ailleurs...
+2015-10-03 18:50:57	~Corwin	[09:58:57] Greed: t'as pas register ton pseudo ?
+2015-10-03 18:50:57	&zehir	[17:12:58] Greed: t'es un ex asm ?
+2015-10-03 18:50:57	&zehir	[17:13:04] sinon moi je vote pour l'intra
+2015-10-03 18:50:57	~Corwin	[17:13:08] zehir: yep
+2015-10-03 18:50:57	&zehir	[17:13:23] Corwin: c'est qui ?
+2015-10-03 18:50:57	~Corwin	[17:13:28] Renaud
+2015-10-03 18:50:57	&zehir	[17:13:32] ah ok
+2015-10-03 18:50:57	&Renaud	[18:12:04] Corwin j'avais, j'ai pas du me logguer depuis un bout de temps
+2015-10-03 18:50:57	&Renaud	[18:12:10] Et je vais changer de pseudo
+2015-10-03 18:50:57	&Renaud	[18:12:18] *Enfin j'ai
+2015-10-03 18:50:57	&Renaud	[18:15:48] Voila Renaud Register
+2015-10-03 18:50:57	Bruce	[18:16:29] <
+2015-10-03 18:50:57	Bruce	[18:16:32] oups.
+2015-10-03 18:50:57	&Renaud	[18:43:30] zehir: Vous avez quelqu'un que ca ammuse un peut de s
+2015-10-03 18:50:57	&Renaud	[18:43:40] 'occuper de l'intra avec un ACDC ?
+2015-10-03 18:50:57	&zehir	[22:16:49] Renaud: moi éventuellement, mais je m'y connais pas des masses en web
+2015-10-03 18:50:57	&zehir	[22:17:07] donc ça dépend si y a beaucoup de trucs à changer ou si il est complètement fonctionnel
+2015-10-03 18:50:57	&Renaud	[22:30:07] si il sagit juste de faire des fonctionalites basique il est completement fonctionel
+2015-10-03 18:50:57	&Renaud	[22:30:22] Tu gere quel groupe ?
+2015-10-03 18:50:57	&zehir	[22:34:12] les B2
+2015-10-03 18:50:57	&Renaud	[22:38:47] Bon je t'ai cree un compte
+2015-10-03 18:50:57	&Renaud	[22:39:18] Ca serait cool d'avoir quelqu'un qui fasse du dev web pour gerer un peut le site
+2015-10-03 18:50:57	&Renaud	[22:39:23] (Autre que moi)
+2015-10-03 18:50:57	&Renaud	[22:39:38] De facon a assurer une continuite sur les prochaines annees
+2015-10-03 18:50:57	&zehir	[22:45:09] J'ai posté sur notre groupe, personne a l'air motivé pour l'intra...
+2015-10-03 18:50:57	&yayg	[23:29:14] zehir: tu as posté sur le groupe facebook ?
+2015-10-03 18:50:57	&yayg	[23:30:45] sinon j'aimerais savoir si il va être utilisé car je suis en train de refaire la moulinette python pour faire de l'introspection C/C# donc j'aimerais savoir si je continue ou je ragequit et je formate mon serveur
+2015-10-03 18:50:57	&yayg	[23:31:15] (parce que j'aimerais bien passer mon serveur sous arch)
+2015-10-03 18:50:57	&zehir	[23:34:12] yayg: ouais j'ai posté sur notre groupe fb
+2015-10-03 18:50:57	&zehir	[23:36:01] et clairement ouais continue ta moulinette, même si on utilise pas l'intra au final ça peut servir
+2015-10-03 18:50:57	&yayg	[23:50:00] zehir: c'est un lot, pas d'intra pas de moulinette ;)
+2015-10-03 18:50:57	&yayg	[23:50:26] nan mais si vous l'utilisez pas c'est surtout Renaud qui sera emmerdé
+2015-10-03 18:50:57	&zehir	[00:05:21] bon du coup faudrait peut être abort l'idée, si je suis le seul intéressé et qu'en plus y a la pression pour l'utiliser :/
+2015-10-03 18:50:57	&Renaud	[01:02:14] Nan mais yayg c'est quoi cette pression ?
+2015-10-03 18:50:57	&Renaud	[01:03:56] C'est intolerable !
+2015-10-03 18:50:57	spartax	[15:13:32] quit
+2015-10-03 18:50:57	&yayg	[19:54:44] zehir: je suis désolé si j'ai mis la pression mais c'est juste que la question est pas compliqué et que j'ai pas de réponse de Marwan qui me renvoi vers vous ni de vous :/
+2015-10-03 18:50:57	&yayg	[19:55:33] Tout ce que je voulais savoir c'est si vous l'utiliserez en fait ^^
+2015-10-03 18:50:57	&yayg	[19:56:46] si vous voulez l'utiliser je suis en train de m'activer pour avoir des trucs corrects. Si vous l'utilisez pas ou pas tout de suite je me mets juste moins la pression.
+2015-10-03 18:50:57	&zehir	[19:59:33] yayg: ok bah on va dire que non alors
+2015-10-03 18:50:57	&zehir	[19:59:52] je pensais pouvoir le récupérer "au cas ou", mais j'étais pas sûr du tout de m'en servir
+2015-10-03 18:50:57	&zehir	[23:37:39] yayg: Renaud: Bon finalement on va récupérer l'intra, y a mon binôme (Alexandre Abita) qui est chaud aussi pour l'intra et qui a un peu d'expérience en web donc il pourrait le maintenir (probablement mieux que moi en tout cas)
+2015-10-03 18:50:57	&zehir	[23:42:36] par contre il voudrait savoir quelles technos sont utilisées pour faire le site
+2015-10-03 18:50:57	&zehir	[23:42:56] et il utilise pas irc donc je suis obligé de relayer :/ ou alors faudrait que vous le contactiez sur fb
+2015-10-03 18:50:57	~Corwin	[23:43:14] pourquoi il utilise pas irc ?
+2015-10-03 18:50:57	&zehir	[23:43:48] "j'ai pas irc", je lui en ai pas demandé plus
+2015-10-03 18:50:57	~Corwin	[23:44:01] mais mais mais...
+2015-10-03 18:50:57	&zehir	[23:44:07] flemme d'essayer de le convaincre
+2015-10-03 18:50:57	&Renaud	[00:50:14] zehir: C'est du php avec symfony2
+2015-10-03 18:50:57	&Renaud	[00:50:36] A priori tu dois pouvoir lui cree un compte sur le site
+2015-10-03 18:50:57	&Renaud	[00:51:02] Faudra que je m'occupe de clean la db des eleves de l'annee derniere
+2015-10-03 18:50:57	&Renaud	[01:28:52] *creer
+2015-10-03 18:50:57	&yayg	[16:53:13] zehir: Heureux de le savoir. 
+2015-10-03 18:50:57	&yayg	[16:54:05] je vais clean un peu mon serveur, refaire l'archi et je vous fais un compte dessus pour que vous puissiez voir ce que ça donne
+2015-10-03 18:50:57	***	Playback Complete.
+2015-10-03 18:51:09	--	Channel created on Mon, 28 Sep 2015 13:02:34

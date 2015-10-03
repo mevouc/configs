@@ -1,19 +1,19 @@
-[2015-10-01 19:05:31] WeeChat 1.3 (compiled on Sep 10 2015 16:03:18)
-[2015-10-01 19:05:31] Reading configuration file sec.conf
-[2015-10-01 19:05:31] Reading configuration file weechat.conf
-[2015-10-01 19:05:31] Reading configuration file plugins.conf
-[2015-10-01 19:05:31] Reading configuration file charset.conf
-[2015-10-01 19:05:31] Reading configuration file logger.conf
-[2015-10-01 19:05:31] Reading configuration file exec.conf
-[2015-10-01 19:05:31] Reading configuration file trigger.conf
-[2015-10-01 19:05:31] Reading configuration file aspell.conf
-[2015-10-01 19:05:31] Reading configuration file alias.conf
-[2015-10-01 19:05:31] Reading configuration file xfer.conf
-[2015-10-01 19:05:31] Reading configuration file irc.conf
-[2015-10-01 19:05:31] Reading configuration file relay.conf
-[2015-10-01 19:05:31] Reading configuration file autosort.conf
-[2015-10-01 19:05:31] Writing configuration file autosort.conf
-[2015-10-01 19:05:31] Reading configuration file colorize_nicks.conf
-[2015-10-01 19:05:31] Reading configuration file buffers.conf
-[2015-10-01 19:05:31] Reading configuration file script.conf
-[2015-10-01 19:05:31] irc: connecting to server sd-80356.dedibox.fr/1996 (SSL)...
+[2015-10-03 18:50:39] WeeChat 1.3 (compiled on Sep 10 2015 16:03:18)
+[2015-10-03 18:50:39] Reading configuration file sec.conf
+[2015-10-03 18:50:39] Reading configuration file weechat.conf
+[2015-10-03 18:50:39] Reading configuration file plugins.conf
+[2015-10-03 18:50:41] Reading configuration file charset.conf
+[2015-10-03 18:50:41] Reading configuration file logger.conf
+[2015-10-03 18:50:41] Reading configuration file exec.conf
+[2015-10-03 18:50:42] Reading configuration file trigger.conf
+[2015-10-03 18:50:42] Reading configuration file aspell.conf
+[2015-10-03 18:50:42] Reading configuration file alias.conf
+[2015-10-03 18:50:42] Reading configuration file xfer.conf
+[2015-10-03 18:50:42] Reading configuration file irc.conf
+[2015-10-03 18:50:42] Reading configuration file relay.conf
+[2015-10-03 18:50:47] Reading configuration file autosort.conf
+[2015-10-03 18:50:47] Writing configuration file autosort.conf
+[2015-10-03 18:50:47] Reading configuration file colorize_nicks.conf
+[2015-10-03 18:50:49] Reading configuration file buffers.conf
+[2015-10-03 18:50:50] Reading configuration file script.conf
+[2015-10-03 18:50:50] irc: connecting to server sd-80356.dedibox.fr/1996 (SSL)...

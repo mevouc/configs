@@ -1,2 +1,4 @@
 .vim/.netrwhist
+.weechat/logs/*
+.weechat/weechat.log
 

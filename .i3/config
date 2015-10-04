@@ -177,10 +177,11 @@ bar
 	
 	colors
 	{
-		background 	#121212
+		background 	#222222
 		# Type 				border 	background 	font
 		focused_workspace 	#888888 #d5d5d5 	#080808
 		urgent_workspace	#080808 #880000 	#080808
+		inactive_workspace 	#333333 #000000 	#888888
 	}
 	
 }

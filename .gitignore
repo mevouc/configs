@@ -3,3 +3,4 @@
 .weechat/logs/*
 *.weechatlog
 .weechat/weechat.log
+*.log

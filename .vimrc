@@ -37,6 +37,8 @@ colorscheme jellybeans
 " Plugin 'Valloric/YouCompleteMe'
 
 filetype plugin indent on
+set shiftwidth=4
+set tabstop=4
 
 set number
 set numberwidth=2

@@ -34,7 +34,7 @@ let g:solarized_termcolors=256
 let g:solarized_termtrans=1
 colorscheme jellybeans
 
-" Plugin 'Valloric/YouCompleteMe'
+Plugin 'ervandew/supertab'
 
 filetype plugin indent on
 set shiftwidth=4

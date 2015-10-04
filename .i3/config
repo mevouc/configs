@@ -177,11 +177,11 @@ bar
 	
 	colors
 	{
-		background 	#222222
+		background 	#121212
 		# Type 				border 	background 	font
 		focused_workspace 	#888888 #d5d5d5 	#080808
 		urgent_workspace	#080808 #880000 	#080808
-		inactive_workspace 	#333333 #000000 	#888888
+		inactive_workspace 	#333333 #121212 	#888888
 	}
 	
 }
@@ -189,6 +189,7 @@ bar
 # class			border	backgr.	text	indicator
 client.focused		#888888	#d5d5d5	#080808	#080808
 client.urgent		#080808	#880000	#080808	#080808
+client.unfocused	#333333 #121212 #888888 #292d2e
 
 # exec_always feh --bg-scale ~/Pics/Wallpapers/LOTR/wallpaper-2848424.jpg
 exec_always feh --bg-scale ~/configs/wallpaper/picture

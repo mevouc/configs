@@ -57,6 +57,7 @@ alias brightness="sudo tee /sys/class/backlight/intel_backlight/brightness <<<"
 alias sl="sl -ac"
 alias starwars="telnet towel.blinkenlights.nl"
 alias mntwindows="sudo mount -t ntfs /dev/sda4 /windows"
+alias :q="exit"
 
 # key bindings
 bindkey "e[1~" 	beginning-of-line

@@ -12,7 +12,7 @@ urxvt*termName:	rxvt-unicode-256color
 xterm*faceName: Lucida Console
 xterm*faceSize: 10
 
-urxvt*font: 	xft:Lucida Console:size=10
+urxvt*font: 	xft:Lucida Console:size=10,	xft:Monospace:size=10, xft:Courier New:size=10
 urxvt*boldFont:	xft:Lucida Console:bold:size=10
 urxvt*color4:	RoyalBlue
 urxvt*color12:	RoyalBlue

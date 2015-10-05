@@ -4,5 +4,5 @@
 *.weechatlog
 .weechat/weechat.log
 *.log
-.vim/bundle/YouCompleteMe/third_party/*
-.vim/bundle/YouCompleteMe/third_party/
+.vim/bundle/YouCompleteMe/*
+.vim/bundle/YouCompleteMe/

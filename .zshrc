@@ -26,12 +26,14 @@ eval $(thefuck --alias)
 eval $(dircolors -b ~/.dir_colors)
 archey
 
+source ~/configs/.zsh/zsh-git-prompt/zshrc.sh
+
 setopt prompt_subst
 # Prompt config
 # "$COLUMNS" can be set instead of "80"
 # To use the following definition, type "${NEWLINE}"
 NEWLINE=$'\n'
-PROMPT="%F{233}${(r:80::─:)}%{$reset_color%}${NEWLINE}┌─╴%F{119}%n%F{227}@%F{045}%m%{$reset_color%}: [ %F{227}%~ %{$reset_color%}] ${vcs_info_msg_0_}${NEWLINE}└──[%F{12}%*%{$reset_color%}]─(%F{203}%#%{$reset_color%})─▶%F{015} "
+PROMPT="%F{233}${(r:80::─:)}%{$reset_color%}${NEWLINE}┌─╴%F{119}%n%F{227}@%F{045}%m%{$reset_color%}: [ %F{227}%~ %{$reset_color%}] $(git_super_status)${NEWLINE}└──[%F{12}%*%{$reset_color%}]─(%F{203}%#%{$reset_color%})─▶%F{015} "
 RPROMPT=""
 
 # Aliases

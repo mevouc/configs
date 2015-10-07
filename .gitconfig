@@ -1,0 +1,7 @@
+[user]
+	name = mevouc
+	email = meven.courouble@vouc.me
+[color]
+	ui = true
+[push]
+	default = simple

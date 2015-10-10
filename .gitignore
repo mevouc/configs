@@ -3,6 +3,7 @@
 .weechat/logs/*
 *.weechatlog
 .weechat/weechat.log
+.weechat/queryman.txt
 *.log
 .vim/bundle/YouCompleteMe/*
 .vim/bundle/YouCompleteMe/

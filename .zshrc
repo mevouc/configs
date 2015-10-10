@@ -58,6 +58,9 @@ alias sl="sl -ac"
 alias starwars="telnet towel.blinkenlights.nl"
 alias mntwindows="sudo mount -t ntfs /dev/sda4 /windows"
 alias :q="exit"
+alias st="git status"
+alias psh="git push"
+alias pll="git pull --rebase"
 
 # key bindings
 bindkey "e[1~" 	beginning-of-line

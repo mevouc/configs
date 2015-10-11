@@ -59,6 +59,8 @@ alias starwars="telnet towel.blinkenlights.nl"
 alias mntwindows="sudo mount -t ntfs /dev/sda4 /windows"
 alias :q="exit"
 alias st="git status"
+alias add="git add"
+alias cmt="git commit"
 alias psh="git push"
 alias pll="git pull --rebase"
 

@@ -41,6 +41,8 @@ Plugin 'Raimondi/delimitMate'
 filetype plugin indent on
 set shiftwidth=4
 set tabstop=4
+set expandtab
+set smarttab
 
 set number
 set numberwidth=2

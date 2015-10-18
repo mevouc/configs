@@ -140,6 +140,8 @@ bindsym XF86 exec wifi-menu
 bindsym XF86KbdBrightnessUp exec tee /sys/class/backlight/intel_backlight/brightness <<< 4882
 # Brightness down
 bindsym XF86KbdBrightnessDown exec tee /sys/class/backlight/intel_backlight/brightness <<< 1000
+# Print screen
+bindcode 118 exec scrot -e 'mv $f ~/Pics/Screenshots'
 
 # resize window (you can also use the mouse for that)
 mode "resize" {

@@ -4,6 +4,7 @@
 *.weechatlog
 .weechat/weechat.log
 .weechat/queryman.txt
+.weechat/irc.conf
 *.log
 .vim/bundle/YouCompleteMe/*
 .vim/bundle/YouCompleteMe/

@@ -135,11 +135,11 @@ bindsym XF86AudioLowerVolume exec amixer set Master 1%-
 # sound mute
 bindsym XF86AudioMute exec amixer set Master toggle
 # wifi key
-bindsym XF86 exec wifi-menu
+bindcode 255 exec wifi-menu
 # Brightness up
-bindsym XF86KbdBrightnessUp exec tee /sys/class/backlight/intel_backlight/brightness <<< 4882
+bindcode 233 exec ~/configs/backlight.sh +10
 # Brightness down
-bindsym XF86KbdBrightnessDown exec tee /sys/class/backlight/intel_backlight/brightness <<< 1000
+bindcode 232 exec ~/configs/backlight.sh -10
 # Print screen
 bindcode 118 exec scrot -e 'mv $f ~/Pics/Screenshots'
 
@@ -197,4 +197,4 @@ client.unfocused	#333333 #121212 #888888 #292d2e
 exec_always feh --bg-scale ~/configs/wallpaper/picture
 exec_always xcompmgr -c -f -n
 exec_always i3-sensible-terminal
-exec_always setxkbmap fr dvorak
+exec_always setxkbmap -layout "fr,fr" -variant "dvorak,latin9" -option "grp:shifts_toggle" 

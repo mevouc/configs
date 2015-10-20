@@ -26,7 +26,7 @@ eval $(thefuck --alias)
 eval $(dircolors -b ~/.dir_colors)
 archey
 
-source .zsh/zsh-git-prompt/zshrc.sh
+source ~/.zsh/zsh-git-prompt/zshrc.sh
 
 setopt prompt_subst
 # Prompt config

@@ -9,6 +9,8 @@ zstyle :compinstall filename '/home/mevouc/.zshrc'
 
 # End of lines added by compinstall
 
+export KEYTIMEOUT=1
+
 # Startup exec
 autoload -Uz vcs_info
 zstyle ':vcs_info:*' enable git svn

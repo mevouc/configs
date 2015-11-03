@@ -41,6 +41,8 @@ RPROMPT=
 # Aliases
 alias ls="ls --color=auto"
 alias la="ls -a"
+alias ll="ls -l"
+alias lla="ls -l -a"
 alias l="ls"
 alias cd/="cd /"
 alias cd-="cd -"

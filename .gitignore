@@ -9,4 +9,5 @@
 .vim/bundle/YouCompleteMe/*
 .vim/bundle/YouCompleteMe/
 *.swp
+*.xml.gz
 *.gz

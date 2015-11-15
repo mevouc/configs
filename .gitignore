@@ -9,5 +9,4 @@
 .vim/bundle/YouCompleteMe/*
 .vim/bundle/YouCompleteMe/
 *.swp
-*.xml.gz
-*.gz
+.weechat/scripts/plugins.xml.gz

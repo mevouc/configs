@@ -52,6 +52,6 @@ highlight NonText ctermfg=DarkBlue ctermbg=NONE guifg=DarkBlue guibg=NONE
 
 set textwidth=80
 set colorcolumn=+1
-highlight ColorColumn guibg=#121212 ctermbg=233
+highlight ColorColumn guibg=#262626 ctermbg=235
 
 au BufNewFile *.c 0r ~/.vim/templates/c.c

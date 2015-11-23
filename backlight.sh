@@ -12,6 +12,6 @@ NEWPRCT=$(($OLDPRCT $1))
 
 NEWBRTNSS=$(( $MAXBRTNSS * $NEWPRCT / 100 ))
 
-sudo chmod 666 $DIR"brightness"
+# sudo chmod 666 $DIR"brightness"
 echo $NEWBRTNSS > $DIR"brightness"
 

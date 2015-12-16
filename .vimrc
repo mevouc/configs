@@ -54,4 +54,10 @@ set textwidth=80
 set colorcolumn=+1
 highlight ColorColumn guibg=#262626 ctermbg=235
 
-au BufNewFile *.c 0r ~/.vim/templates/c.c
+au BufNewFile *.c 0r /home/mevouc/.vim/templates/c.c
+
+set cursorline
+set relativenumber
+
+set list
+set listchars=tab:>-,eol:¬,nbsp:¤

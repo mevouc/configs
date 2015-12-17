@@ -44,11 +44,13 @@ set tabstop=2
 set softtabstop=2
 set smarttab
 
+set cursorline
+highlight CursorLine ctermfg=NONE ctermbg=232 guifg=NONE guibg=#080808
+
 set number
 set numberwidth=2
 highlight LineNr ctermbg=NONE guibg=NONE
 highlight Normal ctermbg=NONE guibg=NONE
-highlight NonText ctermfg=DarkBlue ctermbg=NONE guifg=DarkBlue guibg=NONE
 
 set textwidth=80
 set colorcolumn=+1
@@ -56,8 +58,9 @@ highlight ColorColumn guibg=#262626 ctermbg=235
 
 au BufNewFile *.c 0r /home/mevouc/.vim/templates/c.c
 
-set cursorline
 set relativenumber
 
 set list
 set listchars=tab:>-,eol:¬,nbsp:¤
+highlight SpecialKey ctermbg=NONE guibg=NONE
+highlight NonText ctermfg=DarkBlue ctermbg=NONE guifg=DarkBlue guibg=NONE

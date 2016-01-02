@@ -147,7 +147,9 @@ EXEC 0;38;5;119
 .7z 0;38;5;203
 .rz 0;38;5;203
 .cab 0;38;5;203
-# image formats
+# pdf
+.pdf 0;38;5;203
+# image & video formats
 .jpg 0;38;5;206
 .jpeg 0;38;5;206
 .gif 0;38;5;206

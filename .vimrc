@@ -43,6 +43,7 @@ set shiftwidth=2
 set tabstop=2
 set softtabstop=2
 set smarttab
+set expandtab
 
 set cursorline
 highlight CursorLine ctermfg=NONE ctermbg=232 guifg=NONE guibg=#080808
@@ -62,5 +63,5 @@ set relativenumber
 
 set list
 set listchars=tab:>-,eol:¬,nbsp:¤
-highlight SpecialKey ctermbg=NONE guibg=NONE
+highlight SpecialKey ctermfg=232 ctermbg=NONE guifg=#080808 guibg=NONE
 highlight NonText ctermfg=DarkBlue ctermbg=NONE guifg=DarkBlue guibg=NONE

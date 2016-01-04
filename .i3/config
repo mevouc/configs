@@ -126,7 +126,7 @@ bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec i3-msg exit
 
-bindsym $mod+l exec ~/configs/lock.sh
+bindsym $mod+l exec ~/configs/scripts/lock.sh
 
 # sound volume up
 bindsym XF86AudioRaiseVolume exec amixer set Master 1%+
@@ -137,9 +137,9 @@ bindsym XF86AudioMute exec amixer set Master toggle
 # wifi key
 bindcode 255 exec wifi-menu
 # Brightness up
-bindcode 233 exec ~/configs/backlight.sh +10
+bindcode 233 exec ~/configs/scripts/backlight.sh +10
 # Brightness down
-bindcode 232 exec ~/configs/backlight.sh -10
+bindcode 232 exec ~/configs/scripts/backlight.sh -10
 # Print screen
 bindcode 118 exec scrot -e 'mv $f ~/Pics/Screenshots'
 

@@ -22,6 +22,7 @@ add-zsh-hook precmd precmd_update_git_vars
 
 ## Function definitions
 function preexec_update_git_vars() {
+    git fetch --all 2> /dev/null
     case "$2" in
         git*|hub*|gh*|stg*)
         __EXECUTED_GIT_COMMAND=1
@@ -63,7 +64,6 @@ function update_current_git_vars() {
 
 
 git_super_status() {
-  git fetch --all
 	precmd_update_git_vars
     if [ -n "$__CURRENT_GIT_STATUS" ]; then
 	  STATUS="$ZSH_THEME_GIT_PROMPT_PREFIX$ZSH_THEME_GIT_PROMPT_BRANCH$GIT_BRANCH%{${reset_color}%}"

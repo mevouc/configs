@@ -22,7 +22,6 @@ add-zsh-hook precmd precmd_update_git_vars
 
 ## Function definitions
 function preexec_update_git_vars() {
-    git fetch --all 2> /dev/null
     case "$2" in
         git*|hub*|gh*|stg*)
         __EXECUTED_GIT_COMMAND=1

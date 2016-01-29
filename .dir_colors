@@ -88,23 +88,10 @@ CAPABILITY 30;41 # file with capability
 STICKY_OTHER_WRITABLE 30;48;5;119 # dir that is sticky and other-writable (+t,o+w)
 OTHER_WRITABLE 01;38;5;38 # dir that is other-writable (o+w) and not sticky
 STICKY 38;5;15;44 # dir with the sticky bit set (+t) and not other-writable
-# This is for files with execute permission:
-EXEC 0;38;5;119
 # List any file extensions like '.gz' or '.tar' that you would like ls
 # to colorize below. Put the extension, a space, and the color init string.
 # (and any comments you want to add after a '#')
 # If you use DOS-style suffixes, you may want to uncomment the following:
-.cmd 0;38;5;119 # executables (bright green)
-.exe 0;38;5;119
-.com 0;38;5;119
-.btm 0;38;5;119
-.bat 0;38;5;119
-.run 0;38;5;119
-.out 0;38;5;119
-# Or if you want to colorize scripts even if they do not have the
-# executable bit actually set.
-.sh 0;38;5;119
-.csh 0;38;5;119
  # archives or compressed (bright red)
 .tar 0;38;5;203
 .tgz 0;38;5;203
@@ -216,3 +203,17 @@ EXEC 0;38;5;119
 .opus 00;38;5;51
 .spx 00;38;5;51
 .xspf 00;38;5;51
+# This is for files with execute permission:
+EXEC 0;38;5;119
+# executables (bright green)
+.cmd 0;38;5;119
+.exe 0;38;5;119
+.com 0;38;5;119
+.btm 0;38;5;119
+.bat 0;38;5;119
+.run 0;38;5;119
+.out 0;38;5;119
+# Or if you want to colorize scripts even if they do not have the
+# executable bit actually set.
+.sh 0;38;5;119
+.csh 0;38;5;119

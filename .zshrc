@@ -67,6 +67,7 @@ alias add="git add"
 alias cmt="git commit"
 alias psh="git push"
 alias pll="git pull --rebase"
+alias rc="mv -t -f /tmp"
 
 # key bindings
 bindkey "e[1~" 	beginning-of-line

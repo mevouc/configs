@@ -138,6 +138,7 @@ STICKY 38;5;15;44 # dir with the sticky bit set (+t) and not other-writable
 .pdf 0;38;5;203
 # image & video formats
 .jpg 0;38;5;206
+.JPG 0;38;5;206
 .jpeg 0;38;5;206
 .gif 0;38;5;206
 .bmp 0;38;5;206

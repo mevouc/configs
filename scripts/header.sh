@@ -9,15 +9,15 @@
 
 word=$1
 
-for i in {1..79}; do
-	    echo -n "=";
-		done
-		echo ""
+for i in {1..80}; do
+      echo -n "=";
+    done
+    echo ""
 
-	figlet ${word} -c -w 80
+  figlet ${word} -c -w 80
 
-	for i in {1..79}; do
-		    echo -n "=";
-			done
-			echo ""
+  for i in {1..80}; do
+        echo -n "=";
+      done
+      echo ""
 

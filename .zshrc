@@ -60,14 +60,14 @@ alias wifi="sudo wifi-menu"
 alias backlight="sudo tee /sys/class/backlight/intel_backlight/brightness <<<"
 alias sl="sl -ac"
 alias starwars="telnet towel.blinkenlights.nl"
-alias mntwindows="sudo mount -t ntfs /dev/sda4 /windows"
+alias mntwindows="sudo mount -t ntfs /dev/sda4 /mnt/windows"
 alias :q="exit"
 alias st="git status -s"
 alias add="git add"
 alias cmt="git commit"
 alias psh="git push"
 alias pll="git pull --rebase"
-alias rc="mv -t -f /tmp"
+alias rc="mv -f -t /tmp"
 
 # key bindings
 bindkey "e[1~" 	beginning-of-line

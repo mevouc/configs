@@ -35,7 +35,7 @@ setopt prompt_subst
 # "$COLUMNS" can be set instead of "80"
 # To use the following definition, type "${NEWLINE}"
 NEWLINE=$'\n'
-PROMPT='%F{233}${(r:80::─:)}%{$reset_color%}${NEWLINE}┌─╴%F{119}%n%F{227}@%F{045}%m%{$reset_color%}: [ %F{227}%~ %{$reset_color%}]$(git_super_status)${NEWLINE}└──[%F{12}%*%{$reset_color%}]─(%F{203}%#%{$reset_color%})─▶%F{015} '
+PROMPT='%F{233}${(r:80::─:)}%{$reset_color%}${NEWLINE}┌─╴%F{045}%n%F{227}@%F{119}%m%{$reset_color%}: [ %F{227}%~ %{$reset_color%}]$(git_super_status)${NEWLINE}└──[%F{012}%*%{$reset_color%}]─(%F{203}%#%{$reset_color%})─▶%F{015} '
 RPROMPT=
 
 # Aliases
@@ -68,6 +68,7 @@ alias cmt="git commit"
 alias psh="git push"
 alias pll="git pull --rebase"
 alias rc="mv -f -t /tmp"
+alias cdcl="cd ; cl"
 
 # key bindings
 bindkey "e[1~" 	beginning-of-line

@@ -39,7 +39,7 @@ PROMPT='%F{233}${(r:80::─:)}%{$reset_color%}${NEWLINE}┌─╴%F{045}%n%F{227
 RPROMPT=
 
 # Aliases
-alias ls="ls --color=auto"
+alias ls="ls -N --color=auto"
 alias la="ls -a"
 alias ll="ls -l -a"
 alias llh="ls -l -a -h"
@@ -54,7 +54,7 @@ alias off="shutdown -h now"
 alias halt="sudo halt"
 alias pacman="sudo pacman"
 alias lock="~/configs/lock.sh"
-alias sshxc="ssh -o VisualHostKey=yes mevouc@sd-80356.dedibox.fr"
+alias sshvoucme="ssh -o VisualHostKey=yes mevouc@sd-80356.dedibox.fr"
 alias cl="clear ; . ~/.zshrc"
 alias wifi="sudo wifi-menu"
 alias backlight="sudo tee /sys/class/backlight/intel_backlight/brightness <<<"
@@ -67,7 +67,7 @@ alias add="git add"
 alias cmt="git commit"
 alias psh="git push"
 alias pll="git pull --rebase"
-alias rc="mv -f -t /tmp"
+alias rc="mv -f -t /home/trash"
 alias cdcl="cd ; cl"
 
 # key bindings

@@ -198,3 +198,4 @@ exec_always feh --bg-scale ~/configs/wallpaper/picture
 exec_always xcompmgr -c -f -n
 exec_always setxkbmap -layout "fr,fr" -variant "dvorak,latin9" -option "grp:shifts_toggle"
 exec_always setxkbmap -option "caps:escape"
+exec_always setxkbmap -option "compose:ralt"

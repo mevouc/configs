@@ -7,6 +7,7 @@ sysmodmap=/etc/X11/xinit/.Xmodmap
 
 setxkbmap -layout fr,fr -variant dvorak,latin9 -option grp:shifts_toggle
 setxkbmap -option caps:escape
+setxkbmap -option compose:ralt
 
 # merge in defaults and keymaps
 

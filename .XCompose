@@ -1,47 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # UTF-8 (Unicode) compose sequence
 # David.Monniaux@ens.fr
 #
@@ -88,6 +44,11 @@
 <dead_iota> <space>              	: "ͺ"   U37a # GREEK YPOGEGRAMMENI
 <dead_iota> <dead_iota>          	: "ͺ"   U37a # GREEK YPOGEGRAMMENI
 <Multi_key> <minus> <minus> <space>	: "­"   U00ad # SOFT HYPHEN
+
+
+# Emojis
+<Multi_key> <semicolon> <asterisk> : "😘"
+<Multi_key> <O> <semicolon> <parenright> : "😇"
 
 
 # ASCII characters that may be difficult to access

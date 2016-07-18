@@ -35,7 +35,7 @@ setopt prompt_subst
 # "$COLUMNS" can be set instead of "80"
 # To use the following definition, type "${NEWLINE}"
 NEWLINE=$'\n'
-PROMPT='%F{233}${(r:80::─:)}%{$reset_color%}${NEWLINE}┌─╴%F{045}%n%F{227}@%F{119}%m%{$reset_color%}: [ %F{227}%~ %{$reset_color%}]$(git_super_status)${NEWLINE}└──[%F{012}%*%{$reset_color%}]─(%F{203}%#%{$reset_color%})─▶%F{015} '
+PROMPT='%F{233}${(r:80::─:)}%{$reset_color%}${NEWLINE}┌─╴%F{045}%n%F{227}@%F{119}%m%{$reset_color%}: [ %F{227}%~ %{$reset_color%}]$(git_super_status)${NEWLINE}└──[%F{012}%*%{$reset_color%}]─(%F{203}%#%{$reset_color%})─▶%{$reset_color%} '
 RPROMPT=
 
 # Aliases

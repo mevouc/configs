@@ -24,6 +24,8 @@ Bundle 'gmarik/Vundle.vim'
 
 Plugin 'scrooloose/nerdtree'
 map <C-n> :NERDTreeToggle<CR>
+autocmd StdinReadPre * let s:std_in=1
+autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 
 Plugin 'flazz/vim-colorschemes'
 
@@ -34,9 +36,9 @@ let g:solarized_termcolors=256
 let g:solarized_termtrans=1
 colorscheme jellybeans
 
-"Plugin 'ervandew/supertab'
-Plugin 'Valloric/YouCompleteMe'
+Plugin 'ervandew/supertab'
 Plugin 'Raimondi/delimitMate'
+Plugin 'Valloric/YouCompleteMe'
 
 filetype plugin indent on
 set shiftwidth=2
@@ -56,8 +58,6 @@ highlight Normal ctermbg=NONE guibg=NONE
 set textwidth=80
 set colorcolumn=+1
 highlight ColorColumn guibg=#262626 ctermbg=235
-
-au BufNewFile *.c 0r /home/mevouc/.vim/templates/c.c
 
 set relativenumber
 

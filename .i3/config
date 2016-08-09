@@ -195,7 +195,6 @@ client.unfocused	#333333 #121212 #888888 #292d2e
 
 # exec_always feh --bg-scale ~/Pics/Wallpapers/LOTR/wallpaper-2848424.jpg
 exec_always feh --bg-scale ~/configs/wallpaper/picture
-exec_always xcompmgr -c -f -n
 exec_always setxkbmap -layout "fr,fr" -variant "dvorak,latin9" -option "grp:shifts_toggle"
 exec_always setxkbmap -option "caps:escape"
 exec_always setxkbmap -option "compose:ralt"

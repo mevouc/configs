@@ -39,6 +39,9 @@ colorscheme jellybeans
 Plugin 'ervandew/supertab'
 Plugin 'Raimondi/delimitMate'
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'easymotion/vim-easymotion'
+map <Leader> <Plug>(easymotion-prefix)
+Plugin 'tpope/vim-commentary'
 
 filetype plugin indent on
 set shiftwidth=2

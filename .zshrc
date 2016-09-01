@@ -67,6 +67,7 @@ alias add="git add"
 alias cmt="git commit"
 alias psh="git push"
 alias pll="git pull --rebase"
+alias lg="git log --pretty=format:'%C(yellow)%h%Creset -%Cred%d%Creset %s %C(bold blue)<%an> %Creset%Cgreen(%ci)%Creset%n' --abbrev-commit"
 alias rc="mv -f -t /home/trash"
 alias cdcl="cd ; cl"
 

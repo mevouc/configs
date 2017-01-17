@@ -10,6 +10,11 @@ zstyle :compinstall filename '/home/mevouc/.zshrc'
 # End of lines added by compinstall
 
 export KEYTIMEOUT=1
+export EDITOR="vim"
+export NNTPSERVER="news.epita.fr"
+export LESSOPEN="| /usr/bin/src-hilite-lesspipe.sh %s"
+export LESS=" -R "
+alias vless='vimpager -c "set nonumber" -c "set norelativenumber" -c "set nolist" -c "set nocursorline"'
 
 # Startup exec
 autoload -Uz vcs_info
@@ -26,7 +31,6 @@ autoload colors && colors
 
 eval $(thefuck --alias)
 eval $(dircolors -b ~/.dir_colors)
-archey
 
 source ~/.zsh/zsh-git-prompt/zshrc.sh
 

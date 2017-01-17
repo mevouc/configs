@@ -5,9 +5,7 @@ usermodmap=$HOME/.Xmodmap
 sysresources=/etc/X11/xinit/.Xresources
 sysmodmap=/etc/X11/xinit/.Xmodmap
 
-setxkbmap -layout fr,fr -variant dvorak,latin9 -option grp:shifts_toggle
-setxkbmap -option caps:escape
-setxkbmap -option compose:ralt
+$HOME/scripts/map.sh
 
 # merge in defaults and keymaps
 

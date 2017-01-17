@@ -1,7 +1,28 @@
 [user]
-	name = mevouc
 	email = meven.courouble@vouc.me
+
+
+[core]
+	excludesfile = ~/.gitignore
 [color]
-	ui = true
+	ui = auto
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[commit]
+	verbose = true
+[pull]
+	rebase = true
+[branch]
+	autosetuprebase = always
 [push]
 	default = simple
+[sendemail]
+	smtpencryption = tls
+	smtpserver = smtp.office365.com
+	smtpserverport = 587
+	smtpuser = meven.courouble@epita.fr
+[user]
+	name = Meven Courouble
+	email = meven.courouble@vouc.me

@@ -14,6 +14,8 @@ runtime! archlinux.vim
 " Or better yet, read /usr/share/vim/vim74/vimrc_example.vim or the vim manual
 " and configure vim to your own liking!
 
+set encoding=utf-8 fileencodings=
+
 set nocompatible
 filetype off
 
@@ -43,6 +45,8 @@ Plugin 'easymotion/vim-easymotion'
 map <Leader> <Plug>(easymotion-prefix)
 Plugin 'tpope/vim-commentary'
 
+set hlsearch
+
 filetype plugin indent on
 set shiftwidth=2
 set tabstop=2
@@ -68,3 +72,8 @@ set list
 set listchars=tab:>-,eol:¬,nbsp:¤
 highlight SpecialKey ctermfg=232 ctermbg=NONE guifg=#080808 guibg=NONE
 highlight NonText ctermfg=DarkBlue ctermbg=NONE guifg=DarkBlue guibg=NONE
+
+set mouse=a
+
+ map <C-K> :pyf /usr/share/clang/clang-format.py<cr>
+imap <C-K> <c-o>:pyf /usr/share/clang/clang-format.py<cr>

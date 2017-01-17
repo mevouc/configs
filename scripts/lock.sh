@@ -1,6 +1,6 @@
 #!/bin/sh
-scrot ~/lock.png
-convert -scale 40% -monochrome -scale 250% ~/lock.png -modulate 100,0 ~/configs/lockscreen/picture
-epi3lock -e -i ~/configs/lockscreen/picture -f -n
-rm ~/configs/lockscreen/picture
-rm ~/lock.png
+scrot $HOME/lock.png
+convert -colors 2 -scale 40% -monochrome -scale 250% $HOME/lock.png -modulate 100,0 $HOME/lock_bw.png
+i3lock -e -i $HOME/lock_bw.png -f -n
+rm $HOME/lock_bw.png
+rm $HOME/lock.png

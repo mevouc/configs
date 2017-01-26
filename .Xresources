@@ -2,7 +2,7 @@
 *foreground:  rgb:cc/cc/cc
 *background:  rgb:12/12/12
 *transparent:  true
-*shading:  32
+*shading:  24
 *blurRadius:  4
 *scrollBar:  false
 
@@ -13,8 +13,8 @@ urxvt*termName:  rxvt-unicode-256color
 xterm*faceName: Lucida Console
 xterm*faceSize: 10
 
-urxvt*font:   xft:Monospace:size=08, xft:Courier New:size=10
-urxvt*boldFont:   xft:Monospace:bold:size=08, xft:Courier New:bold:size=10
+urxvt*font:   xft:DejaVu Sans Mono:size=08, xft:Monospace:size=08, xft:Courier New:size=10
+urxvt*boldFont:   xft:DejaVu Sans Mono:bold:size=08, xft:Monospace:bold:size=08, xft:Courier New:bold:size=10
 urxvt*color4:  RoyalBlue
 urxvt*color12:  RoyalBlue
 

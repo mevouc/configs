@@ -1,8 +1,9 @@
 *utf8: always
-*foreground:  rgb:cc/cc/cc
-*background:  rgb:12/12/12
+*foreground:  #CCCCCC
+*background:  #121212
 *transparent:  true
-*shading:  24
+*shading:  16
+*tintColor: #DDDDFF
 *blurRadius:  4
 *scrollBar:  false
 
@@ -15,8 +16,25 @@ xterm*faceSize: 10
 
 urxvt*font:   xft:DejaVu Sans Mono:size=08, xft:Monospace:size=08, xft:Courier New:size=10
 urxvt*boldFont:   xft:DejaVu Sans Mono:bold:size=08, xft:Monospace:bold:size=08, xft:Courier New:bold:size=10
-urxvt*color4:  RoyalBlue
-urxvt*color12:  RoyalBlue
+
+! red
+urxvt.color1: #cc2c2c
+urxvt.color9: #ff5f5f
+! green
+urxvt.color2: #54cc2c
+urxvt.color10: #87ff5f
+! yellow
+urxvt.color3: #cccc2c
+urxvt.color11: #ffff5f
+! blue
+urxvt*color4:  #2020cc
+urxvt*color12:  #5c5cff
+! magenta
+urxvt.color5: #cc00a4
+urxvt.color13: #ff00d7
+! cyan
+urxvt.color6: #00a4cc
+urxvt.color14: #00d7ff
 
 urxvt*keysym.Home:  \033[1~
 urxvt*keysym.End:  \033[4~

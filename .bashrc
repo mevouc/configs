@@ -3,10 +3,9 @@ set -o vi
 eval $(dircolors -b ~/.dir_colors)
 
 # Aliases
-alias ls="ls -N --color=auto"
-alias la="ls -a"
-alias ll="ls -l -a"
-alias llh="ls -l -a -h"
+alias ls="exa --color-scale -s Name"
+alias la="exa -a"
+alias ll="exa -l -a"
 alias l="ls"
 alias cd-="cd -"
 alias cd..="cd .."
@@ -19,7 +18,6 @@ alias lock="~/configs/lock.sh"
 alias sshvoucme="ssh -o VisualHostKey=yes mevouc@sd-80356.dedibox.fr"
 alias cl="clear ; . ~/.zshrc"
 alias wifi="sudo wifi-menu"
-alias backlight="sudo tee /sys/class/backlight/intel_backlight/brightness <<<"
 alias sl="sl -ac"
 alias starwars="telnet towel.blinkenlights.nl"
 alias mntwindows="sudo mount -t ntfs /dev/sda4 /mnt/windows"
@@ -34,6 +32,7 @@ alias rbs="git rebase"
 alias gdb="gdb -q"
 alias lg="git log --pretty=format:'%C(yellow)%h%Creset -%Cred%d%Creset %s %C(bold blue)<%an> %Creset%Cgreen(%ci)%Creset%n' --abbrev-commit --graph"
 alias cdcl="cd ; cl"
+alias r="!!"
 
 NNTPSERVER='news.epita.fr' && export NNTPSERVER
 export EDITOR=vim
@@ -47,6 +46,17 @@ man() {
     LESS_TERMCAP_us=$'\e[00;38;5;227m' \
     command man "$@"
 }
+
+backlight() {
+  n="$1"
+  if [ "$n" = 'max' ]; then
+    n=4882
+  elif [ "$n" = 'half' ]; then
+    n=2441
+  fi
+  sudo tee /sys/class/backlight/intel_backlight/brightness <<< "$n"
+}
+
 
 LINE=""
 for i in $(seq 80) ; do

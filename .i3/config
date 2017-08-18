@@ -182,7 +182,7 @@ set $transparent #000006C0
 bar
 {
   i3bar_command i3bar -t
-	font pango:DejaVu Sans Mono 9
+	font pango:DejaVu Sans 10
 #  status_command	i3status -c ~/.i3/i3status.conf
   status_command	i3blocks -c ~/.i3/i3blocks.conf
 	position	bottom
@@ -194,7 +194,7 @@ bar
 		# Type 				border 	background 	font
 		focused_workspace 	#ffffff #d5d5d5 	#000000
 		urgent_workspace	#ff0000 #880000 	#ffffff
-		inactive_workspace 	#333333 #121212 	#888888
+		inactive_workspace 	#000006C0 #000006C0 	#d5d5d5
 	}
 	
 }

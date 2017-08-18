@@ -3,73 +3,9 @@ set -o vi
 eval $(dircolors -b ~/.dir_colors)
 
 # Aliases
-alias ls="exa --color-scale -s Name"
-alias la="exa -a"
-alias ll="exa -l -a"
-alias l="ls"
-alias cd-="cd -"
-alias cd..="cd .."
-alias grep="grep --color"
-alias reboot="shutdown -r now"
-alias poweroff="sudo poweroff"
-alias off="shutdown -h now"
-alias halt="sudo halt"
-alias lock="~/configs/lock.sh"
-alias sshvoucme="ssh -o VisualHostKey=yes mevouc@sd-80356.dedibox.fr"
-alias cl="clear ; . ~/.zshrc"
-alias wifi="sudo wifi-menu"
-alias sl="sl -ac"
-alias starwars="telnet towel.blinkenlights.nl"
-alias mntwindows="sudo mount -t ntfs /dev/sda4 /mnt/windows"
-alias st="git status -s"
-alias add="git add"
-alias cmt="git commit"
-alias psh="git push"
-alias pll="git pull --rebase"
-alias brch="git branch"
-alias chkt="git checkout"
-alias rbs="git rebase"
-alias gdb="gdb -q"
-alias lg="git log --pretty=format:'%C(yellow)%h%Creset -%Cred%d%Creset %s %C(bold blue)<%an> %Creset%Cgreen(%ci)%Creset%n' --abbrev-commit --graph"
-alias cdcl="cd ; cl"
-alias r="!!"
+source $HOME/.aliases
 
-NNTPSERVER='news.epita.fr' && export NNTPSERVER
-export EDITOR=vim
-
-man() {
-    LESS_TERMCAP_md=$'\e[01;38;5;45m' \
-    LESS_TERMCAP_me=$'\e[0m' \
-    LESS_TERMCAP_se=$'\e[0m' \
-    LESS_TERMCAP_so=$'\e[01;44;33m' \
-    LESS_TERMCAP_ue=$'\e[0m' \
-    LESS_TERMCAP_us=$'\e[00;38;5;227m' \
-    command man "$@"
-}
-
-backlight() {
-  n="$1"
-  if [ "$n" = 'max' ]; then
-    n=4882
-  elif [ "$n" = 'half' ]; then
-    n=2441
-  fi
-  sudo tee /sys/class/backlight/intel_backlight/brightness <<< "$n"
-}
-
-
-LINE=""
-for i in $(seq 80) ; do
-  LINE="$LINE─"
-done
-
-if [ "$USER" = "courou_m" ] ; then
-  ME=mevouc
-else
-  ME="$USER"
-fi
-
-PATH="$PATH:$HOME/scripts:$HOME/.bin"
+source $HOME/.shrc
 
 PROMPT_COMMAND=prompt
 

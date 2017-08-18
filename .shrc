@@ -1,0 +1,40 @@
+#!/bin/sh
+
+export KEYTIMEOUT=1
+export EDITOR="vim"
+export NNTPSERVER="news.epita.fr"
+
+function man() {
+    LESS_TERMCAP_md=$'\e[01;38;5;45m' \
+    LESS_TERMCAP_me=$'\e[0m' \
+    LESS_TERMCAP_se=$'\e[0m' \
+    LESS_TERMCAP_so=$'\e[01;44;33m' \
+    LESS_TERMCAP_ue=$'\e[0m' \
+    LESS_TERMCAP_us=$'\e[00;38;5;227m' \
+    command man "$@"
+}
+
+function backlight() {
+  n="$1"
+  if [ "$n" = 'max' ]; then
+    n=4882
+  elif [ "$n" = 'half' ]; then
+    n=2441
+  fi
+  sudo tee /sys/class/backlight/intel_backlight/brightness <<< "$n"
+}
+
+
+LINE=""
+for i in $(seq 80) ; do
+  LINE="$LINE─"
+done
+
+if [ "$USER" = "courou_m" ] ; then
+  ME=mevouc
+else
+  ME="$USER"
+fi
+
+PATH="$PATH:$HOME/scripts:$HOME/.bin"
+

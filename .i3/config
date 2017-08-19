@@ -95,13 +95,13 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 # switch to workspace
-bindsym $mod+underscore workspace 0
-bindsym $mod+twosuperior workspace 0
-bindsym $mod+grave workspace 0
+bindsym $mod+underscore workspace "0 Code"
+bindsym $mod+twosuperior workspace "0 Code"
+bindsym $mod+grave workspace "0 Code"
 bindsym $mod+1 workspace 1
-bindsym $mod+2 workspace 2
-bindsym $mod+3 workspace 3
-bindsym $mod+4 workspace 4
+bindsym $mod+2 workspace "2 Firefox"
+bindsym $mod+3 workspace "3 IRC"
+bindsym $mod+4 workspace "4 Thunderbird"
 bindsym $mod+5 workspace 5
 bindsym $mod+6 workspace 6
 bindsym $mod+7 workspace 7
@@ -110,13 +110,13 @@ bindsym $mod+9 workspace 9
 bindsym $mod+0 workspace 10
 
 # move focused container to workspace
-bindsym $mod+Shift+underscore move container to workspace 0
-bindsym $mod+Shift+twosuperior move container to workspace 0
-bindsym $mod+Shift+grave move container to workspace 0
+bindsym $mod+Shift+underscore move container to workspace "0 Code"
+bindsym $mod+Shift+twosuperior move container to workspace "0 Code"
+bindsym $mod+Shift+grave move container to workspace "0 Code"
 bindsym $mod+Shift+1 move container to workspace 1
-bindsym $mod+Shift+2 move container to workspace 2
-bindsym $mod+Shift+3 move container to workspace 3
-bindsym $mod+Shift+4 move container to workspace 4
+bindsym $mod+Shift+2 move container to workspace "2 Firefox"
+bindsym $mod+Shift+3 move container to workspace "3 IRC"
+bindsym $mod+Shift+4 move container to workspace "4 Thunderbird"
 bindsym $mod+Shift+5 move container to workspace 5
 bindsym $mod+Shift+6 move container to workspace 6
 bindsym $mod+Shift+7 move container to workspace 7
@@ -192,9 +192,9 @@ bar
 		background 	$transparent
     statusline #ffffff
 		# Type 				border 	background 	font
-		focused_workspace 	#ffffff #d5d5d5 	#000000
+		focused_workspace 	#d5d5d5 #d5d5d5 	#000000
 		urgent_workspace	#ff0000 #880000 	#ffffff
-		inactive_workspace 	#000006C0 #000006C0 	#d5d5d5
+		inactive_workspace 	#080808 #000006C0 	#c0c0c0
 	}
 	
 }
@@ -213,6 +213,5 @@ gaps outer 8
 smart_borders on
 
 exec_always compton -b --no-fading-openclose
-# exec_always feh --bg-scale $HOME/Pics/rocklands-primitive.jpg
 exec_always feh -D 1800 --bg-fill $HOME/wallpaper/picture
 exec_always $HOME/scripts/map.sh

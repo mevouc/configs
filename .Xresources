@@ -2,7 +2,8 @@
 *foreground:  #C0C0C0
 *background:  #121212
 *transparent:  true
-*shading:  16
+!*shading:  16
+*shading:  8
 *tintColor: #DDDDFF
 *blurRadius:  4
 *scrollBar:  false
@@ -14,8 +15,8 @@ urxvt*termName:  rxvt-unicode-256color
 xterm*faceName: Lucida Console
 xterm*faceSize: 10
 
-urxvt*font:   xft:DejaVu Sans Mono:size=08, xft:Monospace:size=08, xft:Courier New:size=10
-urxvt*boldFont:   xft:DejaVu Sans Mono:bold:size=08, xft:Monospace:bold:size=08, xft:Courier New:bold:size=10
+urxvt*font:   xft:DejaVu Sans Mono:size=09, xft:Monospace:size=08, xft:Courier New:size=10
+urxvt*boldFont:   xft:DejaVu Sans Mono:bold:size=09, xft:Monospace:bold:size=08, xft:Courier New:bold:size=10
 
 ! red
 urxvt.color1: #cc2c2c
@@ -43,3 +44,10 @@ urxvt*keysym.Alt-Escape:  perl:keyboard-select:activate
 urxvt*perl-ext-common:   default,clipboard,keyboard-select
 urxvt*keysym.Alt-v:  perl:clipboard:paste
 urxvt*keysym.Alt-c:  perl:clipboard:paste
+
+urxvt.perl-ext-common: ...,font-size
+
+URxvt.keysym.C-Up:     perl:font-size:increase
+URxvt.keysym.C-Down:   perl:font-size:decrease
+URxvt.keysym.C-S-Up:   perl:font-size:incglobal
+URxvt.keysym.C-S-Down: perl:font-size:decglobal

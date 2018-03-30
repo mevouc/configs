@@ -75,5 +75,7 @@ highlight NonText ctermfg=DarkBlue ctermbg=NONE guifg=DarkBlue guibg=NONE
 
 set mouse=a
 
- map <C-K> :pyf /usr/share/clang/clang-format.py<cr>
+map <C-K> :pyf /usr/share/clang/clang-format.py<cr>
 imap <C-K> <c-o>:pyf /usr/share/clang/clang-format.py<cr>
+
+map <C-Y> 0df:dwi* <Esc>A: Here.<Esc><CR>0

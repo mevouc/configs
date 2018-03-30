@@ -40,7 +40,7 @@ bindsym $mod+p exec scrot
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec dmenu_run -fn 'DejaVu Sans Mono-9'
+bindsym $mod+d exec rofi -show run #dmenu_run -fn 'DejaVu Sans Mono-9'
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
@@ -100,7 +100,7 @@ bindsym $mod+twosuperior workspace "0 Code"
 bindsym $mod+grave workspace "0 Code"
 bindsym $mod+1 workspace 1
 bindsym $mod+2 workspace "2 Firefox"
-bindsym $mod+3 workspace "3 IRC"
+bindsym $mod+3 workspace "3 Chat"
 bindsym $mod+4 workspace "4 Thunderbird"
 bindsym $mod+5 workspace 5
 bindsym $mod+6 workspace 6
@@ -115,7 +115,7 @@ bindsym $mod+Shift+twosuperior move container to workspace "0 Code"
 bindsym $mod+Shift+grave move container to workspace "0 Code"
 bindsym $mod+Shift+1 move container to workspace 1
 bindsym $mod+Shift+2 move container to workspace "2 Firefox"
-bindsym $mod+Shift+3 move container to workspace "3 IRC"
+bindsym $mod+Shift+3 move container to workspace "3 Chat"
 bindsym $mod+Shift+4 move container to workspace "4 Thunderbird"
 bindsym $mod+Shift+5 move container to workspace 5
 bindsym $mod+Shift+6 move container to workspace 6

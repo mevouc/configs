@@ -24,6 +24,12 @@ function backlight() {
   sudo tee /sys/class/backlight/intel_backlight/brightness <<< "$n"
 }
 
+function butler-init() {
+  python3 -m venv env
+  . ./env/bin/activate
+  sudo pip install --extra-index-url https://pypi.acu.epita.fr/simple -r requirements.txt
+}
+
 
 LINE=""
 for i in $(seq 80) ; do
@@ -38,3 +44,4 @@ fi
 
 PATH="$PATH:$HOME/scripts:$HOME/.bin"
 
+export TC="../src/tc"

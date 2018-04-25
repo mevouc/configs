@@ -1,12 +1,21 @@
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
 *utf8: always
 *foreground:  #C0C0C0
-*background:  #121212
+*background:  #272827
 *transparent:  true
-!*shading:  16
-*shading:  8
+*shading:  16
 *tintColor: #DDDDFF
 *blurRadius:  4
 *scrollBar:  false
+*mouseWheelScrollPage: false
+*saveLines: 5000
 
 *customization:  -color
 xterm*termName:  xterm-256color
@@ -15,8 +24,12 @@ urxvt*termName:  rxvt-unicode-256color
 xterm*faceName: Lucida Console
 xterm*faceSize: 10
 
-urxvt*font:   xft:DejaVu Sans Mono:size=09, xft:Monospace:size=08, xft:Courier New:size=10
-urxvt*boldFont:   xft:DejaVu Sans Mono:bold:size=09, xft:Monospace:bold:size=08, xft:Courier New:bold:size=10
+urxvt*font:   xft:DejaVu Sans Mono:size=12, xft:Monospace:size=10, xft:Courier New:size=12
+urxvt*boldFont:   xft:DejaVu Sans Mono:bold:size=12, xft:Monospace:bold:size=10, xft:Courier New:bold:size=12
+
+urxvt*depth: 32
+urxvt*background: [80]#000000
+
 
 ! red
 urxvt.color1: #cc2c2c

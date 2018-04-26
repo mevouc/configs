@@ -336,7 +336,7 @@ set_from_resource $term_color13    color13
 set_from_resource $term_color14    color14
 set_from_resource $term_color15    color15
 
-set $transparent #000006C0
+set $transparent #000008C0
 
 # Start i3bar to display a workspace bar (plus the system information i3status if available)
 bar {
@@ -356,12 +356,12 @@ bar {
     colors {
         background $transparent
         statusline #F9F9F9
-        separator  #454947
+        separator  #42424B
 
 #                      border  backgr. text
-        focused_workspace  #F9F9FA #D5D5F5 #292929
+        focused_workspace  #F9F9FA #D5D5E5 #080816
         active_workspace   #595B5B #353836 #FDF6E3
-        inactive_workspace #595B5B #A0161632 #E8E8EE
+        inactive_workspace #42424B #080816C0 #E8E8EE
         binding_mode       #D5D5D5 #2C2C2C #F9F9FA
         urgent_workspace   #FF1616 #881616 #D5D5D5
     }

@@ -1,6 +1,5 @@
 #!/bin/sh
 
-alias pacman="pacman --color auto"
 alias ls="exa --color-scale -s Name"
 alias la="ls -a"
 alias ll="ls -l -a --git"

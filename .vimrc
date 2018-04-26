@@ -70,9 +70,9 @@ highlight ColorColumn ctermbg=235 guibg=#262626
 set relativenumber
 
 set list
-set listchars=tab:>-,eol:¬,nbsp:¤
-highlight SpecialKey ctermfg=235 ctermbg=NONE guifg=#262626 guibg=NONE
-highlight NonText ctermfg=235 ctermbg=NONE guifg=#262626 guibg=NONE
+set listchars=tab:··,eol:¬,nbsp:¤
+highlight SpecialKey ctermfg=240 ctermbg=NONE guifg=#585858 guibg=NONE
+highlight NonText ctermfg=240 ctermbg=NONE guifg=#585858 guibg=NONE
 
 set mouse=a
 

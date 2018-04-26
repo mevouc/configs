@@ -12,7 +12,7 @@ Xft.lcdfilter: lcddefault
 *transparent:  true
 *shading:  16
 *tintColor: #DDDDFF
-*blurRadius:  4
+*blurRadius:  16
 *scrollBar:  false
 *mouseWheelScrollPage: false
 *saveLines: 5000

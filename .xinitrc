@@ -5,8 +5,6 @@ usermodmap=$HOME/.Xmodmap
 sysresources=/etc/X11/xinit/.Xresources
 sysmodmap=/etc/X11/xinit/.Xmodmap
 
-$HOME/scripts/map.sh
-
 DEFAULT_SESSION='i3 --shmlog-size 0'
 
 # merge in defaults and keymaps

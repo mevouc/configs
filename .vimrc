@@ -46,6 +46,7 @@ map <Leader> <Plug>(easymotion-prefix)
 Plugin 'tpope/vim-commentary'
 
 set hlsearch
+highlight Search ctermfg=DarkBlue ctermbg=White guifg=DarkBlue guibg=White
 
 filetype plugin indent on
 set shiftwidth=2
@@ -55,23 +56,23 @@ set smarttab
 set expandtab
 
 set cursorline
-highlight CursorLine ctermfg=NONE ctermbg=232 guifg=NONE guibg=#080808
+highlight CursorLine ctermbg=232 guibg=#080808
 
 set number
-set numberwidth=2
-highlight LineNr ctermbg=NONE guibg=NONE
+set numberwidth=4
+highlight LineNr ctermbg=Black guibg=Black
 highlight Normal ctermbg=NONE guibg=NONE
 
 set textwidth=80
 set colorcolumn=+1
-highlight ColorColumn guibg=#262626 ctermbg=235
+highlight ColorColumn ctermbg=235 guibg=#262626
 
 set relativenumber
 
 set list
 set listchars=tab:>-,eol:¬,nbsp:¤
-highlight SpecialKey ctermfg=232 ctermbg=NONE guifg=#080808 guibg=NONE
-highlight NonText ctermfg=DarkBlue ctermbg=NONE guifg=DarkBlue guibg=NONE
+highlight SpecialKey ctermfg=235 ctermbg=NONE guifg=#262626 guibg=NONE
+highlight NonText ctermfg=235 ctermbg=NONE guifg=#262626 guibg=NONE
 
 set mouse=a
 

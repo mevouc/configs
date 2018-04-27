@@ -1,9 +1,11 @@
 #!/bin/sh
-scrot "$HOME"/lock.png
-convert -colors 4 -scale 20% -scale 500% "$HOME"/lock.png \
-  -modulate 50,0  "$HOME"/lock_bw.png
+img=/tmp/lock_bg.png
+scrot=/tmp/lock.png
 
-img="$HOME"/lock_bw.png
+scrot "$scrot"
+convert -scale 20% -scale 500%  -colors 16 "$scrot" \
+     -modulate 80,50 "$img"
+
 letterEnteredColor=d23c3dff
 letterRemovedColor=d23c3dff
 passwordCorrect=00000000
@@ -24,5 +26,4 @@ i3lock \
     --verifcolor="$foreground" --timecolor="$foreground" --datecolor="$foreground" \
     --noinputtext="" --force-clock &> /dev/null
 
-rm $HOME/lock_bw.png
-rm $HOME/lock.png
+rm "$img" "$scrot"

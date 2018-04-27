@@ -242,6 +242,7 @@ for_window [class="Thus"] floating enable border normal
 for_window [class="Timeset-gui"] floating enable border normal
 for_window [class="(?i)virtualbox"] floating enable border normal
 for_window [class="Xfburn"] floating enable
+for_window [title="Screen Layout Editor"] floating enable
 
 # switch to workspace with urgent window automatically
 for_window [urgent=latest] focus
@@ -369,7 +370,7 @@ bar {
         focused_workspace  #F9F9FA #D5D5E5 #080816
         active_workspace   #595B5B #353836 #FDF6E3
         inactive_workspace #42424B #080816C0 #E8E8EE
-        binding_mode       #D5D5D5 #2C2C2C #F9F9FA
+        binding_mode       #42424B #080816FF #E8E8EE
         urgent_workspace   #FF1616 #881616 #D5D5D5
     }
 }

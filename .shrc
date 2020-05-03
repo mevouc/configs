@@ -42,6 +42,6 @@ else
   ME="$USER"
 fi
 
-PATH="$PATH:$HOME/scripts:$HOME/.bin"
+PATH="$PATH:$HOME/scripts:$HOME/.bin:$HOME/.local/bin"
 
 export TC="../src/tc"

@@ -9,14 +9,16 @@ set $alt Mod1
 # workspace_layout tabbed <stacking|tabbed>
 
 # Configure border style <normal|1pixel|pixel xx|none|pixel>
-new_window pixel 1
-new_float normal
+default_border pixel 1
+default_floating_border normal
+
+for_window [floating] border pixel 1
 
 # Hide borders
 hide_edge_borders none
 
 # change borders
-bindsym $mod+u border none
+bindsym $mod+u border pixel 1
 bindsym $mod+y border pixel 1
 bindsym $mod+n border normal
 
@@ -153,11 +155,11 @@ bindsym $mod+$alt+Right exec --no-startup-id xrandr --output eDP1 --rotate right
 # to display names or symbols instead of plain workspace numbers you can use
 # something like: set $ws1 1:mail
 #                 set $ws2 2:
-set $ws0 0:0 Code
+set $ws0 0:0 Work
 set $ws1 1
-set $ws2 2:2 Firefox
+set $ws2 2:2 Web
 set $ws3 3:3 Chat
-set $ws4 4:4 Thunderbird
+set $ws4 4:4 Mail
 set $ws5 5
 set $ws6 6
 set $ws7 7
@@ -212,7 +214,7 @@ bindsym $mod+Shift+0 move container to workspace $ws10; workspace $ws10
 
 # Open applications on specific workspaces
 assign [class="Firefox"] $ws2
-assign [class="Slack"] $ws3
+assign [class="Franz"] $ws3
 assign [class="Thunderbird"] $ws4
 
 # Open specific applications in floating mode
@@ -238,6 +240,7 @@ for_window [class="Qtconfig-qt4"] floating enable sticky enable border normal
 for_window [class="Simple-scan"] floating enable border normal
 for_window [class="(?i)System-config-printer.py"] floating enable border normal
 for_window [class="Skype"] floating enable border normal
+for_window [class="Spotify"] floating enable
 for_window [class="Thus"] floating enable border normal
 for_window [class="Timeset-gui"] floating enable border normal
 for_window [class="(?i)virtualbox"] floating enable border normal
@@ -380,13 +383,13 @@ bindsym $mod+m bar mode toggle
 
 # Theme colors
 # class                   border  backgr. text    indic.   child_border
-  client.focused          #556064 #556064 #80FFF9 #FDF6E3
-  client.focused_inactive #2F3D44 #2F3D44 #1ABC9C #454948
-  client.unfocused        #2F3D44 #2F3D44 #1ABC9C #454948
-  client.urgent           #CB4B16 #FDF6E3 #1ABC9C #268BD2
+  client.focused          #F9F9FA #D5D5E5 #080816 #FDF6E3
+  client.unfocused        #42424B #080816C0 #E8E8EE #454948
+  client.focused_inactive #42424B #080816C0 #E8E8EE #454948
+  client.urgent           #FF1616 #881616 #D5D5D5 #268BD2
   client.placeholder      #000000 #0c0c0c #ffffff #000000 
 
-  client.background       #2B2C2B
+  client.background       #2B2B2C
 
 #############################
 ### settings for i3-gaps: ###

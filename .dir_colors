@@ -140,6 +140,7 @@ STICKY 38;5;15;44 # dir with the sticky bit set (+t) and not other-writable
 .jpg 0;38;5;206
 .JPG 0;38;5;206
 .jpeg 0;38;5;206
+.jpe 0;38;5;206
 .gif 0;38;5;206
 .bmp 0;38;5;206
 .pbm 0;38;5;206

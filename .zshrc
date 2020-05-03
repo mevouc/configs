@@ -37,6 +37,6 @@ function prompt()
   fi
   FG_COLOR="7"
   export PS1="%F{233}$LINE%F{$FG_COLOR}
-┌─╴%F{45}$ME%F{227}@%F{119}%m%F{$FG_COLOR}: [ %F{227}%~%F{$FG_COLOR} ]
+┌─╴%F{45}$ME%F{227}@%F{203}%m%F{$FG_COLOR}: [ %F{227}%~%F{$FG_COLOR} ]
 └─(%F{${COL}}$CODE%F{$FG_COLOR})─[%F{12}%*%F{$FG_COLOR}]─(%F{203}%#%F{$FG_COLOR})─▶ "
 }

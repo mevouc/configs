@@ -2,7 +2,7 @@
 
 alias ls="exa --color-scale -s Name"
 alias la="ls -a"
-alias ll="ls -l -a --git"
+alias ll="ls -l -a -g --git"
 alias l="ls"
 alias tree="ls -T"
 alias cd-="cd -"

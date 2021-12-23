@@ -1,7 +1,3 @@
-[user]
-	email = meven.courouble@vouc.me
-
-
 [core]
 	excludesfile = ~/.gitignore
 [color]
@@ -18,11 +14,6 @@
 	autosetuprebase = always
 [push]
 	default = simple
-[sendemail]
-	smtpencryption = tls
-	smtpserver = smtp.office365.com
-	smtpserverport = 587
-	smtpuser = meven.courouble@epita.fr
 [user]
 	name = Meven Courouble
 	email = meven.courouble@vouc.me

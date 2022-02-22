@@ -2,7 +2,6 @@
 
 export KEYTIMEOUT=1
 export EDITOR="vim"
-export NNTPSERVER="news.epita.fr"
 
 function man() {
     LESS_TERMCAP_md=$'\e[01;38;5;45m' \
@@ -12,22 +11,6 @@ function man() {
     LESS_TERMCAP_ue=$'\e[0m' \
     LESS_TERMCAP_us=$'\e[00;38;5;227m' \
     command man "$@"
-}
-
-function backlight() {
-  n="$1"
-  if [ "$n" = 'max' ]; then
-    n=4882
-  elif [ "$n" = 'half' ]; then
-    n=2441
-  fi
-  sudo tee /sys/class/backlight/intel_backlight/brightness <<< "$n"
-}
-
-function butler-init() {
-  python3 -m venv env
-  . ./env/bin/activate
-  sudo pip install --extra-index-url https://pypi.acu.epita.fr/simple -r requirements.txt
 }
 
 
@@ -43,5 +26,3 @@ else
 fi
 
 PATH="$PATH:$HOME/scripts:$HOME/.bin:$HOME/.local/bin"
-
-export TC="../src/tc"

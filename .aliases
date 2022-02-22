@@ -1,6 +1,10 @@
 #!/bin/sh
 
-alias ls="exa --color-scale -s Name"
+if [ $(type exa 2> /dev/null) ]; then
+  alias ls="exa --color-scale -s Name"
+else
+  unalias ls 2>/dev/null
+fi
 alias la="ls -a"
 alias ll="ls -l -a -g --git"
 alias l="ls"
@@ -12,11 +16,13 @@ alias reboot="shutdown -r now"
 alias poweroff="sudo poweroff"
 alias off="shutdown -h now"
 alias halt="sudo halt"
-alias lock="~/configs/lock.sh"
-alias sshvoucme="ssh -o VisualHostKey=yes mevouc@sd-80356.dedibox.fr"
+alias lock="~/configs/scipts/lock.sh"
 alias cl="clear ; . ~/.zshrc"
-alias wifi="sudo wifi-menu"
-alias sl="sl -ac"
+if [ $(type sl 2> /dev/null) ]; then
+  alias sl="sl -ac"
+else
+  alias sl="ls"
+fi
 alias starwars="telnet towel.blinkenlights.nl"
 alias mntwindows="sudo mount -t ntfs /dev/sda4 /mnt/windows"
 alias st="git status -s"

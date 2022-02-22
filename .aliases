@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ $(type exa 2> /dev/null) ]; then
+if [[ $(type exa 2> /dev/null) ]]; then
   alias ls="exa --color-scale -s Name"
 else
   unalias ls 2>/dev/null
@@ -18,7 +18,7 @@ alias off="shutdown -h now"
 alias halt="sudo halt"
 alias lock="~/configs/scipts/lock.sh"
 alias cl="clear ; . ~/.zshrc"
-if [ $(type sl 2> /dev/null) ]; then
+if [[ $(type sl 2> /dev/null) ]]; then
   alias sl="sl -ac"
 else
   alias sl="ls"

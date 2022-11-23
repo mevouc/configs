@@ -2,11 +2,13 @@
 
 if [[ $(type exa 2> /dev/null) ]]; then
   alias ls="exa --color-scale -s Name"
+  alias ll="ls -l -a -g --git"
 else
   unalias ls 2>/dev/null
+  alias ls="ls --color=auto"
+  alias ll="ls -l -a"
 fi
 alias la="ls -a"
-alias ll="ls -l -a -g --git"
 alias l="ls"
 alias tree="ls -T"
 alias cd-="cd -"
@@ -16,7 +18,7 @@ alias reboot="shutdown -r now"
 alias poweroff="sudo poweroff"
 alias off="shutdown -h now"
 alias halt="sudo halt"
-alias lock="~/configs/scipts/lock.sh"
+alias lock="~/configs/scripts/lock.sh"
 alias cl="clear ; . ~/.zshrc"
 if [[ $(type sl 2> /dev/null) ]]; then
   alias sl="sl -ac"
@@ -32,9 +34,9 @@ alias psh="git push"
 alias pll="git pull --rebase"
 alias brch="git branch"
 alias chkt="git checkout"
-alias rbs="git rebase"
+alias rbs="git rebase --committer-date-is-author-date"
 alias gdb="gdb -q"
-alias lg="git log --pretty=format:'%C(bold yellow)%h%Creset -%C(bold red)%d%Creset %s %C(bold blue)<%an> %Creset%Cgreen(%ci)%Creset%n' --abbrev-commit --graph"
+alias lg="git log --pretty=format:'%C(yellow)%h%Creset -%Cred%d%Creset %s %C(bold blue)<%an> %Creset%Cgreen(%ci)%Creset%n' --abbrev-commit --graph"
 alias cdcl="cd ; cl"
 alias zathura="zathura --fork"
 alias py="python"

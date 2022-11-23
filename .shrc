@@ -13,16 +13,13 @@ function man() {
     command man "$@"
 }
 
-
 LINE=""
 for i in $(seq 80) ; do
   LINE="$LINE─"
 done
 
-if [ "$USER" = "courou_m" ] ; then
-  ME=mevouc
-else
-  ME="$USER"
+if [ -z "$USER" ] ; then
+  USER=$(basename $HOME)
 fi
 
 PATH="$PATH:$HOME/scripts:$HOME/.bin:$HOME/.local/bin"

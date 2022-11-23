@@ -40,12 +40,9 @@ colorscheme jellybeans
 
 Plugin 'ervandew/supertab'
 Plugin 'Raimondi/delimitMate'
-" Plugin 'Valloric/YouCompleteMe'
 Plugin 'easymotion/vim-easymotion'
 map <Leader> <Plug>(easymotion-prefix)
 Plugin 'tpope/vim-commentary'
-Plugin 'leafgarland/typescript-vim'
-autocmd BufNewFile,BufRead *.ts setlocal filetype=typescript
 
 set hlsearch
 highlight Search ctermfg=DarkBlue ctermbg=White guifg=DarkBlue guibg=White
@@ -69,16 +66,14 @@ set textwidth=80
 set colorcolumn=+1
 highlight ColorColumn ctermbg=235 guibg=#262626
 
-set relativenumber
+set number relativenumber
 
 set list
-set listchars=tab:··,eol:¬,nbsp:⍽
+set listchars=tab:··,trail:▒,eol:¬,nbsp:¤
 highlight SpecialKey ctermfg=240 ctermbg=NONE guifg=#585858 guibg=NONE
 highlight NonText ctermfg=240 ctermbg=NONE guifg=#585858 guibg=NONE
 
 set mouse=a
-
-" set fdm=syntax
 
 map <C-K> :pyf /usr/share/clang/clang-format.py<cr>
 imap <C-K> <c-o>:pyf /usr/share/clang/clang-format.py<cr>

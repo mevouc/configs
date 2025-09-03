@@ -26,13 +26,25 @@ prompt ()
 
   current_branch="$(git branch --show-current 2> /dev/null)"
   if [ "$?" == 0 ] ; then
-    git_branch=" - \[\e[0;38;5;12m\]${current_branch}\[\e[0m\]"
+    git_status="$(git --no-optional-locks status --porcelain 2> /dev/null)"
+
+    if [ -z "${git_status}" ] ; then
+      branch_color="12"
+    else
+      if echo "${git_status}" | grep -q "^ M\|^??\|^ D" ; then
+        branch_color="203"
+      else
+        branch_color="119"
+      fi
+    fi
+
+    branch_prompt=" - \[\e[0;38;5;${branch_color}m\]${current_branch}\[\e[0m\]"
   else
-    git_branch=""
+    branch_prompt=""
   fi
 
 export PS1="\[\e[0;38;5;233m\]$LINE\[\e[0m\]
-┌─╴\[\e[0;38;5;45m\]$USER\[\e[0;38;5;227m\]@\[\e[0;38;5;${host_col}m\]\h\[\e[0m\]: [ \[\e[0;38;5;227m\]\w\[\e[0m\]${git_branch} ]
+┌─╴\[\e[0;38;5;45m\]$USER\[\e[0;38;5;227m\]@\[\e[0;38;5;${host_col}m\]\h\[\e[0m\]: [ \[\e[0;38;5;227m\]\w\[\e[0m\]${branch_prompt} ]
 └─(\[\e[0;38;5;${return_col}m\]$code\[\e[0m\])─[\[\e[0;38;5;12m\]\t\[\e[0m\]]─(\[\e[0;38;5;203m\]\$\[\e[0m\])─▶ \[\e[1m\]"
 }
 trap 'printf "\e[0m" > /dev/tty' DEBUG

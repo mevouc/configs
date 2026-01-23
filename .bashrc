@@ -18,7 +18,8 @@ prompt ()
     return_col="203"
   fi
 
-  if [ "$HOSTNAME" == "mordor" ] || ["$HOSTNAME" == "numenor" ]; then
+  # color hostname depending on SSH status
+  if [ -n "$SSH_CLIENT" ] || [ -n "$SSH_TTY" ]; then
     host_col="203"
   else
     host_col="119"

@@ -1,32 +1,43 @@
 #!/bin/sh
 
-if [[ $(type exa 2> /dev/null) ]]; then
-  alias ls="exa --color-scale -s Name"
+if [[ $(type eza 2> /dev/null) ]]; then
+  alias ls="eza --color-scale -s Name"
   alias ll="ls -l -a -g --git"
 else
-  unalias ls 2>/dev/null
-  alias ls="ls --color=auto"
-  alias ll="ls -l -a"
+  if [[ $(type exa 2> /dev/null) ]]; then
+    alias ls="exa --color-scale -s Name"
+    alias ll="ls -l -a -g --git"
+  else
+    unalias ls 2>/dev/null
+    alias ls="ls --color=auto"
+    alias ll="ls -l -a"
+  fi
 fi
+
 alias la="ls -a"
 alias l="ls"
 alias tree="ls -T"
+
 alias cd-="cd -"
 alias cd..="cd .."
+
 alias grep="grep --color"
+
 alias reboot="shutdown -r now"
 alias poweroff="sudo poweroff"
 alias off="shutdown -h now"
 alias halt="sudo halt"
+
 alias lock="~/configs/scripts/lock.sh"
-alias cl="clear ; . ~/.zshrc"
+
 if [[ $(type sl 2> /dev/null) ]]; then
   alias sl="sl -ac"
 else
   alias sl="ls"
 fi
-alias starwars="telnet towel.blinkenlights.nl"
+
 alias mntwindows="sudo mount -t ntfs /dev/sda4 /mnt/windows"
+
 alias st="git status -s"
 alias add="git add"
 alias cmt="git commit"
@@ -36,8 +47,8 @@ alias pll="git pull --rebase"
 alias brch="git branch"
 alias chkt="git checkout"
 alias rbs="git rebase --committer-date-is-author-date"
-alias gdb="gdb -q"
 alias lg="git log --pretty=format:'%C(yellow)%h%Creset -%Cred%d%Creset %s %C(bold blue)<%an> %Creset%Cgreen(%ci)%Creset%n' --abbrev-commit --graph"
-alias cdcl="cd ; cl"
-alias zathura="zathura --fork"
+
+alias gdb="gdb -q"
 alias py="python"
+

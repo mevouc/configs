@@ -18,7 +18,7 @@ prompt ()
     return_col="203"
   fi
 
-  if [ "$HOSTNAME" == "mordor" ] ; then
+  if [ "$HOSTNAME" == "mordor" ] || ["$HOSTNAME" == "numenor" ]; then
     host_col="203"
   else
     host_col="119"

@@ -9,20 +9,27 @@ source $HOME/.shrc
 
 PROMPT_COMMAND=prompt
 
+red="203"
+green="119"
+blue="12"
+yellow="227"
+cyan="45"
+dark_gray="233"
+
 prompt ()
 {
   local code="$?"
   if [ "$code" == 0 ] ; then
-    return_col="119"
+    return_col="$green"
   else
-    return_col="203"
+    return_col="$red"
   fi
 
   # color hostname depending on SSH status
   if [ -n "$SSH_CLIENT" ] || [ -n "$SSH_TTY" ]; then
-    host_col="203"
+    host_col="$red"
   else
-    host_col="119"
+    host_col="$green"
   fi
 
   current_branch="$(git branch --show-current 2> /dev/null)"
@@ -30,12 +37,12 @@ prompt ()
     git_status="$(git --no-optional-locks status --porcelain 2> /dev/null)"
 
     if [ -z "${git_status}" ] ; then
-      branch_color="12"
+      branch_color="$cyan"
     else
       if echo "${git_status}" | grep -q "^ M\|^??\|^ D" ; then
-        branch_color="203"
+        branch_color="$red"
       else
-        branch_color="119"
+        branch_color="$green"
       fi
     fi
 
@@ -44,8 +51,8 @@ prompt ()
     branch_prompt=""
   fi
 
-export PS1="\[\e[0;38;5;233m\]$LINE\[\e[0m\]
-┌─╴\[\e[0;38;5;45m\]$USER\[\e[0;38;5;227m\]@\[\e[0;38;5;${host_col}m\]\h\[\e[0m\]: [ \[\e[0;38;5;227m\]\w\[\e[0m\]${branch_prompt} ]
-└─(\[\e[0;38;5;${return_col}m\]$code\[\e[0m\])─[\[\e[0;38;5;12m\]\t\[\e[0m\]]─(\[\e[0;38;5;203m\]\$\[\e[0m\])─▶ \[\e[1m\]"
+export PS1="\[\e[0;38;5;${dark_gray}m\]$LINE\[\e[0m\]
+┌─╴\[\e[0;38;5;${cyan}m\]$USER\[\e[0;38;5;${yellow}m\]@\[\e[0;38;5;${host_col}m\]\h\[\e[0m\]: [ \[\e[0;38;5;${yellow}m\]\w\[\e[0m\]${branch_prompt} ]
+└─(\[\e[0;38;5;${return_col}m\]${code}\[\e[0m\])─[\[\e[0;38;5;${blue}m\]\t\[\e[0m\]]─(\[\e[0;38;5;${red}m\]\$\[\e[0m\])─▶ \[\e[1m\]"
 }
 trap 'printf "\e[0m" > /dev/tty' DEBUG

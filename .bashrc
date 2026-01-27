@@ -16,6 +16,16 @@ yellow="227"
 cyan="45"
 dark_gray="233"
 
+color ()
+{
+  printf "\[\e[0;38;5;${1}m\]"
+}
+
+white ()
+{
+  printf "\[\e[0m\]"
+}
+
 prompt ()
 {
   local code="$?"
@@ -46,13 +56,13 @@ prompt ()
       fi
     fi
 
-    branch_prompt=" - \[\e[0;38;5;${branch_color}m\]${current_branch}\[\e[0m\]"
+    branch_prompt=" - $(color ${branch_color})${current_branch}$(white)"
   else
     branch_prompt=""
   fi
 
-export PS1="\[\e[0;38;5;${dark_gray}m\]$LINE\[\e[0m\]
-┌─╴\[\e[0;38;5;${cyan}m\]$USER\[\e[0;38;5;${yellow}m\]@\[\e[0;38;5;${host_col}m\]\h\[\e[0m\]: [ \[\e[0;38;5;${yellow}m\]\w\[\e[0m\]${branch_prompt} ]
-└─(\[\e[0;38;5;${return_col}m\]${code}\[\e[0m\])─[\[\e[0;38;5;${blue}m\]\t\[\e[0m\]]─(\[\e[0;38;5;${red}m\]\$\[\e[0m\])─▶ \[\e[1m\]"
+  export PS1="$(color ${dark_gray})$LINE $(white)
+┌─╴$(color ${cyan})$USER$(color ${yellow})@$(color ${host_col})\h$(white): [ $(color ${yellow})\w$(white)${branch_prompt} ]
+└─($(color ${return_col})${code}$(white))─[$(color ${blue})\t$(white)]─($(color ${red})\$$(white))─▶ \[\e[1m\]"
 }
 trap 'printf "\e[0m" > /dev/tty' DEBUG

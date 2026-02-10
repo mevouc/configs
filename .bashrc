@@ -65,4 +65,4 @@ prompt ()
 ┌─╴$(color ${cyan})$USER$(color ${yellow})@$(color ${host_col})\h$(white): [ $(color ${yellow})\w$(white)${branch_prompt} ]
 └─($(color ${return_col})${code}$(white))─[$(color ${blue})\t$(white)]─($(color ${red})\$$(white))─▶ \[\e[1m\]"
 }
-trap 'printf "\e[0m" > /dev/tty' DEBUG
+trap '[ -t 0 ] && printf "\e[0m" > /dev/tty' DEBUG # restore white color for interactive shell

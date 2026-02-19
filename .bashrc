@@ -62,7 +62,7 @@ prompt ()
   fi
 
   export PS1="$(color ${dark_gray})$LINE $(white)
-┌─╴$(color ${cyan})$USER$(color ${yellow})@$(color ${host_col})\h$(white): [ $(color ${yellow})\w$(white)${branch_prompt} ]
-└─($(color ${return_col})${code}$(white))─[$(color ${blue})\t$(white)]─($(color ${red})\$$(white))─▶ \[\e[1m\]"
+╭─╴$(color ${cyan})$USER$(color ${yellow})@$(color ${host_col})\h$(white): [ $(color ${yellow})\w$(white)${branch_prompt} ]
+╰─($(color ${return_col})${code}$(white))─[$(color ${blue})\t$(white)]─($(color ${red})\$$(white))─❯ \[\e[1m\]"
 }
 trap '[ -t 0 ] && printf "\e[0m" > /dev/tty' DEBUG # restore white color for interactive shell

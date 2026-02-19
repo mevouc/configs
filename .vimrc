@@ -11,7 +11,7 @@
 runtime! archlinux.vim
 
 " If you prefer the old-style vim functionalty, add 'runtime! vimrc_example.vim'
-" Or better yet, read /usr/share/vim/vim74/vimrc_example.vim or the vim manual
+" Or better yet, read /usr/share/vim/vim74/vimrc_example.vim or the vim manual,
 " and configure vim to your own liking!
 
 set encoding=utf-8 fileencodings=
@@ -65,6 +65,7 @@ highlight Normal ctermbg=NONE guibg=NONE
 set textwidth=80
 set colorcolumn=+1
 highlight ColorColumn ctermbg=235 guibg=#262626
+set formatoptions-=t " disable auto-wrapping when reaching textwidth
 
 set number relativenumber
 

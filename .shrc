@@ -14,12 +14,12 @@ function man() {
 }
 
 LINE=""
-for i in $(seq 80) ; do
+for i in {1..80} ; do
   LINE="$LINE─"
 done
 
 if [ -z "$USER" ] ; then
-  USER=$(basename $HOME)
+  USER="${HOME##*/}"
 fi
 
 PATH="$PATH:$HOME/scripts:$HOME/.bin:$HOME/.local/bin"

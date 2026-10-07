@@ -1,10 +1,10 @@
 #!/bin/sh
 
-if [[ $(type eza 2> /dev/null) ]]; then
+if type eza > /dev/null 2>&1 ; then
   alias ls="eza --color-scale -s Name"
   alias ll="ls -l -a -g --git"
 else
-  if [[ $(type exa 2> /dev/null) ]]; then
+  if type exa > /dev/null 2>&1 ; then
     alias ls="exa --color-scale -s Name"
     alias ll="ls -l -a -g --git"
   else
@@ -30,7 +30,7 @@ alias halt="sudo halt"
 
 alias lock="~/configs/scripts/lock.sh"
 
-if [[ $(type sl 2> /dev/null) ]]; then
+if type sl > /dev/null 2>&1 ; then
   alias sl="sl -ac"
 else
   alias sl="ls"
